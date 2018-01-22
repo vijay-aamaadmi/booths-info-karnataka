@@ -1,219 +1,226 @@
 AC NO,Part NO,Polling Station Name(Kannada),Polling Station Name(English)
 168,1,"ಅಂಗನವಾಡಿ ಕೇಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ, ವಿ ಎಸ್‌ ಗಾರ್ಡನ್‌ ಜೆ ಜೆ ನಗರ,","Aganawadi Kendra  Room No, V S Gardane J J Nagara,"
-168,2,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಬೇಲಿ ಮಠದ ರಸ್ತೆ, ರೂಂ 1","Govt. Model Primary School, Beli Mattada Road, room No 1"
-168,3,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಬೇಲಿ ಮಠದ ರಸ್ತೆ, ರೂಂ ನಂ 2","Govt. Model Primary School, Beli Mattada Road, Room No 2"
-168,4,"ಸರ್ಕಾರಿ ಮಾದರಿ ತಮಿಳು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಬೇಲಿ ಮಠದ ರಸ್ತೆ,","Govt. Model Tamil Primary School, Beli Mattada Road,"
-168,5,"ಶಾರದ ನಿಕೇತನ ಇಂಗ್ಲಿಷ್ ಸ್ಕೂಲ್, ದೇವರ ಗುಡಿ ಬೀದಿ ರೂಂ ನಂ 1","Sharada Nikethana English School,  Devara Gudi Bedi Room No 1"
-168,6,"ಶಾರದ ನಿಕೇತನ ಇಂಗ್ಲಿಷ್ ಸ್ಕೂಲ್, ದೇವರ ಗುಡಿ ಬೀದಿ ರೂಂ ನಂ 2","Sharada Nikethana English School,  Devara Gudi Bedi Room No 2"
-168,7,"ಬಿ‌ಬಿ‌ಎಮ್‌ಪಿ ಟೈಲರಿಂಗ್ ಸೆಂಟರ್, ಬೀರದೇವರ ಗುಡಿ ಬೀದಿ ರೂಂ ನಂ 1","BBMP Tailoring Center, Beera Devara Gudi Bedi Room No 1"
-168,8,"ಬಿ‌ಬಿ‌ಎಮ್‌ಪಿ ಟೈಲರಿಂಗ್ ಸೆಂಟರ್, ಬೀರದೇವರ ಗುಡಿ ಬೀದಿ ರೂಂ ನಂ 2","BBMP Tailoring Center, Beera Devara gudi beedi Room No 2"
-168,9,"ಬಿ.ಬಿ. ಎಂ. ಪಿ. ನರ್ಸರಿ ಶಾಲೆ, ಬೀರದೇವರ ಗುಡಿ ಬೀದಿ  ರಣಾಸಿಂಗ್ ಪೇಟೆ ರೂಂ ನಂ 1","B.B. M. P. Nursery School, Beera Devara temple Street Ranasingh pet Room No 1"
-168,10,"ರಾಮಕೃಷ್ಣ  ಸ್ವತಂತ್ರನಂದ  ಹೈಯರ್  ಪ್ರೈಮರಿ  ಸ್ಕೂಲ್, ಜಟಕ ನಿಲ್ದಾಣ ರೂಂ ನಂ 1","Ramakrishna Swathantrananda Higher Primary School, Cart Stand Room No 1"
-168,11,"ರಾಮಕೃಷ್ಣ ಸ್ವತಂತ್ರನಂದ ಹೈಯರ್ ಪ್ರೈಮರಿ ಸ್ಕೂಲ್, ಜಟಕ ನಿಲ್ದಾಣ ರೂಂ ನಂ 2","Ramakrishna Swathantrananda Higher Primary School, Cart Stand Room No 2"
-168,12,"ರಾಮಕೃಷ್ಣ ಸ್ವತಂತ್ರನಂದ ಹೈಯರ್ ಪ್ರೈಮರಿ ಸ್ಕೂಲ್, ಜಟಕ ನಿಲ್ದಾಣ ರೂಂ ನಂ 3","Ramakrishna Swathanrananda Higher Primary School, Cart Stand Room No 3"
-168,13,"ರಾಮಕೃಷ್ಣ ಸ್ವತಂತ್ರಾನಂದ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಜಟಕ ನಿಲ್ದಾಣ ರೂಂ ನಂ 4","Ramakrishna Swathantrananda Higher Primary School, Cart Stand Room No 4"
-168,14,"ಸರ್ಕಾರಿ ಸಂಯುಕ್ತ ಪ್ರೌಢ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, ಡಾ. ಟಿ.ಸಿ.ಎಂ. ರಾಯನ್ ರೋಡ್ , ಭಕ್ಷಿ ಗಾಡರನ್","Govt. Samyuktha High School, Room No 1 Dr. T.C.M Royan Road Bakshi Garden"
-168,15,"ಸರ್ಕಾರಿ ಸಂಯುಕ್ತ  ಪ್ರೌಢ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ2, ಡಾ. ಟಿ.ಸಿ.ಎಂ. ರಾಯನ್ ರೋಡ್ , ಭಕ್ಷಿ ಗಾಡರನ್",Govt. Samyuktha High School Room No 2 Dr. T.C.M Royan road Bakshi Garden
-168,16,"ಸರ್ಕಾರಿ ಸಂಯುಕ್ತ  ಪ್ರೌಢ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3, ಡಾ. ಟಿ.ಸಿ.ಎಂ. ರಾಯನ್ ರೋಡ್ , ಭಕ್ಷಿ ಗಾಡರನ್","Govt. Somyuktha High School, Room No 3 Dr. T.C.M Royan Road Bakshi Garden"
-168,17,"ರಮಾಬಾಯಿ ರೀಡಿಂಗ್‌ ಸೆಂಟರ್‌,  3ನೇ ಅಡ್ಡರಸ್ತೆ, ಸಿದ್ದರಥನಗರ,","Ramabai Reading Center, 3rd Cross Siddarthanagara"
-168,18,"ಡಾ. ಅಂಬೇಡ್ಕರ್‌ ಭವನ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ",Dr. Ambedkar Bhavan Room No 1 Venkataswamy J J R Nagar
-168,19,ಡಾ. ಅಂಬೇಡ್ಕರ್‌ ಭವನ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ,Dr. Ambedkar Bhavan Room No 2 Venkataswamy Garden J J R Nagar
-168,20,ಡಾ. ಅಂಬೇಡ್ಕರ್‌ ಭವನ ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ,Dr. Ambedkar Bhavan Room No 3 Venkataswamy Garden J J R Nagar
-168,21,ಹೊಲಿಗೆ ತರಬೇತಿ ಕೇಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ  1 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ,"Tailoring Centre, Room No 1 Venkataswamy Garden J J R Nagar"
-168,22,ಹೊಲಿಗೆ ತರಬೇತಿ ಕೇಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ,"Tailoring Centre, Room No 2 Venkataswamy Garden J J R Nagar"
-168,23,"ಸಮುದಾಯ ಭವನ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ","Community Hall, Room No.1, Venkataswamy Garden J J R Nagar"
-168,24,"ಸಮುದಾಯ ಭವನ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ","Community Hall, Room No.2, Venkataswamy Garden J J R Nagar"
-168,25,"ಸಮುದಾಯ ಭವನ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ","Community Hall, Room No.3 Venkataswamy Garden J J R Nagar"
-168,26,"ಸಮುದಾಯ ಭವನ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ","Community Hall, Room No.4 Venkataswamy Garden J J R Nagar"
-168,27,ಮಲ್ಲಿಕಾರ್ಜುನ ಕನ್ನಡ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 10ನೇ ಮುಖ್ಯ ರಸ್ತೆ ಪಾದರಾಯನಪುರ,"Mallikarjun Kannada Higher Primary School,  Room No 1 10th Main road Padarayanapura"
-168,28,ಮಲ್ಲಿಕಾರ್ಜುನ ಕನ್ನಡ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 10ನೇ ಮುಖ್ಯ ರಸ್ತೆ ಪಾದರಾಯನಪುರ,"Mallikarjun Kannada Higher Primary School Room No 2, 10th Main Road Padarayanapura"
-168,29,"ವೀನಸ್‌ ಪಬ್ಲಿಕ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, 13ನೇ ಅಡ್ಡರಸ್ತೆ ಪಾದರಾಯನಪುರ","Vinas Public School, Room No.1, 13th Cross Padarayanapura"
-168,30,"ವೀನಸ್‌  ಪಬ್ಲಿಕ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 13ನೇ ಅಡ್ಡರಸ್ತೆ ಪಾದರಾಯನಪುರ","Vinas Public School, Room No.2 13th Cross Padarayanapura"
-168,31,ಭಾರತ್‌ ವೆಲ್‌ಫೇರ್‌ ಅಸೋಸಿಯೇಷನ್‌ಸ್‌  ಪೈಪ್ ಲೈನ್ ರಸ್ತೆ ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ ಬೆಂಗಳೂರು,"Bharath Welfare Association,  Pipe Line West Of Padarayanapura Bangalore"
-168,32,"ಅಜೀಜ್‌  ಜಿನತ್‌ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ನಂ 1 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ","Azez Jinath Education Society, Room No 1 2nd Main Road west padarayanapura"
-168,33,"ಅಜೀಜ್‌ ಜೀನತ್‌ ವಿದ್ಯಾಸಂಸ್ಥೆ.  ಕೋಠಡಿ ಸಂಖ್ಯೆ 2 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ",Azez Jinath  Education Society  Room No 2 2nd Main ROad west padarayanapura
-168,34,"ಅಜೀಜ್‌ ಜೀನಾತ್‌ ವಿದ್ಯಾಸಂಸ್ಥೆ.,ಕೋಠಡಿ ಸಂಖ್ಯೆ 3 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ","Azez Jinath Education Society,Room No 3 2nd main road west padarayanapura"
-168,35,"ಅಜೀಜ್‌  ಜೀನತ್‌ ವಿದ್ಯಾಸಂಸ್ಥೆ.   ಕೋಠಡಿ ಸಂಖ್ಯೆ 4 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ",Azez Jinath  Education Society Room No 4 2nd main road west padarayanapura
-168,36,ಹೆಚ್‌. ಎಂ.ಎಸ್‌. ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 1ನೇ ಮುಖ್ಯರಸ್ತೆ 5ನೇ ಅಡ್ಡರಸ್ತೆ ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ,"HMS School, Room No 1 1st Main road 5th cross west padarayanapura"
-168,37,ಹೆಚ್‌. ಎಂ. ಎಸ್‌. ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 1ನೇ ಮುಖ್ಯರಸ್ತೆ 5ನೇ ಅಡ್ಡರಸ್ತೆ ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ,"H. M. S. School Room No 2, 1st main road 5th cross west padarayanapura"
-168,38,"ಸಾಲೋಮಾನ್‌ ಆಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 15/1, 7ನೇ ಅಡ್ಡರಸ್ತೆ ವಿನಾಯಕನಗರ","Salomon English School, room no 1 15/1, 7th cross Vinayakanagar"
-168,39,"ಸಾಲೋಮಾನ್‌ ಆಂಗ್ಲ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 15/1, 7ನೇ ಅಡ್ಡರಸ್ತೆ ವಿನಾಯಕನಗರ","Saloman English School Room No 2 15/1, 7th cross Vinayakanagar"
-168,40,"ನಗರ ಪಾಲಿಕೆ ಸಮುದಾಯ ಭವನ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, 20ನೇ ಮುಖ್ಯರಸ್ತೆ ದೇವರಾಜ ಅರಸು ನಗರ",Corporation Community Hall Room No 1 20th Main road Devaraja arsu nagar
-168,41,"ಸನ್‌ ಶೈನ್‌ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ರೂಂ ನಂ  1 9ನೇ ಅಡ್ಡರಸ್ತೆ  ಪಾದರಾಯನಪುರ","Sunshine  education Society, Room No 1 9th cross padarayanapura"
-168,42,"ಸನ್‌ ಶೈನ್‌ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 9ನೇ ಅಡ್ಡರಸ್ತೆ  ಪಾದರಾಯನಪುರ","Sunshine Education Society, Room No 2 9th cross padarayanapura"
-168,43,"ಆರ್‌. ಎಂ. ವಿದ್ಯಾಸಂಸ್ಥೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,  9ನೇ ಅಡ್ಡರಸ್ತೆ  ಪಾದರಾಯನಪುರ","R M Education Society,Room No 1, 9th cross padarayanapura"
-168,44,"ಆರ್‌. ಎಂ. ವಿದ್ಯಾಸಂಸ್ಥೆ, ರೂಂ ನಂ  2 9ನೇ ಅಡ್ಡರಸ್ತೆ  ಪಾದರಾಯನಪುರ","R.M.Education Society, Room No 2 9th cross padarayanapura"
-168,45,"ಅಂಬೇಡ್ಕರ್‌ ವಾಚನಾಲಯ, ರೂಂ ನಂ 1 15ನೇ ಅಡ್ಡರಸ್ತೆ ದೇವರಾಜು ಅರಸು ನಗರ",Ambedkar Vachanalaya Room No 1 15th cross Devaraju Arasu nagar
-168,46,"ಅಂಬೇಡ್ಕರ್‌ ವಾಚನಾಲಯ ಅಂಬೇಡ್ಕರ್‌, ರೂಂ ನಂ 2 15ನೇ ಅಡ್ಡರಸ್ತೆ ದೇವರಾಜು ಅರಸು ನಗರ","Ambedkar Vachanalaya, Room No 2 15th Cross Devaraju arasu nagar"
-168,47,"ತಿಲಕ್‌ ಪಾಠಶಾಲೆ, ರೂಂ ನಂ 1 15ನೇ ಅಡ್ಡರಸ್ತೆ ದೇವರಾಜು ಅರಸು ನಗರ","Thilak School, Room No 1 15th Cross Devaraju arasu nagar"
-168,48,"ತಿಲಕ್‌ ಪಾಠಶಾಲೆ,  ಕೊಠಡಿ ನಂ 2 15ನೇ ಅಡ್ಡರಸ್ತೆ ದೇವರಾಜು ಅರಸು ನಗರ","Thilak School, Room No 2 15th cross Devaraju arasu nagar"
-168,49,ನಗರಪಾಲಿಕೆ ಸಮುದಾಯ ಭವನ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  20ನೇ ಅಡ್ಡರಸ್ತೆ ದೇವರಾಜು ಅರಸು ನಗರ,Nagarapalike Cammunity Hal  Room No 2 20th Cross Devaraju arasu nagar
-168,50,"ಕರ್ನಾಟಕ ಶಾದಿ ಕಮಿಟಿ ವಿದ್ಯಾಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ, 1 9ನೇ ಅಡ್ಡರಸ್ತೆ ಪಾದರಾಯನಪುರ","Karnataka Shadhi Commiti Education Society, Room No 1 9th cross padarayanapura"
-168,51,"ಕರ್ನಾಟಕ ಶಾದಿ ಕಮಿಟಿ ವಿದ್ಯಾಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ  2 9ನೇ ಅಡ್ಡರಸ್ತೆ ಪಾದರಾಯನಪುರ",Karnataka Shadhi Commiti Vidya  Society Room No 2 9th cross padarayanapura
-168,52,"ಕಿಂಟೋ ಕಾನ್ವೆಂಟ್‌ ವಿದ್ಯಾಸಂಸ್ಥೆ,, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 42 5ನೇ ಅಡ್ಡರಸ್ತೆ ವಿನಾಯಕನಗರ","Kinto Convent Education Society, Room 1 42, 5th cross Vinayakanagar"
-168,53,ಕಿಂಟೋ ಕಾನ್ವೆಂಟ್‌ ಆಂಗ್ಲಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2   42 5ನೇ ಅಡ್ಡರಸ್ತೆ ವಿನಾಯಕನಗರ,Kinto Convent English School Room No 2 42 5th cross vinayakanagar
-168,54,ಕಿಂಟೋ ಕಾನ್ವೆಂಟ್‌ ಆಂಗ್ಲಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 42 5ನೇ ಅಡ್ಡರಸ್ತೆ ವಿನಾಯಕನಗರ,.Kinto Convent Education English School Room No 3 42 5th cross vinayakanagar
-168,55,ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಮತ್ತು ಪ್ರೌಢಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,Govt Primary And Highschool Room No 1 5th Main road padarayanapura
-168,56,ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಮತ್ತು ಪ್ರೌಢಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,Govt Primary And Highschool Room No 2 5th main road padarayanapura
-168,57,ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಮತ್ತು ಪ್ರೌಢಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,Govt Primary And Highschool Room No 3 5th main road padarayanapura
-168,58,"ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಮತ್ತು ಪ್ರೌಢಶಾಲೆ,  ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ",Govt Primary And Highschool Room No 4 5th main road padarayanapura
-168,59,ಜವಹರ್‌ ಮೆಮೋರಿಯಲ್‌ ಆಂಗ್ಲ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ  1 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,Jawahar Memorial English School Room No 1 5th main road padarayanapura
-168,60,ಜವಹರ್‌ ಮೆಮೋರಿಯಲ್‌ ಆಂಗ್ಲ ಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,Jawahar Memorial English School Room No 2 5th main road padarayanapura
-168,61,"ನ್ಯೂ ಟೌನ್‌ ಆಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ1 1ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ","New Town English School, Room No 1 1st main road padarayanapura"
-168,62,ನ್ಯೂ ಟೌನ್‌ ಆಂಗ್ಲ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  1ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,NewTown English School Room No 2 1st main road padarayanapura
-168,63,"ನ್ಯೂ ಟೌನ್‌ ಆಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 1ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ","New Town English School, Room No 3 1st main road Padarayanapura"
-168,64,"ನ್ಯೂ ಟೌನ್‌ ಆಂಗ್ಲ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 4 1ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ","New Town English School , Room No - 4 1st main road padarayanapura"
-168,65,ಓಪನ್‌ ಥಿಯೇಟರ್‌ ವಾರ್ಡ್‌ ಕಛೇರಿ  ಸಂಗಂ ಸರಕಲ್,Open Theater Ward Office  Sangam Circle
-168,66,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 1 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No - 1 Sangam Circle JJR Nagar"
-168,67,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 2 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Manahanagara Palike Girls High School  , Room No 2 Sangam Circle JJR Nagar"
-168,68,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 3 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No - 3 Sangam Circle JJR Nagar"
-168,69,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 6 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No - 6 Sangam Circle JJR Nagar"
-168,70,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ  4 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No 4 Sangam Circle JJR Nagar"
-168,71,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No 5 Sangam Circle JJR Nagar"
-168,72,"ನಮೂರ ಮಾಧರಿ ಪ್ರಥಮಿಕ ಶಾಲೆ  ಸಂಗಂ ಸಕರಲ್ ಜೆಜೆಆರ್ ನಗರ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,","Govt Model Primary School  , Room No - 1 Sangam Circle J J R nagar"
-168,73,"ನಮೂರ ಮಾಧರಿ ಪ್ರಥಮಿಕ ಶಾಲೆ  ಸಂಗಂ ಸಕರಲ್ ಜೆಜೆಆರ್ ನಗರ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,",Govt Model Primary School Sangum circle J J R Nagar room No 2
-168,74,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 2 J J R Nagar Main road"
-168,75,"ನಮೂರ ಮಾಧರಿ ಪ್ರಥಮಿಕ ಶಾಲೆ  ಸಂಗಂ ಸಕರಲ್ ಜೆಜೆಆರ್ ನಗರ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 3,",Govt Model primary School Sangum circle room No 3
-168,76,ನಮೂರ ಮಾಧರಿ ಪ್ರಥಮಿಕ ಶಾಲೆ  ಸಂಗಂ ಸಕರಲ್ ಜೆಜೆಆರ್ ನಗರ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 4,Govt. Model primary School Sangum circle J J R nagar Room 4
-168,77,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 9 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 9 J J R Nagar Main road"
-168,78,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 3 J J R Nagar Main road"
-168,79,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 5 J J R Nagar Main road"
-168,80,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 6 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 6 J J R Nagar Main road"
-168,81,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 7 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room NO 7 JJR Nagar main road"
-168,82,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ. 8 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No. 8 JJR Nagar Main road"
-168,83,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 10 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No - 10 JJR Nagar main road"
-168,84,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 11 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 11 JJR Nagar main road"
-168,85,"ಕಾರ್ಪೋರೇಷನ್‌ ನರ್ಸರಿ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಅಶ್ವಥ್ ಕಟ್ಟೆ ಜೆಜೆಆರ್ ನಗರ","Corporation Nursery School , Room No 1 Ashwath katte JJR Nagar"
-168,86,"ಕಾರ್ಪೋರೇಷನ್‌ ನರ್ಸರಿ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಅಶ್ವಥ್ ಕಟ್ಟೆ ಜೆಜೆಆರ್ ನಗರ","Corporation Nursery School , Room No 2 Ashwath katte JJR Nagar"
-168,87,"ಐಪಿಪಿ, ಆರೋಗ್ಯ ಕೇಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  ಅಂಜನಪ್ಪ ಗಾರಡನ್","IPP, Health Center Room no 1 Anjanappa garden"
-168,88,"ನಗರ ಪಾಲಿಕೆ ನರ್ಸರಿ ಶಾಲೆ,ಫ್ಲವರ್ ಗಾರಡನ್",Nagara Paalike Nursery School Flower Garden
-168,89,ಬಿ‌ಬಿ‌ಎಮ್‌ಪಿ  ಹೆಲ್ತ್  ಸೆಂಟರ್  (ಐ‌ಪಿ‌ಪಿ 8) ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ಉತ್ತರ),BBMP health center (IPP 8) room no 2 Anjanappa garden (North)
-168,90,ಬಿ‌ಬಿ‌ಎಮ್‌ಪಿ ಹೆಲ್ತ್ ಸೆಂಟರ್ (ಐ‌ಪಿ‌ಪಿ 8)ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ಉತ್ತರ),BBMP Health Center (IPP 8) room no 3 Anjanappa garden (North)
-168,91,ಬಿ‌ಬಿ‌ಎಮ್‌ಪಿ ಹೆಲ್ತ್ ಸೆಂಟರ್ (ಐ‌ಪಿ‌ಪಿ 8)ಕೊಠಡಿ ಸಂಖ್ಯೆ 4  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ದಕ್ಷಿಣ ಭಾಗ),BBMP Health Center (IPP 8) room no 4 Anjanappa garden ( South side)
-168,92,"ಸರ್ಕಾರಿ ಹೊಸ ಮಾದರಿ ತಮಿಳು  ಬಾಲಕರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ಉತ್ತರ)","Govt. New Model Tamil Boys School, room no 1 Anjanappa garden (north)"
-168,93,"ಸರ್ಕಾರಿ ಹೊಸ ಮಾದರಿ ತಮಿಳು  ಬಾಲಕರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ದಕ್ಷಿಣ)","Govt. New Model Tamil Boys School, room no 2 Anjanappa garden ( South)"
-168,94,"ಸರ್ಕಾರಿ ಹೊಸ ಮಾದರಿ ತಮಿಳು  ಬಾಲಕರ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ದಕ್ಷಿಣ)","Govt. New Model Tamil Boys School, room no 3 Anjanappa garden ( south wing)"
-168,95,ವಿವೇಕಾನಂದ ಗ್ರಂಥಾಲಯ   ಅಂಜನಪ್ಪ ಗಾರಡನ್,"Vivekananda  Laibrary, Anjanappa garden"
-168,96,"ನಗರ ಪಾಲಿಕೆ ನರ್ಸರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  ಮರಮ್ಮ ದೇವಸ್ಥಾನದ ಹತ್ತಿರ ಪೆನ್ಶನ್ ಮೊಹಲ್ಲಾ (ಉತ್ತರ)","Nagara Palike Nursery  School, Near Maramma Temple Pensation Mohalla (North)"
-168,97,"ನಗರ ಪಾಲಿಕೆ ನರ್ಸರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  ಮರಮ್ಮ ದೇವಸ್ಥಾನದ ಹತ್ತಿರ ಪೆನ್ಶನ್ ಮೊಹಲ್ಲಾ (ಉತ್ತರ)","Nagara Palike Nursery School, room no 2 Near Maramma temple Pensation mohalla (North)"
-168,98,"ನಗರ ಪಾಲಿಕೆ ನರ್ಸರಿ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 ಮರಮ್ಮ ದೇವಸ್ಥಾನದ ಹತ್ತಿರ ಪೆನ್ಶನ್ ಮೊಹಲ್ಲಾ (ಉತ್ತರ)","Nagara Palike Nursery School, Room no 3 near Maramma temple pensation mohalla (north"
-168,99,"ನಗರ ಪಾಲಿಕೆ ನರ್ಸರಿ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 4  ಮರಮ್ಮ ದೇವಸ್ಥಾನದ ಹತ್ತಿರ ಪೆನ್ಶನ್ ಮೊಹಲ್ಲಾ","Nagara Palike Nursery School,room no 4 near Maramma temple pensation mohalla"
-168,100,"ಸರ್ಕಾರಿ ಸಂಯುಕ್ತ ಪ್ರೌಡ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ ಭಕ್ಷಿ ಗಾರಡನ್",Govt. Samyuktha High School room no 1 Dr. T.C.M Rayon Road Bakshi Garden
-168,101,"ಸರ್ಕಾರಿ ಸಂಯುಕ್ತ ಪ್ರೌಡ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ ಭಕ್ಷಿ ಗಾರಡನ್",Govt. Samyuktha High School room no 2 Dr. T.C.M Rayon road bakshi garden
-168,102,ಸರ್ಕಾರಿ ಹೊಸ ಉರ್ದು ಬಾಲಕಿಯರ ಮಾಧ್ಯಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ  ಕಲ್ಲಿನ ಕಟ್ಟಡ (ದಕ್ಷಿಣ),"Govt. New Urdu Girls Medium School, room no 1 Dr. T.C.M Rayon road Stone Building (South)"
-168,103,ಸರ್ಕಾರಿ ಹೊಸ ಉರ್ದು ಬಾಲಕಿಯರ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ  ಕಲ್ಲಿನ ಕಟ್ಟಡ (ದಕ್ಷಿಣ),Govt New Urdu Girls School room no 2 Dr. T.C.M Rayon road Stone Building ( South)
-168,104,"ಸರ್ಕಾರಿ ಹೊಸ ಉರ್ದು ಬಾಲಕಿಯರ ಮಾಧ್ಯಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ  ಕಲ್ಲಿನ ಕಟ್ಟಡ","Govt. New Urdu Girls Medium School, room no 3 Dr. T.C.M.Roayn road Stone building"
-168,105,ಸರ್ಕಾರಿ ಹೊಸ ಉರ್ದು ಬಾಲಕಿಯರ ಮಾಧ್ಯಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ  ಕಲ್ಲಿನ ಕಟ್ಟಡ,"Govt. New Urdu Girls Medium School,room no 4 Dr. T.C.M Royan road stone building (east side)"
-168,106,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಗ್ರಂಥಾಲಯ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ","Bangalore Mahanagara Palike Library, room no 1 Dr.T.C.M Royan Road"
-168,107,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಗ್ರಂಥಾಲಯ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ","Bangalore Mahanagara Palike Library, room no 2 Dr.T.C.M Royan road"
-168,108,"ಕಿಂಟೋ ಕಾನ್ವೆಂಟ್‌,  ಆಂಗ್ಲಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ.4 42, 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","Kinto Convent,English School  Room No.4 42, 5th cross vinayakanagar"
-168,109,"ಕಿಂಟೋ ಕಾನ್ವೆಂಟ್‌ ಆಂಗ್ಲಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 5  42, 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","Kinto Convent Engish School,Room No 5, 42, 5th cross vinayakanagar"
-168,110,"ಕಿಂಟೂ ಕಾನ್ವೆಂಟ್‌  ಇಂಗ್ಲಿಷ್ ಸ್ಕೂಲ್ ಕೊಠಡಿ ಸಂಖ್ಯೆ.6 42, 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","Kinto Convente English School room no 6 42, 5th cross vinayakanagar"
-168,111,"ಕಿಂಟೂ ಕಾನ್ವೆಂಟ್‌ ಅಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 7  42, 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","Kinto Canvent English School, Room No 7 42, 5th cross vinayakanagar"
-168,112,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education Society, Room No.1 5th  cross vinayakanagar"
-168,113,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1  5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education Society, Room No.1 5th cross vinayakanagar"
-168,114,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ,, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2  5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education Society, Room No.2 5th cross vinayakanagar"
-168,115,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ,, ಕೊಠಡಿ ಸಂಖ್ಯೆ.3 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education Society, Room No.3 5th cross vinayakanagar"
-168,116,ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ.4 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ,"New Sudha Education Society, Room No.4 5th cross vinayakanagar"
-168,117,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.5 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education Society, Room No.5 5th cross vinayakanagar"
-168,118,"ಕಿಂಟೂ ಹೈಸ್ಕೂಲ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ.5 6ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ",Kinto High School  Room No.5 6th cross Padarayanapura
-168,119,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.7  7ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education society,Room No.7 7th cross vinayakanagar"
-168,120,"ಕರ್ನಾಟಕ ಶಾದಿ ಕಮಿಟಿ ವಿದ್ಯಾ ಸಂಸ್ಥೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ.3 9ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ",Karnataka Shadhi Commity Education Society Room No.3 9th cross Padarayanapura
-168,121,"ಕರ್ನಾಟಕ ಶಾದಿ ಕಮಿಟಿ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2  9ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ","Karnataka Shadhi Commity Education Society, Room No.2 9th cross Padarayanapura"
-168,122,ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ.1  9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ,"Kaveri Ashrama Education Society, Room No.1 9th cross Devaraju Arasu nagar"
-168,123,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ., ಕೊಠಡಿ ಸಂಖ್ಯೆ.2 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society, Room No.2 9th cross Devaraju arasu nagar"
-168,124,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.3 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society, Room No.3 9th cross Devaraju arasu nagar"
-168,125,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.4 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society,Room No.4 9th cross Devaraju Arasu Nagar"
-168,126,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.5 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society, Room No.5 9th cross Dvaraju arasu nagar"
-168,127,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.6 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society,Room No.6 9th cross Devaraju arasu nagar"
-168,128,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.7 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society, Room No.7 9th cross Devaraju arasu nagar"
-168,129,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.8 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society,Room No.8 9th cross Devaraju arasu nagar"
-168,130,"ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಜನತ ಕಾಲೋನಿ 4ನೇ ಕ್ರಾಸ್ ಮೈಸೂರು ರಸ್ತೆ","Govt. Primary School, Janatha Colony 4th cross Mysore road"
-168,131,"43 ವಾರ್ಡ್‌ ಕಛೇರಿ (ಕಂದಾಯ),ಬಿ ಬಿ ಎಮ್‌ ಪಿ  ಕೊಠಡಿ ಸಂಖ್ಯೆ.1  2ನೇ ಕ್ರಾಸ್ ಮೈಸೂರು ರಸ್ತೆ","43 Ward Office (Revenue),B B M P room no 1 2nd Cross Mysore road"
-168,132,"43 ವಾರ್ಡ್‌ ಕಛೇರಿ (ಕಂದಾಯ), ಕೊಠಡಿ ಸಂಖ್ಯೆ.2  2ನೇ ಕ್ರಾಸ್ ಮೈಸೂರು ರಸ್ತೆ","43 Ward Office (Revenue), room no 2 2nd cross Mysore road"
-168,133,"ಹೋಲಿಗೆ ತರಬೇತಿ ಕೇಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1 3ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ","Tailoring Center, Room No.1 3rd cross padarayanapura"
-168,134,"ಹೋಲಿಗೆ ತರಬೇತಿ ಕೇಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2 3ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ","Tailoring Center, Room No.2 3rd cross padarayanapura"
-168,135,43 ವಾರ್ಡ್‌ ಕಛೇರಿ (ಆರೋಗ್ಯ) 3ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ,43 Ward Office (Health)3rd cross padarayanapura
-168,136,ಅಂಗನವಾಡಿ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ.1 2ನೇ ಕ್ರಾಸ್  ಮೈಸೂರು ರಸ್ತೆ ಪಾದರಾಯನಪುರ,Anganavadi School room no 1 2nd cross Mysore road Padarayanapura
-168,137,ಅಂಗನವಾಡಿ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ.2 2ನೇ ಕ್ರಾಸ್  ಮೈಸೂರು ರಸ್ತೆ ಪಾದರಾಯನಪುರ,Anganavadi School room no 2 2nd cross mysore road padarayanapura
-168,138,ಹೋಲಿಗೆ ತರಭೇತಿ ಕೇಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ  ಪೋಲಿಸ್ ವಸತಿ ಗೃಹ ಮೈಸೂರು ರಸ್ತೆ,Tailoring Centre Room No Police Quaters Mysore road
-168,139,ಸಿ.ಎ.ಆರ್‌. ಪೋಲಿಸ್‌ ಗ್ರಂಥಾಲಯ ಮೈಸೂರು ರಸ್ತೆ,C.A.R. Police Library Mysore road
-168,140,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ರೂಂ ನಂ. 1 ಸಿ.ಎ.ಆರ್ ಪೋಲಿಸ್ ವಸತಿ ಗೃಹ ಮೈಸೂರು ರಸ್ತೆ","Govt. Kannada Primary School, Room No. 1 C.A.R Police Quaters Mysore road"
-168,141,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ರೂಂ ನಂ. 2  ಸಿ.ಎ.ಆರ್ ಪೋಲಿಸ್ ವಸತಿ ಗೃಹ ಮೈಸೂರು ರಸ್ತೆ","Govt. Kannada Primary School, Room No. 2 C.A.R Police quaters Mysore road"
-168,142,ಸೆಂಟ್‌ ಥೆರೇಸ ಗಲ್ಸ್ ಸ್ಕೂಲ್  ರೂಂ ನಂ. 1 ಸುಲ್ತಾನ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ,St. Theresa Girls School room no 1 Sulthan road Chamarajapet
-168,143,ಸೆಂಟ್‌ ಥೆರೇಸ  ಗಲ್ಸ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ. 2 ಸುಲ್ತಾನ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ,St. Theresa Girls School room no 2 Sulthan road chamarajpet
-168,144,ಸೆಂಟ್‌ ಥೆರೇಸ ಗಲ್ಸ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ. 3 ಸುಲ್ತಾನ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ,St. Theresa Girls School room no 3 Sulthan road chamarajpet
-168,145,ಸೆಂಟ್‌ ಥೆರೇಸ ಗಲ್ಸ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ. 4 ಸುಲ್ತಾನ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ,St. Theresa Girls School room no 4 sulthan road chamarajpete
-168,146,ಸೆಂಟ್‌ ಥೆರೇಸ ಗಲ್ಸ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ. 5 ಸುಲ್ತಾನ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ,St. Theresa Girls School room no 5 sulthan road chamarajpet
-168,147,ಆರ್‌.ಬಿ. ಜವರ್‌ಲಾಲ್‌ ಮೆಮೋರಿಯಲ್‌ ವಾಣಿಜ್ಯ ಕೇಂದ್ರ ಅನಂದಪುರಂ ಮೈಸೂರು ರಸ್ತೆ,RB Jawarlal Memorial Comm. centre Anandapuram Mysore road
-168,148,"ಸರ್ಕಾರಿ ಅಪ್‌ ಗ್ರೇಡ್‌ ಉರ್ದು ಬಾಲಕರ ಶಾಲೆ, ರೂಂ ನಂ. 1 ಟಿಪ್ಪುನಗರ",Govt. upgrade Urdu Boys School  room no 1 Tippunagar
-168,149,"ಸರ್ಕಾರಿ ಆಫ್‌ ಗ್ರೇಡ್‌ ಉರ್ದು ಬಾಲಕರ ಶಾಲೆ,  ರೂಂ ನಂ. 2 ಟಿಪ್ಪುನಗರ",Govt Up Grade Urdu Boys school room no 2 Tippunagar
-168,150,ಮೊರಾರ್ಜಿ ದೇಸಾಯಿ ಹೈ ಸ್ಕೂಲ್  ರೂಂ ನಂ. 3 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ,Morarji Desai High School room no 3 5th cross chamarajpet
-168,151,"ಕಸ್ತೂರಿಬಾ ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಕಲ್ಯಾಣಭಿವೃದ್ದಿ ಕೇಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಸಿರಸಿ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Kasturiba Women & Children Welfare Center room no 1 Sirasi road chamarajpete
-168,152,"ಕಸ್ತೂರಿಬಾ ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಕಲ್ಯಾಣಭಿವೃದ್ದಿ ಕೇಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  ಸಿರಸಿ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Kasturiba Women & Children Welfare Center room no 2 Sirasi road chamarajpete
-168,153,"ಕಸ್ತೂರಿಬಾ ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಕಲ್ಯಾಣಭಿವೃದ್ದಿ ಕೇಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 ಸಿರಸಿ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Kasturiba Women & Children Welfare Center room no 3 sirasi road chamarajpet
-168,154,"ಮೋರಾರ್‌ಜಿ ದೇಸಾಯಿ ರೆಸಿಡೆನ್‌ಶಿಯಲ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Morarji Desai Residential School room no 1 5th cross chamarajpet
-168,155,"ಮೋರಾರ್‌ಜಿ ದೇಸಾಯಿ ರೆಸಿಡೆನ್‌ಶಿಯಲ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Morarji Desai Residential School room no 2 5th cross chamarajpet
-168,156,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 1 5th cross chamarajapet
-168,157,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 2 5th cross chamarajpet
-168,158,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 3 5th cross chamarajpet
-168,159,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 3 5th cross chamarajpet
-168,160,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 4 5th cross chamarajpet
-168,161,"ಕರ್ನಾಟಕ ಮಹಿಳಾ ಹಿಂದಿ ಸೇವಾಸಮಿತಿ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  78, 4ನೇ ಮುಖ್ಯರಸ್ತೆ   ಚಾಮರಾಜಪೇಟೆ",Karnataka Mahila Hindi Sevasamithi room no 1 78 4th main road chamarajapete
-168,162,"ಕರ್ನಾಟಕ ಮಹಿಳಾ ಹಿಂದಿ ಸೇವಾಸಮಿತಿ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  78, 4ನೇ ಮುಖ್ಯರಸ್ತೆ   ಚಾಮರಾಜಪೇಟೆ",Karnataka Mahila Hindi Sevasamithi room no 2 78 4th main road chamarajpet
-168,163,"ಜನತಾ ವಿದ್ಯಾಲಯ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  4, 2ನೇ ಮುಖ್ಯರಸ್ತೆ   ಚಾಮರಾಜಪೇಟೆ","Janatha Vidyalaya room no 1,  4, 2nd main road chamarajpet"
-168,164,"ಜನತಾ ವಿದ್ಯಾಲಯ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  4, 2ನೇ ಮುಖ್ಯರಸ್ತೆ   ಚಾಮರಾಜಪೇಟೆ","Janatha Vidyalaya room no 2 4, 2nd main road chamarajpet"
-168,165,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ, ಓಪನ್ ಥೆಯೇಟರ್ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಚಾಮರಾಜಪೇಟೆ, ಹೋರಾಂಗಣ ಪಾರ್ಕ್‌","Bangalore Mahanagara Palike, Open theater  Room No 1 2nd main road chamarajpet out side park"
-168,166,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ, ಓಪನ್ ಥೆಯೇಟರ್ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಚಾಮರಾಜಪೇಟೆ,","Bangalore Mahanagara Palike,Open Theater room  No 2  2nd Main Road,Chamarajpet, Horangana Park"
-168,167,ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಶಿಶುವಿಹಾರ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಮೈಸೂರು ರಸ್ತೆ ವಾಲ್ಮೀಕಿನಗರ,Bangalore Mahanagara Palike Nursary room no 1 Mysore road Valmikinagar
-168,168,ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಶಿಶುವಿಹಾರ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಮೈಸೂರು ರಸ್ತೆ ವಾಲ್ಮೀಕಿನಗರ,Bangalore Mahanagara Palike Nursary room no 2 Mysore road Valmikinagar
-168,169,ಬೆ ಮ ಪಾ ಜ್ಯೂನಿಯರ್‌ ಕಾಲೇಜ್‌. ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಕಸ್ತೂರಿ ಬಾ ನಗರ,BBMP Junior College. Room No 1 Kasturiba nagar
-168,170,ಬೃ ಬೆಂ ಮ ಪಾ ಜ್ಯೂನಿಯರ್‌ ಕಾಲೇಜ್‌. ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಕಸ್ತೂರಿ ಬಾ ನಗರ,BBMP Junior College. Room No 2 Kasturi Ba nagar
-168,171,ಮಹಾನಗರ ಪಾಲಿಕೆ ಜ್ಯೂನಿಯರ್‌ ಕಾಲೇಜ್‌. ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  ಕಸ್ತೂರಿ ಬಾ ನಗರ,BBMP Junior College. Room NO 3 Kasturi Ba Nagar
-168,172,ಮಹಾನಗರ ಪಾಲಿಕೆ   ಜ್ಯೂನಿಯರ್‌ ಕಾಲೇಜ್‌. ಕೊಠಡಿ ಸಂಖ್ಯೆ 2A  ಕಸ್ತೂರಿ ಬಾ ನಗರ,BBMP Junior College. Room No 2A Kasturi Ba nagar
-168,173,ಸರ್ಕಾರಿ  ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 3ನೇ ಕ್ರಾಸ್  ಕಸ್ತೂರಿ ಬಾ ನಗರ,Govt. Model Primary School. Room No 1 3rd cross Kasturi Ba nagar
-168,174,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 3ನೇ ಕ್ರಾಸ್  ಕಸ್ತೂರಿ ಬಾ ನಗರ,Govt. Higher Primary School. Room No 2 3rd cross Kasturi Ba nagar
-168,175,ಸರ್ಕಾರಿ ಮಾದರಿ  ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  3ನೇ ಕ್ರಾಸ್  ಕಸ್ತೂರಿ ಬಾ ನಗರ,Govt. Model Primary School. Room No 3 3rd cross Kasturi Ba nagar
-168,176,ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 3ನೇ ಕ್ರಾಸ್  ಕಸ್ತೂರಿ ಬಾ ನಗರ,Govt. Model Primary School. Room No 4 3rd cross Kasturi Ba nagar
-168,177,ಲಕ್ಷ್ಮಿ  ಮಾರಮ್ಮ  ಟೆಂಪಲ್  ಸೇವ  ಸಮಾಜ  ಸಂಘ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 2ನೇ ಮುಖ್ಯರಸ್ತೆ  ವಾಲ್ಮೀಕಿನಗರ,Lakshmi maramma temple seva samaja sangh room no 1 2nd main road Valmikinagar
-168,178,ಲಕ್ಷ್ಮಿ  ಮಾರಮ್ಮ  ಟೆಂಪಲ್  ಸೇವ  ಸಮಾಜ  ಸಂಘ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 2ನೇ ಮುಖ್ಯರಸ್ತೆ  ವಾಲ್ಮೀಕಿನಗರ,Lakshmi maramma temple seva samaja sangh room no 2 2nd main road Valmikinagar
-168,179,ರೋಷನ್‌ ಆಂಗ್ಲ ನರ್ಸರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ  1 5ನೇ ಕ್ರಾಸ್ ವಾಲ್ಮೀಕಿನಗರ,Roshan English Nursery Higher Primary School 1 5th cross Valmikinagar
-168,180,ಲೆದರ್‌ ಕ್ರಾಫ್‌ಟ್‌  ಸೊಸೈಟಿ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 5 1ನೇ  ಮುಖ್ಯರಸ್ತೆ ವಾಲ್ಮೀಕಿನಗರ,Leather Craft Society room no 5 1st main road Valmikinagar
-168,181,ಆಯಿಷಾ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ವಾಲ್ಮೀಕಿನಗರ,Ayisha Urdu Higher Primary School Valmikinagar
-168,182,ಕಾರ್ಪೊರೇಷನ್‌ ವಾರ್ಡ್‌ ಕಛೇರಿ ವಾಲ್ಮೀಕಿನಗರ  ಮೈಸೂರು ರಸ್ತೆ,"Corporation Ward Office, Valmikinagar Mysore road"
-168,183,ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ  ಆರೋಗ್ಯ ಕೇಂದ್ರ ವಾಲ್ಮೀಕಿನಗರ,B B M P Health Center Valmikinagar
-168,184,"ಕೇಂಬ್ರಿಡ್‌ಜ್‌ ಆಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ನಂ 2 5ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ","Cambridge English School, Room No 2  no 2 5th cross Azad nagar"
-168,185,"ಕೇಂಬ್ರಿಡ್‌ಜ್‌ ಆಂಗ್ಲ  ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ  3 ನಂ 2 5ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ","Cambridge English School, Room No 3 # 2 5th cross Azad nagar"
-168,186,"ಕೇಂಬ್ರಿಡ್‌ಜ್‌  ಆಂಗ್ಲ  ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ನಂ 2 5ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ","Cambridge English School, Room No 1 # 2 5th cross Azad nagar"
-168,187,"ಸರ್ಕಾರಿ ಬಾಲಕರ ಕನ್ನಡ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  1ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ",Govt. Boys Kannada Moddle Primary School room no 1 1st cross Azad nagar
-168,188,"ಸರ್ಕಾರಿ ಬಾಲಕರ ಕನ್ನಡ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  1ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ",Govt. Boys Kannada Moddle Primary School Room No 2 1st cross Azad nagar
-168,189,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ   ನರ್ಸರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  6ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ","B B M P Nursery School,  Room No 1 6th cross Azad nagar"
-168,190,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ   ನರ್ಸರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ  2 6ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ","B B M P Nursery School, Room No 2 6th cross Azad nagar"
-168,191,ಪಂಡಿತ್‌ ಜವಹರ್‌ ಲಾಲ್‌ ನೆಹರು ಮೆಮೋರಿಯಲ್‌ ಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  9ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ,Pandith Javahar Lal  Nehru Memorial School room no 1 9th cross Chamarajpet
-168,192,"ಪಂಡಿತ್‌ ಜವಾಹರ್‌ ಲಾಲ್‌ ನೆಹರು ಮೆಮೋರಿಯಲ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ  2 9ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Pandith Javahar Lal  Nehru Memorial School Room No 2 9th cross chamrajpet
-168,193,"ಪಂಡಿತ್‌ ಜವಾಹರ್‌ ಲಾಲ್‌ ನೆಹರು ಮೆಮೋರಿಯಲ್‌ ಶಾಲೆ,  ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  9ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ","Pandith Javahar Lal Nehru Memorial School, room no 3 9th cross chamarajpet"
-168,194,"ಬಿ ಬಿ ಎಂ ಪಿ ಸಮುದಾಯ ಭವನ,, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 7ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ",B B M P Community Hall room no 1 7th cross Azad nagar
-168,195,"ಬಿ ಬಿ ಎಂ ಪಿ ಸಮುದಾಯ ಭವನ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  7ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ",B B M P Community Hall room no 2 7th cross Azad nagar
-168,196,ಬಿ ಬಿ ಎಂ ಪಿ ವ್ಯಾಯಾಮ ಶಾಲೆ  7ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ,B B M P Gym School 7th cross Azad nagar
-168,197,"ಅಂಗನವಾಡಿ ಶಾಲೆ ದೀನಾದಲಿತರ ಸಂಘ, ನಂಜಂಬ ಅಗ್ರಾಹಾರ","Anganavadi School deenadalithara Sangha, Nanjambha Agrahara"
-168,198,"ಶ್ರೀರಾಮ ಮಂದಿರ ಪ್ರೌಢಶಾಲೆ,  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Bangalore Corporation Girls High School Room No.1 # 14 5th main road Chamarajpet
-168,199,"ಶ್ರೀರಾಮ ಮಂದಿರ ಪ್ರೌಢಶಾಲೆ, ರೂಂ ನಂ. 2  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Rama Mandira High School room no 2 #14 5th main road chamarajpet
-168,200,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 1 #14 5th main road chamarajpet
-168,201,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 6  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 6 # 14 5th main road chamarajpet
-168,202,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 3 #14 5th main road chamarajpet
-168,203,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 4 #14 5th main road chamarajpet
-168,204,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 5  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 5 #14 5th main road chamarajpet
-168,205,"ಭಾರತೀಯ ಸಂಸ್ಕೃತಿ ವಿದ್ಯಾಪೀಠ, ನಂ 8 4ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ","Bharathiya Samskruthi Vidya Peeta, No.8, 4th, Main Road  chamarajapet"
-168,206,"ಶಾರದ ಸ್ತ್ರೀ ಸಮಾಜ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ನಂ ಎ.ವಿ ರಸ್ತೆ  ಚಾಮರಾಜಪೇಟೆ","Sharada Stree Samaja   Room No.1    No.39, A.V, Road Chamarajapet"
-168,207,"ಶಾರದ ಸ್ತ್ರೀ ಸಮಾಜ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  ನಂ 39 ಎ.ವಿ ರಸ್ತೆ  ಚಾಮರಾಜಪೇಟೆ","Sharada Stree Samaja Room No 2 No 39, AV Road Chamrajpet"
-168,208,"ಶಾರದ ಸ್ತ್ರೀ ಸಮಾಜ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  ನಂ 39  ಎ.ವಿ ರಸ್ತೆ  ಚಾಮರಾಜಪೇಟೆ","Sharada Womens Association room no 3 No 39, AV Road Chamrajpet"
-168,209,"ಶಾರದ ಸ್ತ್ರೀ ಸಮಾಜ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4  ನಂ 39 ಎ.ವಿ ರಸ್ತೆ  ಚಾಮರಾಜಪೇಟೆ",Sharada Womens Association room no 4 No 39 AV road Chamrajpet
-168,210,ಕಾರ್ಪೋರೇಷನ್‌ ಉಪ ಆರೋಗ್ಯ ಕಛೇರಿ  ಕೆಂಪ ಬುದಿ ಸ್ಮಶನ  ನಂಜಂಭ ಅಗ್ರಾಹಾರ ಮುಖ್ಯರಸ್ತೆ,Corporation Sub Health Office Kempambudi Burial Ground Nanjamba Agrahara Main Road
-168,211,ಆಯಿಶಾ ಇಂಗ್ಲೀಷ್‌ ಹೈ ಸ್ಕೂಲ್    ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ವಿಠ್ಠಲನಗರ,Ayisha English High School Room No - 1  Vittalnagara
-168,212,"ಆಯಿಶಾ ಇಂಗ್ಲೀಷ್‌  ಹೈ ಸ್ಕೂಲ್ ಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 2 ವಿಠ್ಠಲನಗರ","Ayisha English High  School , Room No - 2 Vittalnagar"
-168,213,"ಆಯಿಶಾ ಇಂಗ್ಲೀಷ್‌ ಹೈ ಸ್ಕೂಲ್ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 3 ವಿಠ್ಠಲನಗರ","Ayisha English High School , Room No - 3 Vittalnagar"
-168,214,ಆಯಿಶಾ ಆಂಗ್ಲ ಹೈ ಸ್ಕೂಲ್ ಕೊಠಡಿ ಸಂಖ್ಯೆ - 4 ವಿಠ್ಠಲನಗರ,Ayisha English high School . Room No - 4 Vittalnagar
-168,215,"ಸರ್ಕಾರಿ ಉರ್ದು ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಪೈಪ್ ಲೈನ್ ಕಸ್ತೂರಿಬಾನಗರ","Govt. Urdu Primary School , Room No - 1 pipe Line  Kasthuri Bha Nagara"
-168,216,"ಸರ್ಕಾರಿ ಉರ್ದು ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 2 ಪೈಪ್ ಲೈನ್ ಕಸ್ತೂರಿಬಾನಗರ","Govt. Urdu Primary School , Room No - 2 Pipe Line Kasturiba nagar"
-168,217,"ಜ್ಞಾನ ಭಾರತಿ ಪ್ರೌಢ ಶಾಲೆ , (ಗಾರ್ಡನ್‌ ಶಾಲೆ) ಕೊಠಡಿ ಸಂಖ್ಯೆ - 1 ವಿಠ್ಠಲನಗರ, ಮುಲಕಟ್ಟಮ್ಮ ದೇವಸ್ಥಾನ ರಸ್ತೆ","gyana Bharathi High School ,(Garden School)  Room No - 1 Vittal Nagara  Mullkattamma Temple Road"
-168,218,"ಜ್ಞಾನ ಭಾರತಿ  ಪ್ರೌಢಶಾಲೆ ,(ಗಾರ್ಡನ್ ಸ್ಕೂಲ್) ಕೊಠಡಿ ಸಂಖ್ಯೆ - 2 ವಿಠ್ಠಲನಗರ, ಮುಲಕಟ್ಟಮ್ಮ ದೇವಸ್ಥಾನ ರಸ್ತೆ","Gyana Bharathi High School  (garden School), Room No - 2 vittalnagar mullkattamma Temple road"
+168,2,"ಅಂಗನವಾಡಿ ಕೇಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ, ವಿ ಎಸ್‌ ಗಾರ್ಡನ್‌ ಜೆ ಜೆ ನಗರ,","Aganawadi Kendra  Room No, V S Gardane J J Nagara,"
+168,3,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಬೇಲಿ ಮಠದ ರಸ್ತೆ, ರೂಂ 1","Govt. Model Primary School, Beli Mattada Road, room No 1"
+168,4,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಬೇಲಿ ಮಠದ ರಸ್ತೆ, ರೂಂ ನಂ 2","Govt. Model Primary School, Beli Mattada Road, Room No 2"
+168,5,"ಸರ್ಕಾರಿ ಮಾದರಿ ತಮಿಳು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಬೇಲಿ ಮಠದ ರಸ್ತೆ,","Govt. Model Tamil Primary School, Beli Mattada Road,"
+168,6,"ಶಾರದ ನಿಕೇತನ ಇಂಗ್ಲಿಷ್ ಸ್ಕೂಲ್, ದೇವರ ಗುಡಿ ಬೀದಿ ರೂಂ ನಂ 1","Sharada Nikethana English School,  Devara Gudi Bedi Room No 1"
+168,7,"ಶಾರದ ನಿಕೇತನ ಇಂಗ್ಲಿಷ್ ಸ್ಕೂಲ್, ದೇವರ ಗುಡಿ ಬೀದಿ ರೂಂ ನಂ 2","Sharada Nikethana English School,  Devara Gudi Bedi Room No 2"
+168,8,"ಬಿ‌ಬಿ‌ಎಮ್‌ಪಿ ಟೈಲರಿಂಗ್ ಸೆಂಟರ್, ಬೀರದೇವರ ಗುಡಿ ಬೀದಿ ರೂಂ ನಂ 1","BBMP Tailoring Center, Beera Devara Gudi Bedi Room No 1"
+168,9,"ಬಿ‌ಬಿ‌ಎಮ್‌ಪಿ ಟೈಲರಿಂಗ್ ಸೆಂಟರ್, ಬೀರದೇವರ ಗುಡಿ ಬೀದಿ ರೂಂ ನಂ 2","BBMP Tailoring Center, Beera Devara gudi beedi Room No 2"
+168,10,"ಬಿ.ಬಿ. ಎಂ. ಪಿ. ನರ್ಸರಿ ಶಾಲೆ, ಬೀರದೇವರ ಗುಡಿ ಬೀದಿ  ರಣಾಸಿಂಗ್ ಪೇಟೆ ರೂಂ ನಂ 1","B.B. M. P. Nursery School, Beera Devara temple Street Ranasingh pet Room No 1"
+168,11,"ರಾಮಕೃಷ್ಣ  ಸ್ವತಂತ್ರನಂದ  ಹೈಯರ್  ಪ್ರೈಮರಿ  ಸ್ಕೂಲ್, ಜಟಕ ನಿಲ್ದಾಣ ರೂಂ ನಂ 1","Ramakrishna Swathantrananda Higher Primary School, Cart Stand Room No 1"
+168,12,"ರಾಮಕೃಷ್ಣ ಸ್ವತಂತ್ರನಂದ ಹೈಯರ್ ಪ್ರೈಮರಿ ಸ್ಕೂಲ್, ಜಟಕ ನಿಲ್ದಾಣ ರೂಂ ನಂ 2","Ramakrishna Swathantrananda Higher Primary School, Cart Stand Room No 2"
+168,13,"ರಾಮಕೃಷ್ಣ ಸ್ವತಂತ್ರನಂದ ಹೈಯರ್ ಪ್ರೈಮರಿ ಸ್ಕೂಲ್, ಜಟಕ ನಿಲ್ದಾಣ ರೂಂ ನಂ 3","Ramakrishna Swathanrananda Higher Primary School, Cart Stand Room No 3"
+168,14,"ರಾಮಕೃಷ್ಣ ಸ್ವತಂತ್ರಾನಂದ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಜಟಕ ನಿಲ್ದಾಣ ರೂಂ ನಂ 4","Ramakrishna Swathantrananda Higher Primary School, Cart Stand Room No 4"
+168,15,"ಸರ್ಕಾರಿ ಸಂಯುಕ್ತ ಪ್ರೌಢ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, ಡಾ. ಟಿ.ಸಿ.ಎಂ. ರಾಯನ್ ರೋಡ್ , ಭಕ್ಷಿ ಗಾಡರನ್","Govt. Samyuktha High School, Room No 1 Dr. T.C.M Royan Road Bakshi Garden"
+168,16,"ಸರ್ಕಾರಿ ಸಂಯುಕ್ತ  ಪ್ರೌಢ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ2, ಡಾ. ಟಿ.ಸಿ.ಎಂ. ರಾಯನ್ ರೋಡ್ , ಭಕ್ಷಿ ಗಾಡರನ್",Govt. Samyuktha High School Room No 2 Dr. T.C.M Royan road Bakshi Garden
+168,17,"ಸರ್ಕಾರಿ ಸಂಯುಕ್ತ  ಪ್ರೌಢ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3, ಡಾ. ಟಿ.ಸಿ.ಎಂ. ರಾಯನ್ ರೋಡ್ , ಭಕ್ಷಿ ಗಾಡರನ್","Govt. Somyuktha High School, Room No 3 Dr. T.C.M Royan Road Bakshi Garden"
+168,18,"ರಮಾಬಾಯಿ ರೀಡಿಂಗ್‌ ಸೆಂಟರ್‌,  3ನೇ ಅಡ್ಡರಸ್ತೆ, ಸಿದ್ದರಥನಗರ,","Ramabai Reading Center, 3rd Cross Siddarthanagara"
+168,19,"ಡಾ. ಅಂಬೇಡ್ಕರ್‌ ಭವನ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ",Dr. Ambedkar Bhavan Room No 1 Venkataswamy J J R Nagar
+168,20,ಡಾ. ಅಂಬೇಡ್ಕರ್‌ ಭವನ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ,Dr. Ambedkar Bhavan Room No 2 Venkataswamy Garden J J R Nagar
+168,21,ಡಾ. ಅಂಬೇಡ್ಕರ್‌ ಭವನ ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ,Dr. Ambedkar Bhavan Room No 3 Venkataswamy Garden J J R Nagar
+168,22,ಹೊಲಿಗೆ ತರಬೇತಿ ಕೇಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ  1 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ,"Tailoring Centre, Room No 1 Venkataswamy Garden J J R Nagar"
+168,23,ಹೊಲಿಗೆ ತರಬೇತಿ ಕೇಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ,"Tailoring Centre, Room No 2 Venkataswamy Garden J J R Nagar"
+168,24,"ಸಮುದಾಯ ಭವನ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ","Community Hall, Room No.1, Venkataswamy Garden J J R Nagar"
+168,25,"ಸಮುದಾಯ ಭವನ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ","Community Hall, Room No.2, Venkataswamy Garden J J R Nagar"
+168,26,"ಸಮುದಾಯ ಭವನ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ","Community Hall, Room No.3 Venkataswamy Garden J J R Nagar"
+168,27,"ಸಮುದಾಯ ಭವನ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 ವೆಂಕಟಸ್ವಾಮಿ ಗಾರಡನ್ ಜೆ ಜೆ ಆರ್ ನಗರ","Community Hall, Room No.4 Venkataswamy Garden J J R Nagar"
+168,28,ಮಲ್ಲಿಕಾರ್ಜುನ ಕನ್ನಡ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 10ನೇ ಮುಖ್ಯ ರಸ್ತೆ ಪಾದರಾಯನಪುರ,"Mallikarjun Kannada Higher Primary School,  Room No 1 10th Main road Padarayanapura"
+168,29,ಮಲ್ಲಿಕಾರ್ಜುನ ಕನ್ನಡ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 10ನೇ ಮುಖ್ಯ ರಸ್ತೆ ಪಾದರಾಯನಪುರ,"Mallikarjun Kannada Higher Primary School Room No 2, 10th Main Road Padarayanapura"
+168,30,"ವೀನಸ್‌ ಪಬ್ಲಿಕ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, 13ನೇ ಅಡ್ಡರಸ್ತೆ ಪಾದರಾಯನಪುರ","Vinas Public School, Room No.1, 13th Cross Padarayanapura"
+168,31,"ವೀನಸ್‌  ಪಬ್ಲಿಕ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 13ನೇ ಅಡ್ಡರಸ್ತೆ ಪಾದರಾಯನಪುರ","Vinas Public School, Room No.2 13th Cross Padarayanapura"
+168,32,ಭಾರತ್‌ ವೆಲ್‌ಫೇರ್‌ ಅಸೋಸಿಯೇಷನ್‌ಸ್‌  ಪೈಪ್ ಲೈನ್ ರಸ್ತೆ ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ ಬೆಂಗಳೂರು,"Bharath Welfare Association,  Pipe Line West Of Padarayanapura Bangalore"
+168,33,"ಅಜೀಜ್‌  ಜಿನತ್‌ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ನಂ 1 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ","Azez Jinath Education Society, Room No 1 2nd Main Road west padarayanapura"
+168,34,"ಅಜೀಜ್‌ ಜೀನತ್‌ ವಿದ್ಯಾಸಂಸ್ಥೆ.  ಕೋಠಡಿ ಸಂಖ್ಯೆ 2 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ",Azez Jinath  Education Society  Room No 2 2nd Main ROad west padarayanapura
+168,35,"ಅಜೀಜ್‌ ಜೀನಾತ್‌ ವಿದ್ಯಾಸಂಸ್ಥೆ.,ಕೋಠಡಿ ಸಂಖ್ಯೆ 3 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ","Azez Jinath Education Society,Room No 3 2nd main road west padarayanapura"
+168,36,"ಅಜೀಜ್‌  ಜೀನತ್‌ ವಿದ್ಯಾಸಂಸ್ಥೆ.   ಕೋಠಡಿ ಸಂಖ್ಯೆ 4 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ",Azez Jinath  Education Society Room No 4 2nd main road west padarayanapura
+168,37,ಹೆಚ್‌. ಎಂ.ಎಸ್‌. ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 1ನೇ ಮುಖ್ಯರಸ್ತೆ 5ನೇ ಅಡ್ಡರಸ್ತೆ ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ,"HMS School, Room No 1 1st Main road 5th cross west padarayanapura"
+168,38,ಹೆಚ್‌. ಎಂ. ಎಸ್‌. ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 1ನೇ ಮುಖ್ಯರಸ್ತೆ 5ನೇ ಅಡ್ಡರಸ್ತೆ ಪಶ್ಚಿಮ ಪಾದರಾಯನಪುರ,"H. M. S. School Room No 2, 1st main road 5th cross west padarayanapura"
+168,39,"ಸಾಲೋಮಾನ್‌ ಆಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 15/1, 7ನೇ ಅಡ್ಡರಸ್ತೆ ವಿನಾಯಕನಗರ","Salomon English School, room no 1 15/1, 7th cross Vinayakanagar"
+168,40,"ಸಾಲೋಮಾನ್‌ ಆಂಗ್ಲ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 15/1, 7ನೇ ಅಡ್ಡರಸ್ತೆ ವಿನಾಯಕನಗರ","Saloman English School Room No 2 15/1, 7th cross Vinayakanagar"
+168,41,"ನಗರ ಪಾಲಿಕೆ ಸಮುದಾಯ ಭವನ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, 20ನೇ ಮುಖ್ಯರಸ್ತೆ ದೇವರಾಜ ಅರಸು ನಗರ",Corporation Community Hall Room No 1 20th Main road Devaraja arsu nagar
+168,42,"ನಗರ ಪಾಲಿಕೆ ಸಮುದಾಯ ಭವನ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, 20ನೇ ಮುಖ್ಯರಸ್ತೆ ದೇವರಾಜ ಅರಸು ನಗರ",Corporation Community Hall Room No 1 20th Main road Devaraja arsu nagar
+168,43,"ಸನ್‌ ಶೈನ್‌ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ರೂಂ ನಂ  1 9ನೇ ಅಡ್ಡರಸ್ತೆ  ಪಾದರಾಯನಪುರ","Sunshine  education Society, Room No 1 9th cross padarayanapura"
+168,44,"ಸನ್‌ ಶೈನ್‌ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 9ನೇ ಅಡ್ಡರಸ್ತೆ  ಪಾದರಾಯನಪುರ","Sunshine Education Society, Room No 2 9th cross padarayanapura"
+168,45,"ಆರ್‌. ಎಂ. ವಿದ್ಯಾಸಂಸ್ಥೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,  9ನೇ ಅಡ್ಡರಸ್ತೆ  ಪಾದರಾಯನಪುರ","R M Education Society,Room No 1, 9th cross padarayanapura"
+168,46,"ಆರ್‌. ಎಂ. ವಿದ್ಯಾಸಂಸ್ಥೆ, ರೂಂ ನಂ  2 9ನೇ ಅಡ್ಡರಸ್ತೆ  ಪಾದರಾಯನಪುರ","R.M.Education Society, Room No 2 9th cross padarayanapura"
+168,47,"ಅಂಬೇಡ್ಕರ್‌ ವಾಚನಾಲಯ, ರೂಂ ನಂ 1 15ನೇ ಅಡ್ಡರಸ್ತೆ ದೇವರಾಜು ಅರಸು ನಗರ",Ambedkar Vachanalaya Room No 1 15th cross Devaraju Arasu nagar
+168,48,"ಅಂಬೇಡ್ಕರ್‌ ವಾಚನಾಲಯ ಅಂಬೇಡ್ಕರ್‌, ರೂಂ ನಂ 2 15ನೇ ಅಡ್ಡರಸ್ತೆ ದೇವರಾಜು ಅರಸು ನಗರ","Ambedkar Vachanalaya, Room No 2 15th Cross Devaraju arasu nagar"
+168,49,"ತಿಲಕ್‌ ಪಾಠಶಾಲೆ, ರೂಂ ನಂ 1 15ನೇ ಅಡ್ಡರಸ್ತೆ ದೇವರಾಜು ಅರಸು ನಗರ","Thilak School, Room No 1 15th Cross Devaraju arasu nagar"
+168,50,"ತಿಲಕ್‌ ಪಾಠಶಾಲೆ,  ಕೊಠಡಿ ನಂ 2 15ನೇ ಅಡ್ಡರಸ್ತೆ ದೇವರಾಜು ಅರಸು ನಗರ","Thilak School, Room No 2 15th cross Devaraju arasu nagar"
+168,51,ನಗರಪಾಲಿಕೆ ಸಮುದಾಯ ಭವನ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  20ನೇ ಅಡ್ಡರಸ್ತೆ ದೇವರಾಜು ಅರಸು ನಗರ,Nagarapalike Cammunity Hal  Room No 2 20th Cross Devaraju arasu nagar
+168,52,"ಕರ್ನಾಟಕ ಶಾದಿ ಕಮಿಟಿ ವಿದ್ಯಾಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ, 1 9ನೇ ಅಡ್ಡರಸ್ತೆ ಪಾದರಾಯನಪುರ","Karnataka Shadhi Commiti Education Society, Room No 1 9th cross padarayanapura"
+168,53,"ಕರ್ನಾಟಕ ಶಾದಿ ಕಮಿಟಿ ವಿದ್ಯಾಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ  2 9ನೇ ಅಡ್ಡರಸ್ತೆ ಪಾದರಾಯನಪುರ",Karnataka Shadhi Commiti Vidya  Society Room No 2 9th cross padarayanapura
+168,54,"ಕಿಂಟೋ ಕಾನ್ವೆಂಟ್‌ ವಿದ್ಯಾಸಂಸ್ಥೆ,, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 42 5ನೇ ಅಡ್ಡರಸ್ತೆ ವಿನಾಯಕನಗರ","Kinto Convent Education Society, Room 1 42, 5th cross Vinayakanagar"
+168,55,ಕಿಂಟೋ ಕಾನ್ವೆಂಟ್‌ ಆಂಗ್ಲಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2   42 5ನೇ ಅಡ್ಡರಸ್ತೆ ವಿನಾಯಕನಗರ,Kinto Convent English School Room No 2 42 5th cross vinayakanagar
+168,56,ಕಿಂಟೋ ಕಾನ್ವೆಂಟ್‌ ಆಂಗ್ಲಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 42 5ನೇ ಅಡ್ಡರಸ್ತೆ ವಿನಾಯಕನಗರ,.Kinto Convent Education English School Room No 3 42 5th cross vinayakanagar
+168,57,ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಮತ್ತು ಪ್ರೌಢಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,Govt Primary And Highschool Room No 1 5th Main road padarayanapura
+168,58,ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಮತ್ತು ಪ್ರೌಢಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,Govt Primary And Highschool Room No 2 5th main road padarayanapura
+168,59,ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಮತ್ತು ಪ್ರೌಢಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,Govt Primary And Highschool Room No 3 5th main road padarayanapura
+168,60,"ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಮತ್ತು ಪ್ರೌಢಶಾಲೆ,  ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ",Govt Primary And Highschool Room No 4 5th main road padarayanapura
+168,61,ಜವಹರ್‌ ಮೆಮೋರಿಯಲ್‌ ಆಂಗ್ಲ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ  1 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,Jawahar Memorial English School Room No 1 5th main road padarayanapura
+168,62,ಜವಹರ್‌ ಮೆಮೋರಿಯಲ್‌ ಆಂಗ್ಲ ಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  5ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,Jawahar Memorial English School Room No 2 5th main road padarayanapura
+168,63,"ನ್ಯೂ ಟೌನ್‌ ಆಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ1 1ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ","New Town English School, Room No 1 1st main road padarayanapura"
+168,64,ನ್ಯೂ ಟೌನ್‌ ಆಂಗ್ಲ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  1ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ,NewTown English School Room No 2 1st main road padarayanapura
+168,65,"ನ್ಯೂ ಟೌನ್‌ ಆಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 1ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ","New Town English School, Room No 3 1st main road Padarayanapura"
+168,66,"ನ್ಯೂ ಟೌನ್‌ ಆಂಗ್ಲ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 4 1ನೇ ಮುಖ್ಯರಸ್ತೆ ಪಾದರಾಯನಪುರ","New Town English School , Room No - 4 1st main road padarayanapura"
+168,67,ಓಪನ್‌ ಥಿಯೇಟರ್‌ ವಾರ್ಡ್‌ ಕಛೇರಿ  ಸಂಗಂ ಸರಕಲ್,Open Theater Ward Office  Sangam Circle
+168,68,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 1 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No - 1 Sangam Circle JJR Nagar"
+168,69,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 2 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Manahanagara Palike Girls High School  , Room No 2 Sangam Circle JJR Nagar"
+168,70,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 3 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No - 3 Sangam Circle JJR Nagar"
+168,71,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 3 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No - 3 Sangam Circle JJR Nagar"
+168,72,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 6 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No - 6 Sangam Circle JJR Nagar"
+168,73,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ  4 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No 4 Sangam Circle JJR Nagar"
+168,74,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಬಾಲಕಿಯರ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5 ಸಂಗಂ ಸರಕಲ್  ಜೆಜೆಆರ್ ನಗರ","Bangalore Mahanagara Palike Girls High School , Room No 5 Sangam Circle JJR Nagar"
+168,75,"ನಮೂರ ಮಾಧರಿ ಪ್ರಥಮಿಕ ಶಾಲೆ  ಸಂಗಂ ಸಕರಲ್ ಜೆಜೆಆರ್ ನಗರ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,","Govt Model Primary School  , Room No - 1 Sangam Circle J J R nagar"
+168,76,"ನಮೂರ ಮಾಧರಿ ಪ್ರಥಮಿಕ ಶಾಲೆ  ಸಂಗಂ ಸಕರಲ್ ಜೆಜೆಆರ್ ನಗರ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,",Govt Model Primary School Sangum circle J J R Nagar room No 2
+168,77,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 2 J J R Nagar Main road"
+168,78,"ನಮೂರ ಮಾಧರಿ ಪ್ರಥಮಿಕ ಶಾಲೆ  ಸಂಗಂ ಸಕರಲ್ ಜೆಜೆಆರ್ ನಗರ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 3,",Govt Model primary School Sangum circle room No 3
+168,79,ನಮೂರ ಮಾಧರಿ ಪ್ರಥಮಿಕ ಶಾಲೆ  ಸಂಗಂ ಸಕರಲ್ ಜೆಜೆಆರ್ ನಗರ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 4,Govt. Model primary School Sangum circle J J R nagar Room 4
+168,80,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 9 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 9 J J R Nagar Main road"
+168,81,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 3 J J R Nagar Main road"
+168,82,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 5 J J R Nagar Main road"
+168,83,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 6 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 6 J J R Nagar Main road"
+168,84,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 7 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room NO 7 JJR Nagar main road"
+168,85,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ. 8 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No. 8 JJR Nagar Main road"
+168,86,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 10 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No - 10 JJR Nagar main road"
+168,87,"ಸೆಂಟ್‌ ಪೀಟರ್‌ಸ್‌ ಮತ್ತು ಪಾಲ್‌ಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 11 ಜೆಜೆಆರ್ ನಗರ ಮುಖ್ಯರಸ್ತೆ","St. Peeters And Pauls High School , Room No 11 JJR Nagar main road"
+168,88,"ಕಾರ್ಪೋರೇಷನ್‌ ನರ್ಸರಿ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಅಶ್ವಥ್ ಕಟ್ಟೆ ಜೆಜೆಆರ್ ನಗರ","Corporation Nursery School , Room No 1 Ashwath katte JJR Nagar"
+168,89,"ಕಾರ್ಪೋರೇಷನ್‌ ನರ್ಸರಿ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಅಶ್ವಥ್ ಕಟ್ಟೆ ಜೆಜೆಆರ್ ನಗರ","Corporation Nursery School , Room No 2 Ashwath katte JJR Nagar"
+168,90,"ಐಪಿಪಿ, ಆರೋಗ್ಯ ಕೇಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  ಅಂಜನಪ್ಪ ಗಾರಡನ್","IPP, Health Center Room no 1 Anjanappa garden"
+168,91,"ನಗರ ಪಾಲಿಕೆ ನರ್ಸರಿ ಶಾಲೆ,ಫ್ಲವರ್ ಗಾರಡನ್",Nagara Paalike Nursery School Flower Garden
+168,92,ಬಿ‌ಬಿ‌ಎಮ್‌ಪಿ  ಹೆಲ್ತ್  ಸೆಂಟರ್  (ಐ‌ಪಿ‌ಪಿ 8) ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ಉತ್ತರ),BBMP health center (IPP 8) room no 2 Anjanappa garden (North)
+168,93,ಬಿ‌ಬಿ‌ಎಮ್‌ಪಿ ಹೆಲ್ತ್ ಸೆಂಟರ್ (ಐ‌ಪಿ‌ಪಿ 8)ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ಉತ್ತರ),BBMP Health Center (IPP 8) room no 3 Anjanappa garden (North)
+168,94,ಬಿ‌ಬಿ‌ಎಮ್‌ಪಿ ಹೆಲ್ತ್ ಸೆಂಟರ್ (ಐ‌ಪಿ‌ಪಿ 8)ಕೊಠಡಿ ಸಂಖ್ಯೆ 4  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ದಕ್ಷಿಣ ಭಾಗ),BBMP Health Center (IPP 8) room no 4 Anjanappa garden ( South side)
+168,95,"ಸರ್ಕಾರಿ ಹೊಸ ಮಾದರಿ ತಮಿಳು  ಬಾಲಕರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ಉತ್ತರ)","Govt. New Model Tamil Boys School, room no 1 Anjanappa garden (north)"
+168,96,"ಸರ್ಕಾರಿ ಹೊಸ ಮಾದರಿ ತಮಿಳು  ಬಾಲಕರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ದಕ್ಷಿಣ)","Govt. New Model Tamil Boys School, room no 2 Anjanappa garden ( South)"
+168,97,"ಸರ್ಕಾರಿ ಹೊಸ ಮಾದರಿ ತಮಿಳು  ಬಾಲಕರ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  ಅಂಜನಪ್ಪ ಗಾರಡನ್  (ದಕ್ಷಿಣ)","Govt. New Model Tamil Boys School, room no 3 Anjanappa garden ( south wing)"
+168,98,ವಿವೇಕಾನಂದ ಗ್ರಂಥಾಲಯ   ಅಂಜನಪ್ಪ ಗಾರಡನ್,"Vivekananda  Laibrary, Anjanappa garden"
+168,99,"ನಗರ ಪಾಲಿಕೆ ನರ್ಸರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  ಮರಮ್ಮ ದೇವಸ್ಥಾನದ ಹತ್ತಿರ ಪೆನ್ಶನ್ ಮೊಹಲ್ಲಾ (ಉತ್ತರ)","Nagara Palike Nursery  School, Near Maramma Temple Pensation Mohalla (North)"
+168,100,"ನಗರ ಪಾಲಿಕೆ ನರ್ಸರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  ಮರಮ್ಮ ದೇವಸ್ಥಾನದ ಹತ್ತಿರ ಪೆನ್ಶನ್ ಮೊಹಲ್ಲಾ (ಉತ್ತರ)","Nagara Palike Nursery School, room no 2 Near Maramma temple Pensation mohalla (North)"
+168,101,"ನಗರ ಪಾಲಿಕೆ ನರ್ಸರಿ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 ಮರಮ್ಮ ದೇವಸ್ಥಾನದ ಹತ್ತಿರ ಪೆನ್ಶನ್ ಮೊಹಲ್ಲಾ (ಉತ್ತರ)","Nagara Palike Nursery School, Room no 3 near Maramma temple pensation mohalla (north"
+168,102,"ನಗರ ಪಾಲಿಕೆ ನರ್ಸರಿ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 4  ಮರಮ್ಮ ದೇವಸ್ಥಾನದ ಹತ್ತಿರ ಪೆನ್ಶನ್ ಮೊಹಲ್ಲಾ","Nagara Palike Nursery School,room no 4 near Maramma temple pensation mohalla"
+168,103,"ಸರ್ಕಾರಿ ಸಂಯುಕ್ತ ಪ್ರೌಡ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ ಭಕ್ಷಿ ಗಾರಡನ್",Govt. Samyuktha High School room no 1 Dr. T.C.M Rayon Road Bakshi Garden
+168,104,"ಸರ್ಕಾರಿ ಸಂಯುಕ್ತ ಪ್ರೌಡ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ ಭಕ್ಷಿ ಗಾರಡನ್",Govt. Samyuktha High School room no 2 Dr. T.C.M Rayon road bakshi garden
+168,105,ಸರ್ಕಾರಿ ಹೊಸ ಉರ್ದು ಬಾಲಕಿಯರ ಮಾಧ್ಯಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ  ಕಲ್ಲಿನ ಕಟ್ಟಡ (ದಕ್ಷಿಣ),"Govt. New Urdu Girls Medium School, room no 1 Dr. T.C.M Rayon road Stone Building (South)"
+168,106,ಸರ್ಕಾರಿ ಹೊಸ ಉರ್ದು ಬಾಲಕಿಯರ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ  ಕಲ್ಲಿನ ಕಟ್ಟಡ (ದಕ್ಷಿಣ),Govt New Urdu Girls School room no 2 Dr. T.C.M Rayon road Stone Building ( South)
+168,107,"ಸರ್ಕಾರಿ ಹೊಸ ಉರ್ದು ಬಾಲಕಿಯರ ಮಾಧ್ಯಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ  ಕಲ್ಲಿನ ಕಟ್ಟಡ","Govt. New Urdu Girls Medium School, room no 3 Dr. T.C.M.Roayn road Stone building"
+168,108,ಸರ್ಕಾರಿ ಹೊಸ ಉರ್ದು ಬಾಲಕಿಯರ ಮಾಧ್ಯಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ  ಕಲ್ಲಿನ ಕಟ್ಟಡ,"Govt. New Urdu Girls Medium School,room no 4 Dr. T.C.M Royan road stone building (east side)"
+168,109,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಗ್ರಂಥಾಲಯ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ","Bangalore Mahanagara Palike Library, room no 1 Dr.T.C.M Royan Road"
+168,110,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಗ್ರಂಥಾಲಯ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಡಾ|| ಟಿ.ಸಿ.ಎಂ ರಾಯನ್ ರಸ್ತೆ","Bangalore Mahanagara Palike Library, room no 2 Dr.T.C.M Royan road"
+168,111,"ಕಿಂಟೋ ಕಾನ್ವೆಂಟ್‌,  ಆಂಗ್ಲಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ.4 42, 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","Kinto Convent,English School  Room No.4 42, 5th cross vinayakanagar"
+168,112,"ಕಿಂಟೋ ಕಾನ್ವೆಂಟ್‌ ಆಂಗ್ಲಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 5  42, 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","Kinto Convent Engish School,Room No 5, 42, 5th cross vinayakanagar"
+168,113,"ಕಿಂಟೂ ಕಾನ್ವೆಂಟ್‌  ಇಂಗ್ಲಿಷ್ ಸ್ಕೂಲ್ ಕೊಠಡಿ ಸಂಖ್ಯೆ.6 42, 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","Kinto Convente English School room no 6 42, 5th cross vinayakanagar"
+168,114,"ಕಿಂಟೂ ಕಾನ್ವೆಂಟ್‌  ಇಂಗ್ಲಿಷ್ ಸ್ಕೂಲ್ ಕೊಠಡಿ ಸಂಖ್ಯೆ.6 42, 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","Kinto Convente English School room no 6 42, 5th cross vinayakanagar"
+168,115,"ಕಿಂಟೂ ಕಾನ್ವೆಂಟ್‌ ಅಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 7  42, 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","Kinto Canvent English School, Room No 7 42, 5th cross vinayakanagar"
+168,116,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education Society, Room No.1 5th  cross vinayakanagar"
+168,117,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1  5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education Society, Room No.1 5th cross vinayakanagar"
+168,118,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ,, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2  5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education Society, Room No.2 5th cross vinayakanagar"
+168,119,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ,, ಕೊಠಡಿ ಸಂಖ್ಯೆ.3 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education Society, Room No.3 5th cross vinayakanagar"
+168,120,ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ.4 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ,"New Sudha Education Society, Room No.4 5th cross vinayakanagar"
+168,121,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.5 5ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education Society, Room No.5 5th cross vinayakanagar"
+168,122,"ಕಿಂಟೂ ಹೈಸ್ಕೂಲ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ.5 6ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ",Kinto High School  Room No.5 6th cross Padarayanapura
+168,123,"ಹೊಸ ಸುಧಾ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.7  7ನೇ ಕ್ರಾಸ್ ವಿನಾಯಕನಗರ","New Sudha Education society,Room No.7 7th cross vinayakanagar"
+168,124,"ಕರ್ನಾಟಕ ಶಾದಿ ಕಮಿಟಿ ವಿದ್ಯಾ ಸಂಸ್ಥೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ.3 9ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ",Karnataka Shadhi Commity Education Society Room No.3 9th cross Padarayanapura
+168,125,"ಕರ್ನಾಟಕ ಶಾದಿ ಕಮಿಟಿ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2  9ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ","Karnataka Shadhi Commity Education Society, Room No.2 9th cross Padarayanapura"
+168,126,ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ.1  9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ,"Kaveri Ashrama Education Society, Room No.1 9th cross Devaraju Arasu nagar"
+168,127,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ., ಕೊಠಡಿ ಸಂಖ್ಯೆ.2 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society, Room No.2 9th cross Devaraju arasu nagar"
+168,128,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.3 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society, Room No.3 9th cross Devaraju arasu nagar"
+168,129,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.4 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society,Room No.4 9th cross Devaraju Arasu Nagar"
+168,130,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.5 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society, Room No.5 9th cross Dvaraju arasu nagar"
+168,131,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.6 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society,Room No.6 9th cross Devaraju arasu nagar"
+168,132,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.7 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society, Room No.7 9th cross Devaraju arasu nagar"
+168,133,"ಕಾವೇರಿ ಆಶ್ರಮ ವಿದ್ಯಾ ಸಂಸ್ಥೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.8 9ನೇ ಕ್ರಾಸ್ ದೇವರಾಜು ಅರಸು ನಗರ","Kaveri Ashrama Education Society,Room No.8 9th cross Devaraju arasu nagar"
+168,134,"ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಜನತ ಕಾಲೋನಿ 4ನೇ ಕ್ರಾಸ್ ಮೈಸೂರು ರಸ್ತೆ","Govt. Primary School, Janatha Colony 4th cross Mysore road"
+168,135,"43 ವಾರ್ಡ್‌ ಕಛೇರಿ (ಕಂದಾಯ),ಬಿ ಬಿ ಎಮ್‌ ಪಿ  ಕೊಠಡಿ ಸಂಖ್ಯೆ.1  2ನೇ ಕ್ರಾಸ್ ಮೈಸೂರು ರಸ್ತೆ","43 Ward Office (Revenue),B B M P room no 1 2nd Cross Mysore road"
+168,136,"43 ವಾರ್ಡ್‌ ಕಛೇರಿ (ಕಂದಾಯ), ಕೊಠಡಿ ಸಂಖ್ಯೆ.2  2ನೇ ಕ್ರಾಸ್ ಮೈಸೂರು ರಸ್ತೆ","43 Ward Office (Revenue), room no 2 2nd cross Mysore road"
+168,137,"ಹೋಲಿಗೆ ತರಬೇತಿ ಕೇಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1 3ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ","Tailoring Center, Room No.1 3rd cross padarayanapura"
+168,138,"ಹೋಲಿಗೆ ತರಬೇತಿ ಕೇಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2 3ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ","Tailoring Center, Room No.2 3rd cross padarayanapura"
+168,139,43 ವಾರ್ಡ್‌ ಕಛೇರಿ (ಆರೋಗ್ಯ) 3ನೇ ಕ್ರಾಸ್ ಪಾದರಾಯನಪುರ,43 Ward Office (Health)3rd cross padarayanapura
+168,140,ಅಂಗನವಾಡಿ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ.1 2ನೇ ಕ್ರಾಸ್  ಮೈಸೂರು ರಸ್ತೆ ಪಾದರಾಯನಪುರ,Anganavadi School room no 1 2nd cross Mysore road Padarayanapura
+168,141,ಅಂಗನವಾಡಿ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ.2 2ನೇ ಕ್ರಾಸ್  ಮೈಸೂರು ರಸ್ತೆ ಪಾದರಾಯನಪುರ,Anganavadi School room no 2 2nd cross mysore road padarayanapura
+168,142,ಹೋಲಿಗೆ ತರಭೇತಿ ಕೇಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ  ಪೋಲಿಸ್ ವಸತಿ ಗೃಹ ಮೈಸೂರು ರಸ್ತೆ,Tailoring Centre Room No Police Quaters Mysore road
+168,143,ಸಿ.ಎ.ಆರ್‌. ಪೋಲಿಸ್‌ ಗ್ರಂಥಾಲಯ ಮೈಸೂರು ರಸ್ತೆ,C.A.R. Police Library Mysore road
+168,144,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ರೂಂ ನಂ. 1 ಸಿ.ಎ.ಆರ್ ಪೋಲಿಸ್ ವಸತಿ ಗೃಹ ಮೈಸೂರು ರಸ್ತೆ","Govt. Kannada Primary School, Room No. 1 C.A.R Police Quaters Mysore road"
+168,145,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ರೂಂ ನಂ. 2  ಸಿ.ಎ.ಆರ್ ಪೋಲಿಸ್ ವಸತಿ ಗೃಹ ಮೈಸೂರು ರಸ್ತೆ","Govt. Kannada Primary School, Room No. 2 C.A.R Police quaters Mysore road"
+168,146,ಸೆಂಟ್‌ ಥೆರೇಸ ಗಲ್ಸ್ ಸ್ಕೂಲ್  ರೂಂ ನಂ. 1 ಸುಲ್ತಾನ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ,St. Theresa Girls School room no 1 Sulthan road Chamarajapet
+168,147,ಸೆಂಟ್‌ ಥೆರೇಸ  ಗಲ್ಸ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ. 2 ಸುಲ್ತಾನ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ,St. Theresa Girls School room no 2 Sulthan road chamarajpet
+168,148,ಸೆಂಟ್‌ ಥೆರೇಸ ಗಲ್ಸ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ. 3 ಸುಲ್ತಾನ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ,St. Theresa Girls School room no 3 Sulthan road chamarajpet
+168,149,ಸೆಂಟ್‌ ಥೆರೇಸ ಗಲ್ಸ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ. 4 ಸುಲ್ತಾನ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ,St. Theresa Girls School room no 4 sulthan road chamarajpete
+168,150,ಸೆಂಟ್‌ ಥೆರೇಸ ಗಲ್ಸ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ. 5 ಸುಲ್ತಾನ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ,St. Theresa Girls School room no 5 sulthan road chamarajpet
+168,151,ಆರ್‌.ಬಿ. ಜವರ್‌ಲಾಲ್‌ ಮೆಮೋರಿಯಲ್‌ ವಾಣಿಜ್ಯ ಕೇಂದ್ರ ಅನಂದಪುರಂ ಮೈಸೂರು ರಸ್ತೆ,RB Jawarlal Memorial Comm. centre Anandapuram Mysore road
+168,152,"ಸರ್ಕಾರಿ ಅಪ್‌ ಗ್ರೇಡ್‌ ಉರ್ದು ಬಾಲಕರ ಶಾಲೆ, ರೂಂ ನಂ. 1 ಟಿಪ್ಪುನಗರ",Govt. upgrade Urdu Boys School  room no 1 Tippunagar
+168,153,"ಸರ್ಕಾರಿ ಆಫ್‌ ಗ್ರೇಡ್‌ ಉರ್ದು ಬಾಲಕರ ಶಾಲೆ,  ರೂಂ ನಂ. 2 ಟಿಪ್ಪುನಗರ",Govt Up Grade Urdu Boys school room no 2 Tippunagar
+168,154,ಮೊರಾರ್ಜಿ ದೇಸಾಯಿ ಹೈ ಸ್ಕೂಲ್  ರೂಂ ನಂ. 3 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ,Morarji Desai High School room no 3 5th cross chamarajpet
+168,155,"ಕಸ್ತೂರಿಬಾ ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಕಲ್ಯಾಣಭಿವೃದ್ದಿ ಕೇಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಸಿರಸಿ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Kasturiba Women & Children Welfare Center room no 1 Sirasi road chamarajpete
+168,156,"ಕಸ್ತೂರಿಬಾ ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಕಲ್ಯಾಣಭಿವೃದ್ದಿ ಕೇಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  ಸಿರಸಿ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Kasturiba Women & Children Welfare Center room no 2 Sirasi road chamarajpete
+168,157,"ಕಸ್ತೂರಿಬಾ ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಕಲ್ಯಾಣಭಿವೃದ್ದಿ ಕೇಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 ಸಿರಸಿ ರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Kasturiba Women & Children Welfare Center room no 3 sirasi road chamarajpet
+168,158,"ಮೋರಾರ್‌ಜಿ ದೇಸಾಯಿ ರೆಸಿಡೆನ್‌ಶಿಯಲ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Morarji Desai Residential School room no 1 5th cross chamarajpet
+168,159,"ಮೋರಾರ್‌ಜಿ ದೇಸಾಯಿ ರೆಸಿಡೆನ್‌ಶಿಯಲ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Morarji Desai Residential School room no 2 5th cross chamarajpet
+168,160,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 1 5th cross chamarajapet
+168,161,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 2 5th cross chamarajpet
+168,162,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 2 5th cross chamarajpet
+168,163,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 3 5th cross chamarajpet
+168,164,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 3 5th cross chamarajpet
+168,165,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಮಾದರಿ ಬಾಲಕ ಮತ್ತು ಬಾಲಕಿಯರ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 5ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Govt. Kannada Model Boys And Girls School room no 4 5th cross chamarajpet
+168,166,"ಕರ್ನಾಟಕ ಮಹಿಳಾ ಹಿಂದಿ ಸೇವಾಸಮಿತಿ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  78, 4ನೇ ಮುಖ್ಯರಸ್ತೆ   ಚಾಮರಾಜಪೇಟೆ",Karnataka Mahila Hindi Sevasamithi room no 1 78 4th main road chamarajapete
+168,167,"ಕರ್ನಾಟಕ ಮಹಿಳಾ ಹಿಂದಿ ಸೇವಾಸಮಿತಿ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  78, 4ನೇ ಮುಖ್ಯರಸ್ತೆ   ಚಾಮರಾಜಪೇಟೆ",Karnataka Mahila Hindi Sevasamithi room no 2 78 4th main road chamarajpet
+168,168,"ಜನತಾ ವಿದ್ಯಾಲಯ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  4, 2ನೇ ಮುಖ್ಯರಸ್ತೆ   ಚಾಮರಾಜಪೇಟೆ","Janatha Vidyalaya room no 1,  4, 2nd main road chamarajpet"
+168,169,"ಜನತಾ ವಿದ್ಯಾಲಯ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  4, 2ನೇ ಮುಖ್ಯರಸ್ತೆ   ಚಾಮರಾಜಪೇಟೆ","Janatha Vidyalaya room no 2 4, 2nd main road chamarajpet"
+168,170,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ, ಓಪನ್ ಥೆಯೇಟರ್ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಚಾಮರಾಜಪೇಟೆ, ಹೋರಾಂಗಣ ಪಾರ್ಕ್‌","Bangalore Mahanagara Palike, Open theater  Room No 1 2nd main road chamarajpet out side park"
+168,171,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ, ಓಪನ್ ಥೆಯೇಟರ್ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 2ನೇ ಮುಖ್ಯರಸ್ತೆ, ಚಾಮರಾಜಪೇಟೆ,","Bangalore Mahanagara Palike,Open Theater room  No 2  2nd Main Road,Chamarajpet, Horangana Park"
+168,172,ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಶಿಶುವಿಹಾರ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಮೈಸೂರು ರಸ್ತೆ ವಾಲ್ಮೀಕಿನಗರ,Bangalore Mahanagara Palike Nursary room no 1 Mysore road Valmikinagar
+168,173,ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ ಶಿಶುವಿಹಾರ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಮೈಸೂರು ರಸ್ತೆ ವಾಲ್ಮೀಕಿನಗರ,Bangalore Mahanagara Palike Nursary room no 2 Mysore road Valmikinagar
+168,174,ಬೆ ಮ ಪಾ ಜ್ಯೂನಿಯರ್‌ ಕಾಲೇಜ್‌. ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಕಸ್ತೂರಿ ಬಾ ನಗರ,BBMP Junior College. Room No 1 Kasturiba nagar
+168,175,ಬೃ ಬೆಂ ಮ ಪಾ ಜ್ಯೂನಿಯರ್‌ ಕಾಲೇಜ್‌. ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ಕಸ್ತೂರಿ ಬಾ ನಗರ,BBMP Junior College. Room No 2 Kasturi Ba nagar
+168,176,ಮಹಾನಗರ ಪಾಲಿಕೆ ಜ್ಯೂನಿಯರ್‌ ಕಾಲೇಜ್‌. ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  ಕಸ್ತೂರಿ ಬಾ ನಗರ,BBMP Junior College. Room NO 3 Kasturi Ba Nagar
+168,177,ಮಹಾನಗರ ಪಾಲಿಕೆ   ಜ್ಯೂನಿಯರ್‌ ಕಾಲೇಜ್‌. ಕೊಠಡಿ ಸಂಖ್ಯೆ 2A  ಕಸ್ತೂರಿ ಬಾ ನಗರ,BBMP Junior College. Room No 2A Kasturi Ba nagar
+168,178,ಮಹಾನಗರ ಪಾಲಿಕೆ   ಜ್ಯೂನಿಯರ್‌ ಕಾಲೇಜ್‌. ಕೊಠಡಿ ಸಂಖ್ಯೆ 2A  ಕಸ್ತೂರಿ ಬಾ ನಗರ,BBMP Junior College. Room No 2A Kasturi Ba nagar
+168,179,ಸರ್ಕಾರಿ  ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 3ನೇ ಕ್ರಾಸ್  ಕಸ್ತೂರಿ ಬಾ ನಗರ,Govt. Model Primary School. Room No 1 3rd cross Kasturi Ba nagar
+168,180,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 3ನೇ ಕ್ರಾಸ್  ಕಸ್ತೂರಿ ಬಾ ನಗರ,Govt. Higher Primary School. Room No 2 3rd cross Kasturi Ba nagar
+168,181,ಸರ್ಕಾರಿ ಮಾದರಿ  ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  3ನೇ ಕ್ರಾಸ್  ಕಸ್ತೂರಿ ಬಾ ನಗರ,Govt. Model Primary School. Room No 3 3rd cross Kasturi Ba nagar
+168,182,ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ಕೊಠಡಿ ಸಂಖ್ಯೆ 4 3ನೇ ಕ್ರಾಸ್  ಕಸ್ತೂರಿ ಬಾ ನಗರ,Govt. Model Primary School. Room No 4 3rd cross Kasturi Ba nagar
+168,183,ಲಕ್ಷ್ಮಿ  ಮಾರಮ್ಮ  ಟೆಂಪಲ್  ಸೇವ  ಸಮಾಜ  ಸಂಘ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 2ನೇ ಮುಖ್ಯರಸ್ತೆ  ವಾಲ್ಮೀಕಿನಗರ,Lakshmi maramma temple seva samaja sangh room no 1 2nd main road Valmikinagar
+168,184,ಲಕ್ಷ್ಮಿ  ಮಾರಮ್ಮ  ಟೆಂಪಲ್  ಸೇವ  ಸಮಾಜ  ಸಂಘ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 2ನೇ ಮುಖ್ಯರಸ್ತೆ  ವಾಲ್ಮೀಕಿನಗರ,Lakshmi maramma temple seva samaja sangh room no 2 2nd main road Valmikinagar
+168,185,ರೋಷನ್‌ ಆಂಗ್ಲ ನರ್ಸರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ  1 5ನೇ ಕ್ರಾಸ್ ವಾಲ್ಮೀಕಿನಗರ,Roshan English Nursery Higher Primary School 1 5th cross Valmikinagar
+168,186,ಲೆದರ್‌ ಕ್ರಾಫ್‌ಟ್‌  ಸೊಸೈಟಿ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 5 1ನೇ  ಮುಖ್ಯರಸ್ತೆ ವಾಲ್ಮೀಕಿನಗರ,Leather Craft Society room no 5 1st main road Valmikinagar
+168,187,ಆಯಿಷಾ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ವಾಲ್ಮೀಕಿನಗರ,Ayisha Urdu Higher Primary School Valmikinagar
+168,188,ಕಾರ್ಪೊರೇಷನ್‌ ವಾರ್ಡ್‌ ಕಛೇರಿ ವಾಲ್ಮೀಕಿನಗರ  ಮೈಸೂರು ರಸ್ತೆ,"Corporation Ward Office, Valmikinagar Mysore road"
+168,189,ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ  ಆರೋಗ್ಯ ಕೇಂದ್ರ ವಾಲ್ಮೀಕಿನಗರ,B B M P Health Center Valmikinagar
+168,190,"ಕೇಂಬ್ರಿಡ್‌ಜ್‌ ಆಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ನಂ 2 5ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ","Cambridge English School, Room No 2  no 2 5th cross Azad nagar"
+168,191,"ಕೇಂಬ್ರಿಡ್‌ಜ್‌ ಆಂಗ್ಲ  ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ  3 ನಂ 2 5ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ","Cambridge English School, Room No 3 # 2 5th cross Azad nagar"
+168,192,"ಕೇಂಬ್ರಿಡ್‌ಜ್‌  ಆಂಗ್ಲ  ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ನಂ 2 5ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ","Cambridge English School, Room No 1 # 2 5th cross Azad nagar"
+168,193,"ಸರ್ಕಾರಿ ಬಾಲಕರ ಕನ್ನಡ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  1ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ",Govt. Boys Kannada Moddle Primary School room no 1 1st cross Azad nagar
+168,194,"ಸರ್ಕಾರಿ ಬಾಲಕರ ಕನ್ನಡ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  1ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ",Govt. Boys Kannada Moddle Primary School Room No 2 1st cross Azad nagar
+168,195,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ   ನರ್ಸರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  6ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ","B B M P Nursery School,  Room No 1 6th cross Azad nagar"
+168,196,"ಬೆಂಗಳೂರು ಮಹಾನಗರ ಪಾಲಿಕೆ   ನರ್ಸರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ  2 6ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ","B B M P Nursery School, Room No 2 6th cross Azad nagar"
+168,197,ಪಂಡಿತ್‌ ಜವಹರ್‌ ಲಾಲ್‌ ನೆಹರು ಮೆಮೋರಿಯಲ್‌ ಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  9ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ,Pandith Javahar Lal  Nehru Memorial School room no 1 9th cross Chamarajpet
+168,198,"ಪಂಡಿತ್‌ ಜವಾಹರ್‌ ಲಾಲ್‌ ನೆಹರು ಮೆಮೋರಿಯಲ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ  2 9ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ",Pandith Javahar Lal  Nehru Memorial School Room No 2 9th cross chamrajpet
+168,199,"ಪಂಡಿತ್‌ ಜವಾಹರ್‌ ಲಾಲ್‌ ನೆಹರು ಮೆಮೋರಿಯಲ್‌ ಶಾಲೆ,  ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  9ನೇ ಕ್ರಾಸ್ ಚಾಮರಾಜಪೇಟೆ","Pandith Javahar Lal Nehru Memorial School, room no 3 9th cross chamarajpet"
+168,200,"ಬಿ ಬಿ ಎಂ ಪಿ ಸಮುದಾಯ ಭವನ,, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 7ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ",B B M P Community Hall room no 1 7th cross Azad nagar
+168,201,"ಬಿ ಬಿ ಎಂ ಪಿ ಸಮುದಾಯ ಭವನ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  7ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ",B B M P Community Hall room no 2 7th cross Azad nagar
+168,202,ಬಿ ಬಿ ಎಂ ಪಿ ವ್ಯಾಯಾಮ ಶಾಲೆ  7ನೇ ಕ್ರಾಸ್ ಅಜಾದ್ ನಗರ,B B M P Gym School 7th cross Azad nagar
+168,203,"ಅಂಗನವಾಡಿ ಶಾಲೆ ದೀನಾದಲಿತರ ಸಂಘ, ನಂಜಂಬ ಅಗ್ರಾಹಾರ","Anganavadi School deenadalithara Sangha, Nanjambha Agrahara"
+168,204,"ಶ್ರೀರಾಮ ಮಂದಿರ ಪ್ರೌಢಶಾಲೆ,  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ram mandira high school Room No.1 # 14 5th main road Chamarajpet
+168,205,"ಶ್ರೀರಾಮ ಮಂದಿರ ಪ್ರೌಢಶಾಲೆ, ರೂಂ ನಂ. 2  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Rama Mandira High School room no 2 #14 5th main road chamarajpet
+168,206,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 1 #14 5th main road chamarajpet
+168,207,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 6  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 6 # 14 5th main road chamarajpet
+168,208,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 3 #14 5th main road chamarajpet
+168,209,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 4 #14 5th main road chamarajpet
+168,210,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 4 #14 5th main road chamarajpet
+168,211,"ಶ್ರೀರಾಮಮಂದಿರ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 5  # 14 5ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ",Sri Ramamandira Nursery And Primary School room no 5 #14 5th main road chamarajpet
+168,212,"ಭಾರತೀಯ ಸಂಸ್ಕೃತಿ ವಿದ್ಯಾಪೀಠ, ನಂ 8 4ನೇ ಮುಖ್ಯರಸ್ತೆ ಚಾಮರಾಜಪೇಟೆ","Bharathiya Samskruthi Vidya Peeta, No.8, 4th, Main Road  chamarajapet"
+168,213,"ಶಾರದ ಸ್ತ್ರೀ ಸಮಾಜ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ನಂ ಎ.ವಿ ರಸ್ತೆ  ಚಾಮರಾಜಪೇಟೆ","Sharada Stree Samaja   Room No.1    No.39, A.V, Road Chamarajapet"
+168,214,"ಶಾರದ ಸ್ತ್ರೀ ಸಮಾಜ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2  ನಂ 39 ಎ.ವಿ ರಸ್ತೆ  ಚಾಮರಾಜಪೇಟೆ","Sharada Stree Samaja Room No 2 No 39, AV Road Chamrajpet"
+168,215,"ಶಾರದ ಸ್ತ್ರೀ ಸಮಾಜ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3  ನಂ 39  ಎ.ವಿ ರಸ್ತೆ  ಚಾಮರಾಜಪೇಟೆ","Sharada Womens Association room no 3 No 39, AV Road Chamrajpet"
+168,216,"ಶಾರದ ಸ್ತ್ರೀ ಸಮಾಜ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4  ನಂ 39 ಎ.ವಿ ರಸ್ತೆ  ಚಾಮರಾಜಪೇಟೆ",Sharada Womens Association room no 4 No 39 AV road Chamrajpet
+168,217,ಕಾರ್ಪೋರೇಷನ್‌ ಉಪ ಆರೋಗ್ಯ ಕಛೇರಿ  ಕೆಂಪ ಬುದಿ ಸ್ಮಶನ  ನಂಜಂಭ ಅಗ್ರಾಹಾರ ಮುಖ್ಯರಸ್ತೆ,Corporation Sub Health Office Kempambudi Burial Ground Nanjamba Agrahara Main Road
+168,218,ಆಯಿಶಾ ಇಂಗ್ಲೀಷ್‌ ಹೈ ಸ್ಕೂಲ್    ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ವಿಠ್ಠಲನಗರ,Ayisha English High School Room No - 1  Vittalnagara
+168,219,"ಆಯಿಶಾ ಇಂಗ್ಲೀಷ್‌  ಹೈ ಸ್ಕೂಲ್ ಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 2 ವಿಠ್ಠಲನಗರ","Ayisha English High  School , Room No - 2 Vittalnagar"
+168,220,"ಆಯಿಶಾ ಇಂಗ್ಲೀಷ್‌ ಹೈ ಸ್ಕೂಲ್ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 3 ವಿಠ್ಠಲನಗರ","Ayisha English High School , Room No - 3 Vittalnagar"
+168,221,ಆಯಿಶಾ ಆಂಗ್ಲ ಹೈ ಸ್ಕೂಲ್ ಕೊಠಡಿ ಸಂಖ್ಯೆ - 4 ವಿಠ್ಠಲನಗರ,Ayisha English high School . Room No - 4 Vittalnagar
+168,222,"ಸರ್ಕಾರಿ ಉರ್ದು ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ಪೈಪ್ ಲೈನ್ ಕಸ್ತೂರಿಬಾನಗರ","Govt. Urdu Primary School , Room No - 1 pipe Line  Kasthuri Bha Nagara"
+168,223,"ಸರ್ಕಾರಿ ಉರ್ದು ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ - 2 ಪೈಪ್ ಲೈನ್ ಕಸ್ತೂರಿಬಾನಗರ","Govt. Urdu Primary School , Room No - 2 Pipe Line Kasturiba nagar"
+168,224,"ಜ್ಞಾನ ಭಾರತಿ ಪ್ರೌಢ ಶಾಲೆ , (ಗಾರ್ಡನ್‌ ಶಾಲೆ) ಕೊಠಡಿ ಸಂಖ್ಯೆ - 1 ವಿಠ್ಠಲನಗರ, ಮುಲಕಟ್ಟಮ್ಮ ದೇವಸ್ಥಾನ ರಸ್ತೆ","gyana Bharathi High School ,(Garden School)  Room No - 1 Vittal Nagara  Mullkattamma Temple Road"
+168,225,"ಜ್ಞಾನ ಭಾರತಿ  ಪ್ರೌಢಶಾಲೆ ,(ಗಾರ್ಡನ್ ಸ್ಕೂಲ್) ಕೊಠಡಿ ಸಂಖ್ಯೆ - 2 ವಿಠ್ಠಲನಗರ, ಮುಲಕಟ್ಟಮ್ಮ ದೇವಸ್ಥಾನ ರಸ್ತೆ","Gyana Bharathi High School  (garden School), Room No - 2 vittalnagar mullkattamma Temple road"

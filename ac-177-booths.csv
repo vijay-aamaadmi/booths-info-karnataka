@@ -3,319 +3,344 @@ AC NO,Part NO,Polling Station Name(Kannada),Polling Station Name(English)
 177,2,ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,"Govt. Modle Primary School, Room No 2"
 177,3,ಸರ್ಕಾರಿ ಮಾಧರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 3,"Govt. Model Primary School, Room No 3"
 177,4,ಸರ್ಕಾರಿ ಮಾಧರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 4,"Govt. Model Primary School, Room No 4"
-177,5,"ಸರ್ಕಾರಿ ಮಾಧರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt. Model Primary School, Room No 5"
-177,6,"ಸರ್ಕಾರಿ ಮಾಧರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 6","Govt. Model Primary School, Room No 6"
-177,7,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 7","Govt. Model Primary School, Room No 7"
-177,8,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 8","Govt. Model Primary School, Room No 8"
-177,9,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 9","Govt. Model Primary School, Room No 9"
-177,10,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Room No 1"
-177,11,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Room No 2"
-177,12,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. Higher Primary School, Room No 3"
-177,13,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4,ರಾಯಸಂದ್ರ",Govt Higher Primary School.Room.No.4 Rayasandra
-177,14,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Govt. Lower Primary School Room No 1
-177,15,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,Govt. Lower Primary School Room No 2
-177,16,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,17,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lowe Primary School
-177,18,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,19,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School
-177,20,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,5,ಸರ್ಕಾರಿ ಮಾಧರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 4,"Govt. Model Primary School, Room No 4"
+177,6,"ಸರ್ಕಾರಿ ಮಾಧರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt. Model Primary School, Room No 5"
+177,7,"ಸರ್ಕಾರಿ ಮಾಧರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 6","Govt. Model Primary School, Room No 6"
+177,8,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 7","Govt. Model Primary School, Room No 7"
+177,9,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 8","Govt. Model Primary School, Room No 8"
+177,10,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 9","Govt. Model Primary School, Room No 9"
+177,11,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 9","Govt. Model Primary School, Room No 9"
+177,12,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Room No 1"
+177,13,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Room No 2"
+177,14,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. Higher Primary School, Room No 3"
+177,15,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4,ರಾಯಸಂದ್ರ",Govt Higher Primary School.Room.No.4 Rayasandra
+177,16,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Govt. Lower Primary School Room No 1
+177,17,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Govt. Lower Primary School Room No 1
+177,18,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,Govt. Lower Primary School Room No 2
+177,19,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,20,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lowe Primary School
 177,21,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,22,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Govt. Higher Primary School Room No 1
-177,23,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,Govt. Higher Primary School Room No 2
-177,24,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,22,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ತಿಪ್ಪಸಂದ್ರ","Govt. Higher Primary School,Thippasandra"
+177,23,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಹೆಗ್ಗೊಂಡನಹಳ್ಳಿ","Govt. Lower Primary School,Heggondanahalli"
+177,24,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕತ್ತರಿಗುಪ್ಪೆ","Govt. Lower Primary School,Kathariguppe"
 177,25,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Govt. Higher Primary School Room No 1
 177,26,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,Govt. Higher Primary School Room No 2
-177,27,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School
-177,28,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,",Govt. Lower Primayr School
-177,29,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,30,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,31,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School,Room No 1"
-177,32,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School,Room No 2"
-177,33,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Room No 1"
-177,34,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Room No 2"
-177,35,49 ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಚಂಬೇನಹಳ್ಳಿ,Govt. Higher Primary School Chambenahalli
-177,36,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School
-177,37,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School
-177,38,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,39,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ,ಮಟ್ನಹಳ್ಳಿ",Govt. Lower Primary School Matnahalli
-177,40,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,41,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಇಟ್ಟಂಗುರ್,"Govt. Lower Primary School, Ittangur"
-177,42,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಹೆಣ್ಣುಮಕ್ಕಳ, ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Girls Primary School, Room No 1"
-177,43,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಹೆಣ್ಣುಮಕ್ಕಳ, ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Girls Primary School, Room No 2"
-177,44,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Model Primary School, Room No 1"
-177,45,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Model Primary School, Room No 2"
-177,46,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. Model Primary School, Room No 3"
-177,47,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt. Model Primary School, Room No 4"
-177,48,"ಧರ್ಮಸಾಗರ ಪ್ರೌಡಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Dharmasagar High School, Room No 1"
-177,49,"ಧರ್ಮಸಾಗರ ಪ್ರೌಡಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Dharmasagar High School, Room No 2"
-177,50,"ಸರಸ್ವತಿ ವಿದ್ಯಾನಿಕೇತನ ಹೈಸ್ಕೂಲ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Saraswathi Vidhyanikethan High School, Room No 1"
-177,51,"ಸರಸ್ವತಿ ವಿದ್ಯಾನಿಕೇತನ ಹೈಸ್ಕೂಲ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Saraswathi Vidhyanikethan High School, Room No 2"
-177,52,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಜನತಾ ಕಾಲೋನಿ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Janatha Colony, Room No 1"
-177,53,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಜನತಾ ಕಾಲೋನಿ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Janatha Colony, Room No 2"
-177,54,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,55,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,56,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕಾಡಅಗ್ರಹಾರ,Govt. Lower Primary School Kadaagrahara
-177,57,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,58,"ಸರ್ಕಾರಿ ಹಿರಿಯ  ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ,","Govt. Higher Primary  School, "
-177,59,"ಸರ್ಕಾರಿ ಮಾದರಿ ಹುಡುಗರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Model Primary Boys School, Room No 1"
-177,60,"ಸರ್ಕಾರಿ ಮಾದರಿ ಹುಡುಗರ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ  , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Model Primary Boys School, Room No 2"
-177,61,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ  ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 (ಉತ್ತರ ಭಾಗ)","Govt. Model Girls Primary School, Room No 1 (North Side)"
-177,62,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 (ಉತ್ತರ ಭಾಗ)","Govt. Model Girls Primary School, Room No 2 (North Side)"
-177,63,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 (ದಕ್ಷಿಣ ಭಾಗ),","Govt. Model Girls Primary School, Room No1 (South Side),"
-177,64,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 (ದಕ್ಷಿಣ ಭಾಗ),","Govt. Model Girls Primary School, Room No 2 (South Side),"
-177,65,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 (ದಕ್ಷಿಣ ಭಾಗ),","Govt. Model Girls Primary School, Room No 3 (South Side),"
-177,66,"ಸರ್ದಾರ್‌ ವಲ್ಲಭಬಾಯಿ ಪಟೇಲ್‌ ಪ್ರೌಢಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Sardar Valabhai Patel High School, Room No1"
-177,67,"ಸರ್ದಾರ್‌ ವಲ್ಲಭಬಾಯಿ ಪಟೇಲ್‌ ಪ್ರೌಢಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Sardar Vallabhai Patel High School, Room No 2"
-177,68,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,69,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Room No 1"
-177,70,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಕ್ಯೆ 2","Govt. Higher Primary School, Room No 2"
-177,71,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ರೂ ನಂ","Govt. Lower Primary School, Room No"
-177,72,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,73,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Room No 1"
-177,74,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Room No 2"
-177,75,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. Higher Primary School, Room No 3"
-177,76,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt. Higher Primary School, Room No 4"
-177,77,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. Higher Primary School, Room No 3"
+177,27,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,28,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Govt. Higher Primary School Room No 1
+177,29,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,Govt. Higher Primary School Room No 2
+177,30,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School
+177,31,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,",Govt. Lower Primayr School
+177,32,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,33,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,34,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ನೆರಿಗಾ,","Govt. Higher Primary School,Neriga,"
+177,35,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ನೆರಿಗಾ","Govt. Higher Primary School,Neriga"
+177,36,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Room No 1"
+177,37,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Room No 2"
+177,38,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Room No 2"
+177,39,49 ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಚಂಬೇನಹಳ್ಳಿ,Govt. Lower Primary School Chambenahalli
+177,40,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School
+177,41,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School
+177,42,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,43,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ,ಮಟ್ನಹಳ್ಳಿ",Govt. Lower Primary School Matnahalli
+177,44,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,45,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಇಟ್ಟಂಗುರ್,"Govt. Lower Primary School, Ittangur"
+177,46,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಹೆಣ್ಣುಮಕ್ಕಳ, ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Girls Primary School, Room No 1"
+177,47,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಹೆಣ್ಣುಮಕ್ಕಳ, ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Girls Primary School, Room No 2"
+177,48,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Model Primary School, Room No 1"
+177,49,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Model Primary School, Room No 2"
+177,50,ಧರ್ಮಸಾಗರ ಫ್ರೌಡಶಾಲೆ ದೊಮ್ಮಸಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,"Dharmasagara High School, Dommasandra Room.No.01"
+177,51,ಧರ್ಮಸಾಗರ ಫ್ರೌಡಶಾಲೆ ದೊಮ್ಮಸಂದ್ರ ಕೊಠಡಿ ಸಂಖ್ಯೆ 02,"Dharmasagara High School, Dommasandra Room.No.02"
+177,52,"ಧರ್ಮಸಾಗರ ಪ್ರೌಡಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 03","Dharmasagara High School, Room No 03"
+177,53,"ಧರ್ಮಸಾಗರ ಪ್ರೌಡಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 04","Dharmasagar High School, Room No 04"
+177,54,"ಸರಸ್ವತಿ ವಿದ್ಯಾನಿಕೇತನ ಹೈಸ್ಕೂಲ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Saraswathi Vidhyanikethan High School, Room No 1"
+177,55,"ಸರಸ್ವತಿ ವಿದ್ಯಾನಿಕೇತನ ಹೈಸ್ಕೂಲ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Saraswathi Vidhyanikethan High School, Room No 2"
+177,56,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಜನತಾ ಕಾಲೋನಿ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Janatha Colony, Room No 1"
+177,57,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಜನತಾ ಕಾಲೋನಿ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Janatha Colony, Room No 2"
+177,58,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,59,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,60,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,61,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,62,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕಾಡಅಗ್ರಹಾರ,Govt. Lower Primary School Kadaagrahara
+177,63,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,64,"ಸರ್ಕಾರಿ ಹಿರಿಯ  ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ,","Govt. Higher Primary  School, "
+177,65,"ಸರ್ಕಾರಿ ಮಾದರಿ ಹುಡುಗರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Model Primary Boys School, Room No 1"
+177,66,"ಸರ್ಕಾರಿ ಮಾದರಿ ಹುಡುಗರ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ  , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Model Primary Boys School, Room No 2"
+177,67,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ  ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 (ಉತ್ತರ ಭಾಗ)","Govt. Model Girls Primary School, Room No 1 (North Side)"
+177,68,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 (ಉತ್ತರ ಭಾಗ)","Govt. Model Girls Primary School, Room No 2 (North Side)"
+177,69,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 (ದಕ್ಷಿಣ ಭಾಗ),","Govt. Model Girls Primary School, Room No1 (South Side),"
+177,70,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 (ದಕ್ಷಿಣ ಭಾಗ),","Govt. Model Girls Primary School, Room No 2 (South Side),"
+177,71,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 (ದಕ್ಷಿಣ ಭಾಗ),","Govt. Model Girls Primary School, Room No 3 (South Side),"
+177,72,"ಸರ್ದಾರ್‌ ವಲ್ಲಭಬಾಯಿ ಪಟೇಲ್‌ ಪ್ರೌಢಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Sardar Valabhai Patel High School, Room No1"
+177,73,"ಸರ್ದಾರ್‌ ವಲ್ಲಭಬಾಯಿ ಪಟೇಲ್‌ ಪ್ರೌಢಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Sardar Vallabhai Patel High School, Room No 2"
+177,74,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,75,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Room No 1"
+177,76,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಕ್ಯೆ 2","Govt. Higher Primary School, Room No 2"
+177,77,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ರೂ ನಂ","Govt. Lower Primary School, Room No"
 177,78,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,79,"ಅಂಗನವಾಡಿ ಎ ಕೇಂದ್ರ, ಕಗ್ಗಲಿಪುರ","Anganavadi A Center, Kaggallipura"
-177,80,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,81,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,82,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,83,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School
+177,79,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Room No 1"
+177,80,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Room No 2"
+177,81,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. Higher Primary School, Room No 3"
+177,82,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt. Higher Primary School, Room No 4"
+177,83,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. Higher Primary School, Room No 3"
 177,84,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
-177,85,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ  ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt.  Higher Kannada Primary School, Room No 1"
-177,86,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ  ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Kannada Primary School, Room No 2"
-177,87,ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Govt. Higher Primary School Room No 1
-177,88,ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,"Govt. Higher Primary School,Room No 2"
-177,89,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School 
-177,90,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಧಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
-177,91,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಧಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
-177,92,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Highe Primary School , Room No 3"
-177,93,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Lower Primary School
-177,94,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Higher Primary School
-177,95,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
-177,96,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
-177,97,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Higher Primary School , Room No 3"
-177,98,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt Higher Primary School , Room No 4"
-177,99,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt Higher Primary School , Room No 5"
-177,100,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 6","Govt Higher Primary School , Room No 6"
-177,101,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Lower Primary School , Room No 1"
-177,102,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Lower Primary School , Room No 2"
-177,103,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Lower Primary School , Room No 2"
-177,104,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ವೀರಸಂದ್ರ","Govt Higher Primary School , Room No 1 Veerasandra"
-177,105,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 ವೀರಸಂದ್ರ","Govt Higher Primary School , Room No 2, Veerasandra"
-177,106,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Lower Primary School , Room No 3"
-177,107,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt Lower Primary School , Room No 4"
-177,108,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt Lower Primary School , Room No 5"
-177,109,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
-177,110,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
-177,111,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
-177,112,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Higher Primary School , Room No 3"
-177,113,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Model Primary School , Room No 1"
-177,114,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Model Primary School , Room No 2"
-177,115,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Model Primary School , Room No 3"
-177,116,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt Model Primary School , Room No 4"
-177,117,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt Model Primary School, Room No 5"
-177,118,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","B E S School , Room No 1"
-177,119,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","B E S School , Room No 2"
-177,120,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","B E S School , Room No 3"
-177,121,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","B E S School , Room No 4"
-177,122,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","B E S School , Room No 5"
-177,123,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 6","B E S School, Room No 6"
-177,124,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 7","B E S School , Room No 7"
-177,125,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 8","B E S School , Room No 8"
-177,126,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 9","B E S School , Room No 9"
-177,127,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 10","B E S School , Room No 10"
-177,128,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 11","B E S School , Room No 11"
-177,129,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 12","B E S School , Room No 12"
-177,130,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 13","B E S School , Room No  13"
-177,131,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 14","B E S School , Room No  14"
-177,132,"ಸರ್ಕಾರಿ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt High School , Room No 1"
-177,133,"ಸರ್ಕಾರಿ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt High School , Room No 2"
-177,134,"ಸರ್ಕಾರಿ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt High School , Room No 3"
-177,135,"ಎಸ್‌.ಎಫ್‌ ಎಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","S F S High School , Room No 1"
-177,136,"ಎಸ್‌.ಎಫ್‌ ಎಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","S F S High School , Room No 2"
-177,137,"ಎಸ್‌.ಎಫ್‌ ಎಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","S F S High School , Room No 3"
-177,138,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ  , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
-177,139,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
-177,140,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Higher Primary School , Room No 3"
-177,141,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt Higher Primary School , Room No 4"
-177,142,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt Higher Primary School , Room No 5"
-177,143,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.1 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School Room No.1 Bommasandra.
-177,144,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.2 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School Room No.2 Bommasandra.
-177,145,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.3 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School Room No.3 Bommasandra.
-177,146,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.4 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School Room No.4 Bommasandra.
-177,147,ಗ್ರಾಮ  ಪಂಚಾಯಿತಿ ಕಟ್ಟಡ  ಕೊಠಡಿ ಸಂಖೈ  1,Grama Panchayath Buildings Room No 1
-177,148,ಗ್ರಾಮ  ಪಂಚಾಯಿತಿ ಕಛೇರಿ  ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Grama Panchayatj Buildings Room No -2
-177,149,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.5 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School No.5 Bommasandra.
-177,150,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.6 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School Room No.6 Bommasandra.
-177,151,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
-177,152,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt. Higher Primary School, Room.No.2"
-177,153,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.3","Govt. Higher Primary School, Room.No.3"
-177,154,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.4","Govt. Higher Primary School, Room.No.4"
-177,155,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Higher Primary School, Room.No.1"
-177,156,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt. Higher Primary School, Room.No.2"
-177,157,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School 
-177,158,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Lower Primary School 
-177,159,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt Higher Primary School, Room.No.1"
-177,160,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt Higher Primary School, Room.No.2"
-177,161,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.3,ಬಿದರಗುಪ್ಪೆ","Govt Higher Primary School, Room.No.3, Bidaraguppe"
-177,162,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.4,ಬಿದರಗುಪ್ಪೆ","Govt Higher Primary School, Room.No.4 Bidaragere"
-177,163,ಸರ್ಕಾರಿ ಕಿರಿಯ  ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಮಳ್ಳೆನಹಳ್ಳಿ,"Govt Lower Primary School, Mallenahalli."
-177,164,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Higher Primary School 
-177,165,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Higher Primary School 
-177,166,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Higher Primary School, Room.No.1"
-177,167,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt. Higher Primary School, Room.No.2"
-177,168,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.3","Govt. Higher Primary School, Room.No.3"
-177,169,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
-177,170,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","Govt. Higher Primary School, Room No-1"
-177,171,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Higher Primary School Room No-2
-177,172,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Higher Primary School Room No-2
-177,173,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-3,Govt. Higher Primary School Room No-3
-177,174,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-3,Govt. Higher Primary School Room No-3
-177,175,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Higher Primary School, Room.No.1"
+177,85,"ಅಂಗನವಾಡಿ ಎ ಕೇಂದ್ರ, ಕಗ್ಗಲಿಪುರ","Anganavadi A Center, Kaggallipura"
+177,86,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,87,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,88,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,89,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,90,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School
+177,91,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School
+177,92,"ಸರ್ಕಾರಿ ಕನ್ನಡ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ  ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt.  Higher Kannada Primary School, Room No 1"
+177,93,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ  ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Kannada Primary School, Room No 2"
+177,94,ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Govt. Higher Primary School Room No 1
+177,95,ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,"Govt. Higher Primary School,Room No 2"
+177,96,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Lower Primary School 
+177,97,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಧಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
+177,98,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಧಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
+177,99,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Highe Primary School , Room No 3"
+177,100,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Lower Primary School
+177,101,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Higher Primary School
+177,102,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
+177,103,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
+177,104,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Higher Primary School , Room No 3"
+177,105,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt Higher Primary School , Room No 4"
+177,106,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt Higher Primary School , Room No 5"
+177,107,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 6","Govt Higher Primary School , Room No 6"
+177,108,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Lower Primary School , Room No 1"
+177,109,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Lower Primary School , Room No 2"
+177,110,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Lower Primary School , Room No 2"
+177,111,"ಅಂಗನವಾಡಿ ಕೇಂದ್ರ,ವೀರಸಂದ್ರ","Anganavadi Kendra,Veerasandra"
+177,112,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ,  ವೀರಸಂದ್ರ","Govt Higher Primary School ,  Veerasandra"
+177,113,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ವೀರಸಂದ್ರ","Govt Higher Primary School , Veerasandra"
+177,114,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ,ವೀರಸಂದ್ರ","Govt Higher Primary School ,Veerasandra"
+177,115,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ವೀರಸಂದ್ರ","Govt Higher Primary School ,Veerasandra"
+177,116,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
+177,117,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
+177,118,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
+177,119,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Higher Primary School , Room No 3"
+177,120,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Model Primary School , Room No 1"
+177,121,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Model Primary School , Room No 2"
+177,122,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Model Primary School , Room No 3"
+177,123,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt Model Primary School , Room No 4"
+177,124,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt Model Primary School, Room No 5"
+177,125,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","B E S School , Room No 1"
+177,126,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","B E S School , Room No 2"
+177,127,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","B E S School , Room No 3"
+177,128,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","B E S School , Room No 4"
+177,129,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","B E S School , Room No 5"
+177,130,"ಬಿ. ಇ. ಎಸ್‌. ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 6","B E S School, Room No 6"
+177,131,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 7","B E S School , Room No 7"
+177,132,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 8","B E S School , Room No 8"
+177,133,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 9","B E S School , Room No 9"
+177,134,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 10","B E S School , Room No 10"
+177,135,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 11","B E S School , Room No 11"
+177,136,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 12","B E S School , Room No 12"
+177,137,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 13","B E S School , Room No  13"
+177,138,"ಬಿ ಇ ಎಸ್‌ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 14","B E S School , Room No  14"
+177,139,"ಸರ್ಕಾರಿ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt High School , Room No 1"
+177,140,"ಸರ್ಕಾರಿ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt High School , Room No 2"
+177,141,"ಸರ್ಕಾರಿ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt High School , Room No 3"
+177,142,"ಎಸ್‌.ಎಫ್‌ ಎಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","S F S High School , Room No 1"
+177,143,"ಎಸ್‌.ಎಫ್‌ ಎಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","S F S High School , Room No 2"
+177,144,"ಎಸ್‌.ಎಫ್‌ ಎಸ್‌ ಪ್ರೌಢ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","S F S High School , Room No 3"
+177,145,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ  , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
+177,146,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
+177,147,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Higher Primary School , Room No 3"
+177,148,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt Higher Primary School , Room No 4"
+177,149,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt Higher Primary School , Room No 5"
+177,150,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.1 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School Room No.1 Bommasandra.
+177,151,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.2 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School Room No.2 Bommasandra.
+177,152,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.3 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School Room No.3 Bommasandra.
+177,153,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.4 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School Room No.4 Bommasandra.
+177,154,ಗ್ರಾಮ  ಪಂಚಾಯಿತಿ ಕಟ್ಟಡ  ಕೊಠಡಿ ಸಂಖೈ  1,Grama Panchayath Buildings Room No 1
+177,155,ಗ್ರಾಮ  ಪಂಚಾಯಿತಿ ಕಛೇರಿ  ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Grama Panchayatj Buildings Room No -2
+177,156,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.5 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School No.5 Bommasandra.
+177,157,ಎಸ್.ಕೆ. ಪಬ್ಲಿಕ್ ಸ್ಕೂಲ್ ರೂಂ ನಂ.6 ಬೊಮ್ಮಸಂದ್ರ,S.K. Public School Room No.6 Bommasandra.
+177,158,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
+177,159,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
+177,160,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt. Higher Primary School, Room.No.2"
+177,161,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.3","Govt. Higher Primary School, Room.No.3"
+177,162,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.4","Govt. Higher Primary School, Room.No.4"
+177,163,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Higher Primary School, Room.No.1"
+177,164,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt. Higher Primary School, Room.No.2"
+177,165,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt. Higher Primary School 
+177,166,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Lower Primary School 
+177,167,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt Higher Primary School, Room.No.1"
+177,168,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt Higher Primary School, Room.No.2"
+177,169,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.3,ಬಿದರಗುಪ್ಪೆ","Govt Higher Primary School, Room.No.3, Bidaraguppe"
+177,170,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.4,ಬಿದರಗುಪ್ಪೆ","Govt Higher Primary School, Room.No.4 Bidaragere"
+177,171,ಸರ್ಕಾರಿ ಕಿರಿಯ  ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಮಳ್ಳೆನಹಳ್ಳಿ,"Govt Lower Primary School, Mallenahalli."
+177,172,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Higher Primary School 
+177,173,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Higher Primary School 
+177,174,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Higher Primary School 
+177,175,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Higher Primary School, Room.No.1"
 177,176,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt. Higher Primary School, Room.No.2"
-177,177,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.3","Govt. Higher Primary School, Room.No.3"
-177,178,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.4","Govt. Higher Primary School, Room.No.4"
-177,179,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Lower Primary School, Room.No.1"
-177,180,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2,ಬನಹಳ್ಳಿ","Govt. Lower Primary School, Room.No.2,Banahalli"
-177,181,"ಅಂಗನವಾಡಿ ಎ ಕೇಂದ್ರ ಬನಹಳ್ಳಿ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,ಬನಹಳ್ಳಿ","Anganavadi A Center, Banahalli.Room No 1,Banahalli"
-177,182,"ಅಂಗನವಾಡಿ ಎ ಕೇಂದ್ರ ಬನಹಳ್ಳಿ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Anganavadi A Center, Banahalli.,Room No 2"
-177,183,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Higher Primary School, Room.No.1"
-177,184,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt. Higher Primary School, Room.No.2"
-177,185,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.3","Govt. Higher Primary School, Room.No.3"
-177,186,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Lower Primary School 
-177,187,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt Higher Primary School, Room.No.1"
-177,188,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt Higher Primary School, Room.No.2"
-177,189,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.3","Govt Higher Primary School, Room.No.3"
-177,190,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.4","Govt Higher Primary School, Room.No.4"
-177,191,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt Lower Primary School, Room.No.1"
-177,192,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt Lower Primary School, Room.No.2"
-177,193,"ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ.1 ಅತ್ತಿಬೆಲೆ","Urdu Higher Primary School, Room.No.1, Attibele"
-177,194,"ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ.2 ಅತ್ತಿಬೆಲೆ","Urdu Higher Primary School, Room.No.2, Attibele"
-177,195,"ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ.3, ಅತ್ತಿಬೆಲೆ","Urdu Higher Primary School, Room.No.3,Attibele"
-177,196,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಬಾಲಕರ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt Model Primary Boys School, Room.No,1"
-177,197,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಬಾಲಕರ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt Model Primary Boys School, Room.No,2"
-177,198,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಬಾಲಕರ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Model Primary Boys School , Room No 2"
-177,199,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಬಾಲಕರ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Model Primary Boys School , Room No 3"
-177,200,ಸೆಂಟ್‌ ಫಿಲೋಮಿನಾ ಆಂಗ್ಲಶಾಲೆ,St. Philomina English School
-177,201,"ಸರ್ಕಾರಿ ಬಾಲಕಿಯರ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Girls Higher Primary School , Room No 1"
-177,202,"ಸರ್ಕಾರಿ ಬಾಲಕಿಯರ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Girls Higher Primary School , Room No 2"
-177,203,"ಜಯಭಾರತಿ ಕೋ-ಆಪರೇಟಿವ್‌ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Jayabharathi Co-Operative Primary School , Room No 5"
-177,204,"ಜಯಭಾರತಿ ಕೋ-ಆಪರೇಟಿವ್‌ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 6","Jayabharathi Co-Operative Primary School , Room No 6"
-177,205,"ಜಯಭಾರತಿ ಕೋ-ಆಪರೇಟಿವ್‌ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 7","Jayabharathi Co-Operative Primary School , Room No 7"
-177,206,"ಜಯಭಾರತಿ ಕೋ-ಆಪರೇಟಿವ್‌ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 8","Jayabharathi Co-Operative Primary School , Room No 8"
-177,207,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕರ  ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Model Boy's Primary School , Room No 2"
-177,208,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. Model Boy's Primary School , Room No 3"
-177,209,"ಸರ್ಕಾರಿ ಬಾಲಕಯರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt Boy's Primary School , Room No 4"
-177,210,"ಸರ್ಕಾರಿ ಬಾಲಕಯರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt Boy's Primary School , Room  No 5"
-177,211,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
-177,212,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
-177,213,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Higher Primary School , Room No 2"
-177,214,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Higher Primary School , Room No 3"
-177,215,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
-177,216,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Higher Primary School. Room No-2
-177,217,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-3,Govt. Higher Primary School. Room No-3
-177,218,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School. 
-177,219,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School. 
-177,220,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ,Govt. Lower Primary School. Room No
-177,221,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Govt. Lower Primary School. Room No 1
-177,222,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,Govt. Lower Primary School. Room No 2
-177,223,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School.
-177,224,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School.
-177,225,"ಅಂಗನವಾಡಿ ಕೇಂದ್ರ ಎಡಭಾಗ  ,","Anganawadi Kendra, Leftside,"
-177,226,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಬಳ್ಳುರು","Govt. Higher Primary School, Balluru."
-177,227,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,228,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,229,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,230,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ  ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","Govt.Higher Primary School, Room  No-1"
-177,231,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ  ಶಾಲೆ, ಹಾರೋಹಳ್ಳಿ","Govt.Lower Primary School, Harohlli"
-177,232,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","Govt. Higher Primary School, Room No-2"
-177,233,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-3","Govt. Higher Primary School, Room No-3"
-177,234,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,235,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,236,ಸರ್ಕಾರಿ  ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ಕೊಠಡಿ ಸಂಖ್ಯೆ-1,Govt. Higher Primary School. Room No-1
-177,237,ಸರ್ಕಾರಿ  ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Higher Primary School. Room No-2
-177,238,ಸರ್ಕಾರಿ  ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ-2,Govt. Higher Primary School. Room No-2
-177,239,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,240,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
+177,177,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.3","Govt. Higher Primary School, Room.No.3"
+177,178,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
+177,179,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","Govt. Higher Primary School, Room No-1"
+177,180,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Higher Primary School Room No-2
+177,181,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Higher Primary School Room No-2
+177,182,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-3,Govt. Higher Primary School Room No-3
+177,183,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-3,Govt. Higher Primary School Room No-3
+177,184,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Higher Primary School, Room.No.1"
+177,185,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt. Higher Primary School, Room.No.2"
+177,186,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.3","Govt. Higher Primary School, Room.No.3"
+177,187,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.4","Govt. Higher Primary School, Room.No.4"
+177,188,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Lower Primary School, Room.No.1"
+177,189,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.2,ಬನಹಳ್ಳಿ","Govt. Lower Primary School, Room.No.2,Banahalli"
+177,190,"ಅಂಗನವಾಡಿ ಎ ಕೇಂದ್ರ ಬನಹಳ್ಳಿ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,ಬನಹಳ್ಳಿ","Anganavadi A Center, Banahalli.Room No 1,Banahalli"
+177,191,"ಹಾಲು ಉತ್ಪಾದಕರ ಸಹಾಕರ ಸಂಘ ಕಟ್ಟಡ, ಬನಹಳ್ಳಿ,",Milk Foundation Co Oparetive Cociety Banahalli
+177,192,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Higher Primary School, Room.No.1"
+177,193,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt. Higher Primary School, Room.No.1"
+177,194,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt. Higher Primary School, Room.No.2"
+177,195,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Govt. Higher Primary School, Room.No.2"
+177,196,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.3","Govt. Higher Primary School, Room.No.3"
+177,197,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Lower Primary School
+177,198,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Govt Lower Primary School
+177,199,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಯಡವನಹಳ್ಳಿ","Govt Higher Primary School, Yadavanahalli"
+177,200,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಯಡವನಹಳ್ಳಿ","Govt Higher Primary School, Yadavanahalli"
+177,201,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಯಡವನಹಳ್ಳಿ","Govt Higher Primary School,Yadavanahalli"
+177,202,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಯಡವನಹಳ್ಳಿ","Govt Higher Primary School, Yadavanahalli"
+177,203,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Govt Lower Primary School, Room.No.1"
+177,204,"ಅತ್ತಿಬೆಲೆ ಪಬ್ಲಿಕ್ ಶಾಲೆ ,ಜಿಗಳ ರಸ್ತೆ,ಇಂಡ್ಲಬೆಲೆ ಕೋಠಡಿ ಸಂಖ್ಯೆ -1","Attibele Public School Jigala Road,Indlabele Room No 1"
+177,205,"ಅತ್ತಿಬೆಲೆ ಪಬ್ಲಿಕ್ ಶಾಲೆ ,ಜಿಗಳ ರಸ್ತೆ,ಇಂಡ್ಲಬೆಲೆ ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Attibele Public School,Indlabele Room.No.2,Indlabele"
+177,206,"ಉರ್ದು ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ,ಅತ್ತಿಬೆಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ 01","Urdu Lower Primary School,Attibele Room.No.1"
+177,207,"ಉರ್ದು ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ,ಅತ್ತಿಬೆಲೆ,ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Urdu Lower Primary School,Attibele,Room.No.2"
+177,208,"ಶ್ರೀ ಜಯ ಭಾರತಿ ಕೋ ಅಪರೇಟಿವ್  ಸಂಯುಕ್ತ ಕಿರಿಯ ಕಾಲೇಜು,ಅತ್ತಿಬೆಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Sri Jaya Bharathi Co.opp .Samyuktha Lower College ,Attibele ,Room No 1"
+177,209,"ಶ್ರೀ ಜಯ ಭಾರತಿ ಸಹಕಾರಿ ವಿದ್ಯಾ ಸಂಸ್ಥೆ  ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಅತ್ತಿಬೆಲೆ,","Sri Jaya bharathi Edution socety trast&  Higher Primary School,Attibele"
+177,210,"ಜಯಭಾರತಿ ಸಾಹಕಾರಿ,ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠ ಶೆಲೆ,ಅತ್ತಿಬೆಲೆ","Jaya bharathi Co. Operative Higher Primary School,Attibele"
+177,211,"ಸರ್ಕಾರಿ ಮಾದರಿ ಪ್ರಾಥಮಿಕ ಬಾಲಕರ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Model Primary Boys School , Room No 3"
+177,212,ಸೆಂಟ್‌ ಫಿಲೋಮಿನಾ ಆಂಗ್ಲಶಾಲೆ,St. Philomina English School
+177,213,"ಸರ್ಕಾರಿ ಬಾಲಕಿಯರ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Girls Higher Primary School , Room No 1"
+177,214,"ಸರ್ಕಾರಿ ಬಾಲಕಿಯರ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Girls Higher Primary School , Room No 2"
+177,215,"ಜಯಭಾರತಿ  ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ,ಅತ್ತಿಬೆಲೆ","Jayabharathi Higher Primary School , Attibele"
+177,216,"ಜಯಭಾರತಿ ಕೋ-ಆಪರೇಟಿವ್‌ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 6","Jayabharathi Co-Operative Primary School , Room No 6"
+177,217,"ಜಯಭಾರತಿ ಕೋ-ಆಪರೇಟಿವ್‌ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 7","Jayabharathi Co-Operative Primary School , Room No 7"
+177,218,"ಜಯಭಾರತಿ ಕೋ-ಆಪರೇಟಿವ್‌ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 8","Jayabharathi Co-Operative Primary School , Room No 8"
+177,219,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕರ  ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Model Boy's Primary School , Room No 2"
+177,220,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. Model Boy's Primary School , Room No 3"
+177,221,"ಸರ್ಕಾರಿ ಬಾಲಕಯರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt Boy's Primary School , Room No 4"
+177,222,"ಸರ್ಕಾರಿ ಬಾಲಕಯರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 5","Govt Boy's Primary School , Room  No 5"
+177,223,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ,ಬಳಗಾರನಹಳ್ಳಿ","Govt Higher Primary School ,Balagaranahalli"
+177,224,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ,ಬಳಗಾರನಹಳ್ಳಿ","Govt Higher Primary School ,Balagaranahalli"
+177,225,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ,ಬಳಗಾರನಹಳ್ಳಿ","Govt Higher Primary School , Balagaranahalli"
+177,226,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಬಳಗಾರನಹಳ್ಳಿ","Govt Higher Primary School ,Balagaranahalli"
+177,227,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
+177,228,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Higher Primary School , Room No 1"
+177,229,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Higher Primary School. Room No-2
+177,230,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-3,Govt. Higher Primary School. Room No-3
+177,231,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School. 
+177,232,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School. 
+177,233,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಇಚ್ಚಂಗೂರು,Govt. Lower Primary School. Ichangoor
+177,234,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ವಡ್ಡರಪಾಳ್ಯ,ರಾಮಚಂದ್ರನಗರ,","Govt. Lower Primary School. Vaddarapalya , Ramachandra Nagara"
+177,235,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ವಡ್ಡರಪಾಳ್ಯ ,ರಾಮಚಂದ್ರನಗರ","Govt. Lower Primary School.Vaddarapalya, Ramachandranagara"
+177,236,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School.
+177,237,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School.
+177,238,"ಅಂಗನವಾಡಿ ಕೇಂದ್ರ ಎಡಭಾಗ  ,","Anganawadi Kendra, Leftside,"
+177,239,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಬಳ್ಳುರು","Govt. Higher Primary School, Balluru."
+177,240,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
 177,241,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
 177,242,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,243,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,244,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,",Govt. Lower Primary School
-177,245,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
-177,246,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಆದೂರು,Govt. Lower Primary School Aduru
-177,247,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ,ಸೊಣ್ಣನಾಯಕನಪುರ","Govt. Lower Primary School,Sonnanayakanapura"
-177,248,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-1,Govt. Higher Primary School. Room No-1
-177,249,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Higher Primary School. Room No-2
-177,250,ಸರ್ಕಾರಿ ಕಿರಿಯ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Kannada Primary School
-177,251,ಸರ್ಕಾರಿ ಕಿರಿಯ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Kannada Primary School
-177,252,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
-177,253,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,254,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,255,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,"Govt.Higher Primary School,Room No 1"
-177,256,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,"Govt.Higher Primary School,Room No 2"
-177,257,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ,ರಾಚಮಾನಹಳ್ಳಿ","Govt.Higher Primary School,Rachamanahalli"
-177,258,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಬೆಸ್ತಮಾನಹಳ್ಳಿ","Govt.Higher Primary School,Besthamanahalli"
-177,259,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School
-177,260,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Higher Primary School
-177,261,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ,Govt.Higher Primary School. Room No
-177,262,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Higher Primary School. 
-177,263,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School. 
-177,264,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,265,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Lower Primary School, Room No.1"
-177,266,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Lower Primary School, Room No.2"
-177,267,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, (ಉತ್ತರ ಭಾಗ)","Govt. 1st Grade College, Room No.1 (North Wing)"
-177,268,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆಯ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 (ಉತ್ತರ ಭಾಗ)","Govt. 1st Grade College, Room No.2, (North Wing)"
-177,269,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 (ದಕ್ಷಿಣ ಭಾಗ)","Govt. 1st Grade College,Room No.1 (South Wing)"
-177,270,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 (ದಕ್ಷಿಣ ಭಾಗ)","Govt. 1st Grade College, Room No.2, (South Wing)"
-177,271,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 (ದಕ್ಷಿಣ ಭಾಗ)","Govt. 1st Grade College, Room No.3 (South Wing)"
-177,272,"ಎ.ಎಸ್‌.ಬಿ.ಜೂನಿಯರ್‌ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","A.S.B. Junior College, Room No.1"
-177,273,"ಎ.ಎಸ್‌.ಬಿ.ಜೂನಿಯರ್‌ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","A.S.B. Junior College, Room No.1"
-177,274,"ಎ.ಎಸ್‌.ಬಿ.ಜೂನಿಯರ್‌ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","A.S.B. Junior College, Room No.2"
-177,275,"ಎ.ಎಸ್‌.ಬಿ.ಜೂನಿಯರ್‌ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","A.S.B. Junior College, Room No.2"
-177,276,"ಸರ್ಕಾರಿ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Urdu Higher Primary School, Room No.1"
-177,277,"ಸರ್ಕಾರಿ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Urdu Higher Primary School, Room No.1"
-177,278,"ಸರ್ಕಾರಿ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Urdu Higher Primary School, Room No.2"
-177,279,"ಸರ್ಕಾರಿ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. Urdu Higher Primary School, Room No.3"
-177,280,"ಲಿಂಕಾನ್‌ ಮೆಮೋರಿಯಲ್‌ ಆಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Lincon Memorial English School, Room No.1"
-177,281,ಲಿಂಕಾನ್‌ ಮೆಮೋರಿಯಲ್‌ ಆಂಗ್ಲ ಶಾಲೆ,"Lincon Memorial English School, Room No.2"
-177,282,"ಸರ್ಕಾರಿ ಹೊಸ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. New Higher Primary School, Room No.1"
-177,283,"ಸರ್ಕಾರಿ ಹೊಸ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. New Higher Primary School, Room No.2"
-177,284,"ಸರ್ಕಾರಿ ಹೊಸ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. New Higher Primary School, Room No.3"
-177,285,"ಸರ್ಕಾರಿ ಹೊಸ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt. New Higher Primary School, Room No.4"
-177,286,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,287,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Room No.1"
-177,288,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Room No.2"
-177,289,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Model Girls Primary School, Room No.1"
-177,290,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Model Girls Primary School, Room No.2"
-177,291,"ಸರ್ಕಾರಿ ಹಳೇ ಮಾದರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Old Model Higher Primary School, Room No.1"
-177,292,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.,Govt. Higher Primary School.
-177,293,"ಸರ್ಕಾರಿ ಉರ್ದು ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ದೊಡ್ಡಕೆರೆ ಬಾಗಿಲು ಆನೇಕಲ್","Govt. Urdu Lower Primary School, Doddakere Bagilu , Anekal."
-177,294,"ಸರ್ಕಾರಿ ಉರ್ದು ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ದೊಡ್ಡಕೆರೆ ಬಾಗಿಲು ಆನೇಕಲ್","Govt. Urdu Lower Primary School, Doddakere Bagilu , Anekal."
-177,295,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.(ಎಡ ಭಾಗ),Govt. Higher Primary School. (Left Side)
-177,296,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ  ಶಾಲೆ. (ದಕ್ಷಿಣ ಭಾಗ),Govt. Higher Primary School. (South Side)
-177,297,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ (ಬಲ ಭಾಗ),Govt. Higher Primary School (Righ Wing)
-177,298,ತಿಮ್ಮರಾಯಸ್ವಾಮಿ ಪ್ರಾಥಮಿಕ  ಮತ್ತು ಪ್ರೌಡಶಾಲೆ,Thimmaraya Swamy Primary &  High School
-177,299,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ನಾರಾಯಣಪುರ, ಆನೇಕಲ್","Govt. Lower Primary School, Narayanapura, Anekal"
-177,300,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ನಾರಾಯಣಪುರ, ಆನೇಕಲ್","Govt. Lower Primary School, Narayanapura, Anekal"
-177,301,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Lower Primary School Room No-2
-177,302,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Lower Primary School Room No-2
-177,303,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಸುನವಾರ","Govt. Lower Primary School, Sunavara"
-177,304,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,305,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,306,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
-177,307,ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-1,Govt. Higher Primary School.Room No-1
-177,308,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಲಕ್ಷ್ಮೀಪುರ","Govt. Lower Primary School, Lakshmipura."
-177,309,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,310,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,243,"ಸರ್ಕಾರಿ ಮಾಧರಿ  ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಮಾಯಸಂದ್ರ,ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","Govt Model Primary School,Mayasandra ,Room  No-1"
+177,244,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ  ಶಾಲೆ, ಹಾರೋಹಳ್ಳಿ","Govt.Lower Primary School, Harohlli"
+177,245,"ಸರ್ಕಾರಿ ಮಾಧರಿ  ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಮಾಯಸಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","Govt Model Primary School,Mayasandra,Room No-2"
+177,246,"ಸರ್ಕಾರಿ ಮಾಧರಿ ಪ್ರಾಥಮಿಕ ಪಾಠ ಶಾಲೆ,ಮಾಯಸಂದ್ರ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-3","Govt. Model Primary School,Mayasandra, Room No-3"
+177,247,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,248,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,249,ಸರ್ಕಾರಿ  ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ಕೊಠಡಿ ಸಂಖ್ಯೆ-1,Govt. Higher Primary School. Room No-1
+177,250,ಸರ್ಕಾರಿ  ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Higher Primary School. Room No-2
+177,251,ಸರ್ಕಾರಿ  ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ-2,Govt. Higher Primary School. Room No-2
+177,252,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,253,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
+177,254,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
+177,255,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,256,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,257,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,258,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,",Govt. Lower Primary School
+177,259,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
+177,260,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಆದೂರು,Govt. Lower Primary School Aduru
+177,261,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ,ಸೊಣ್ಣನಾಯಕನಪುರ","Govt. Lower Primary School,Sonnanayakanapura"
+177,262,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-1,Govt. Higher Primary School. Room No-1
+177,263,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Higher Primary School. Room No-2
+177,264,ಸರ್ಕಾರಿ ಕಿರಿಯ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Kannada Primary School
+177,265,ಸರ್ಕಾರಿ ಕಿರಿಯ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Kannada Primary School
+177,266,ಸರ್ಕಾರಿ ಕಿರಿಯ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Kannada Primary School
+177,267,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
+177,268,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
+177,269,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,270,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,271,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,272,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,"Govt.Higher Primary School,Room No 1"
+177,273,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,"Govt.Higher Primary School,Room No 2"
+177,274,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ,ರಾಚಮಾನಹಳ್ಳಿ","Govt.Higher Primary School,Rachamanahalli"
+177,275,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,ಬೆಸ್ತಮಾನಹಳ್ಳಿ","Govt.Higher Primary School,Besthamanahalli"
+177,276,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School
+177,277,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School
+177,278,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Higher Primary School
+177,279,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ,Govt.Higher Primary School. Room No
+177,280,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Higher Primary School. 
+177,281,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School. 
+177,282,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,283,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Lower Primary School, Room No.1"
+177,284,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Lower Primary School, Room No.2"
+177,285,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1, (ಉತ್ತರ ಭಾಗ)","Govt. 1st Grade College, Room No.1 (North Wing)"
+177,286,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆಯ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 (ಉತ್ತರ ಭಾಗ)","Govt. 1st Grade College, Room No.2, (North Wing)"
+177,287,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆಯ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 (ಉತ್ತರ ಭಾಗ)","Govt. 1st Grade College, Room No.2, (North Wing)"
+177,288,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 (ದಕ್ಷಿಣ ಭಾಗ)","Govt. 1st Grade College,Room No.1 (South Wing)"
+177,289,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 (ದಕ್ಷಿಣ ಭಾಗ)","Govt. 1st Grade College,Room No.1 (South Wing)"
+177,290,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 (ದಕ್ಷಿಣ ಭಾಗ)","Govt. 1st Grade College, Room No.2, (South Wing)"
+177,291,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2 (ದಕ್ಷಿಣ ಭಾಗ)","Govt. 1st Grade College, Room No.2, (South Wing)"
+177,292,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 (ದಕ್ಷಿಣ ಭಾಗ)","Govt. 1st Grade College, Room No.3 (South Wing)"
+177,293,"ಸರ್ಕಾರಿ ಪ್ರಥಮ ದರ್ಜೆ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3 (ದಕ್ಷಿಣ ಭಾಗ)","Govt. 1st Grade College, Room No.3 (South Wing)"
+177,294,"ಎ.ಎಸ್‌.ಬಿ.ಜೂನಿಯರ್‌ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","A.S.B. Junior College, Room No.1"
+177,295,"ಎ.ಎಸ್‌.ಬಿ.ಜೂನಿಯರ್‌ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","A.S.B. Junior College, Room No.1"
+177,296,"ಎ.ಎಸ್‌.ಬಿ.ಜೂನಿಯರ್‌ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","A.S.B. Junior College, Room No.2"
+177,297,"ಎ.ಎಸ್‌.ಬಿ.ಜೂನಿಯರ್‌ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","A.S.B. Junior College, Room No.2"
+177,298,"ಎ.ಎಸ್‌.ಬಿ.ಜೂನಿಯರ್‌ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","A.S.B. Junior College, Room No.2"
+177,299,"ಸರ್ಕಾರಿ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Urdu Higher Primary School, Room No.1"
+177,300,"ಸರ್ಕಾರಿ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Urdu Higher Primary School, Room No.1"
+177,301,"ಸರ್ಕಾರಿ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Urdu Higher Primary School, Room No.1"
+177,302,"ಸರ್ಕಾರಿ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Urdu Higher Primary School, Room No.2"
+177,303,"ಸರ್ಕಾರಿ ಉರ್ದು ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Urdu Higher Primary School, Room No.2"
+177,304,"ಶ್ರೀ ತಿಮ್ಮರಾಯಸ್ವಾಮಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಮತ್ತು ಪ್ರೌಢಶಾಲೆ,ಬಹದ್ದೂರು ಪುರ,ಆನೇಕಲ್ ಟೌನ್","Shi Thimmarayaswamy Higher primary & high School,Bahadurpur,Anekal Town"
+177,305,"ಲಿಂಕಾನ್‌ ಮೆಮೋರಿಯಲ್‌ ಆಂಗ್ಲ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Lincon Memorial English School, Room No.1"
+177,306,ಲಿಂಕಾನ್‌ ಮೆಮೋರಿಯಲ್‌ ಆಂಗ್ಲ ಶಾಲೆ,"Lincon Memorial English School, Room No.2"
+177,307,"ಸರ್ಕಾರಿ ಹೊಸ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. New Higher Primary School, Room No.1"
+177,308,"ಸರ್ಕಾರಿ ಹೊಸ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. New Higher Primary School, Room No.2"
+177,309,"ಸರ್ಕಾರಿ ಹೊಸ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt. New Higher Primary School, Room No.3"
+177,310,"ಸರ್ಕಾರಿ ಹೊಸ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 4","Govt. New Higher Primary School, Room No.4"
 177,311,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
-177,312,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School. 
-177,313,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-1,Govt.Higher Primary School. Room No-1
-177,314,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt.Higher Primary School. Room No-2
-177,315,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School. Room No
-177,316,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School.
-177,317,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Higher Primary School.
-177,318,ಸರ್ಕಾರಿ ಮಾದರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Model Higher Primary School
-177,319,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥವಿಕ  ಶಾಲೆ,ಮೆಣಸಿಗನಹಳ್ಳಿ","Govt. Lower Primary School,Menasiganahalli"
-177,320,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥವಿಕ  ಶಾಲೆ,ಸೋಲೂರು","Govt. Lower Primary School,Soluru"
+177,312,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Higher Primary School, Room No.1"
+177,313,"ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Higher Primary School, Room No.2"
+177,314,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Model Girls Primary School, Room No.1"
+177,315,"ಸರ್ಕಾರಿ ಮಾದರಿ ಬಾಲಕಿಯರ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt. Model Girls Primary School, Room No.2"
+177,316,"ಸರ್ಕಾರಿ ಹಳೇ ಮಾದರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt. Old Model Higher Primary School, Room No.1"
+177,317,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.,Govt. Higher Primary School.
+177,318,"ಸರ್ಕಾರಿ ಉರ್ದು ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ದೊಡ್ಡಕೆರೆ ಬಾಗಿಲು ಆನೇಕಲ್","Govt. Urdu Lower Primary School, Doddakere Bagilu , Anekal."
+177,319,"ಸರ್ಕಾರಿ ಉರ್ದು ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ದೊಡ್ಡಕೆರೆ ಬಾಗಿಲು ಆನೇಕಲ್","Govt. Urdu Lower Primary School, Doddakere Bagilu , Anekal."
+177,320,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ.(ಎಡ ಭಾಗ),Govt. Higher Primary School. (Left Side)
+177,321,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ  ಶಾಲೆ. (ದಕ್ಷಿಣ ಭಾಗ),Govt. Higher Primary School. (South Side)
+177,322,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ (ಬಲ ಭಾಗ),Govt. Higher Primary School (Righ Wing)
+177,323,ತಿಮ್ಮರಾಯಸ್ವಾಮಿ ಪ್ರಾಥಮಿಕ  ಮತ್ತು ಪ್ರೌಡಶಾಲೆ,Thimmaraya Swamy Primary &  High School
+177,324,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ನಾರಾಯಣಪುರ, ಆನೇಕಲ್","Govt. Lower Primary School, Narayanapura, Anekal"
+177,325,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ನಾರಾಯಣಪುರ, ಆನೇಕಲ್","Govt. Lower Primary School, Narayanapura, Anekal"
+177,326,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Lower Primary School Room No-2
+177,327,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt. Lower Primary School Room No-2
+177,328,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಸುನವಾರ","Govt. Lower Primary School, Sunavara"
+177,329,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,330,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,331,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Higher Primary School
+177,332,ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-1,Govt. Higher Primary School.Room No-1
+177,333,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಲಕ್ಷ್ಮೀಪುರ","Govt. Lower Primary School, Lakshmipura."
+177,334,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,335,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,336,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Lower Primary School
+177,337,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School. 
+177,338,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-1,Govt.Higher Primary School. Room No-1
+177,339,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ. ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,Govt.Higher Primary School. Room No-2
+177,340,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School. Room No
+177,341,ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Lower Primary School.
+177,342,ಸರ್ಕಾರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt.Higher Primary School.
+177,343,ಸರ್ಕಾರಿ ಮಾದರಿ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ,Govt. Model Higher Primary School
+177,344,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥವಿಕ  ಶಾಲೆ,ಮೆಣಸಿಗನಹಳ್ಳಿ","Govt. Lower Primary School,Menasiganahalli"
+177,345,"ಸರ್ಕಾರಿ ಕಿರಿಯ ಪ್ರಾಥವಿಕ  ಶಾಲೆ,ಸೋಲೂರು","Govt. Lower Primary School,Soluru"

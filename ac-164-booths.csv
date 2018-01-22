@@ -55,10 +55,10 @@ AC NO,Part NO,Polling Station Name(Kannada),Polling Station Name(English)
 164,54,"ಅಂಗನವಾಡಿ ಕೇಂದ್ರ,ಬಿಬಿಎಂಪಿ ಹೊಸ ಕಟ್ಟಡ, ನಂ.16, 6ನೇ ಕ್ರಾಸ್, ಸ್ವತಂತ್ರಪಾಳ್ಯ,","Anganawadi Kendra ,BBMP New Building, No.16, 6th Cross, Swatantrapalya"
 164,55,"ಡಾ, ಬಿ ಆರ್‌ ಅಂಬೇಡ್ಕರ್ ಉಚಿತ ಶಿಕ್ಷಣ ಕೇಂದ್ರ,   5ನೇ ಮುಖ್ಯರಸ್ತೆ, ಶ್ರೀರಾಮ ಪುರ,","Dr, B R Ambedkar Free Education Centre, 5th Main Road Sriram Pura,"
 164,56,"ಬಿಬಿಎಂಪಿ ಹೊಸ ಕಟ್ಟಡ, ಅಂಗನವಾಡಿ ಕೇಂದ್ರ, ಬಾಪೂಜಿ ಬ್ಲಾಕ್, 5ನೇ ಮುಖ್ಯರಸ್ತೆ, ಶ್ರೀರಾಂಪುರಂ","BBMP New Buidling Anganawadi Kendra, Bapuji Block, 5th Main Road, Srirampuram"
-164,57,"ಸರ್ಕಾರಿ  ಉರ್ದು ಹೈಯರ್‌ ಪ್ರೈಮರಿ ಸ್ಕೂಲ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1 ತಾತ್ಕಾಲಿಕ ಶೆಡ್","Govt. Urdu Higher Primary School , Room No 1 Temporary shed"
-164,58,"ಸರ್ಕಾರಿ ಉರ್ದು ಹೈಯರ್‌ ಪ್ರೈಮರಿ ಶಾಲೆ, ರೂ.ನಂ.2 ರಾಮಚಂದ್ರಪುರ ತಾತ್ಕಾಲಿಕ ಶೆಡ್","Govt urdu Higher Primary School Room No. 2, Ramachandra Pura Temporary shed"
-164,59,"ಸರ್ಕಾರಿ ಉರ್ದು ಹೈಯರ್‌ ಪ್ರೈಮರಿ ಶಾಲೆ, ರಾಮಚಂದ್ರ ಪುರ ತಾತ್ಕಾಲಿಕ ಶೆಡ್","Govt Urdu Higher Primary School, Ramachandra Pura Temporary shed"
-164,60,"ಸರ್ಕಾರಿ ಉರ್ದು ಹೈಯರ್‌ ಪ್ರೈಮರಿ ಶಾಲೆ, ರಾಮಚಂದ್ರ ಪುರ ತಾತ್ಕಾಲಿಕ ಶೆಡ್","Govt Urdu Higher Primary School, Ramachandra Pura,Temporary shed"
+164,57,ಜಂಟಿ ನಿರ್ದೇಶಕರು ರವರ ಕಛೇರಿ ರೇಷ್ಮೆ ಮತ್ತು ಮಾರಾಟ ಇಲಾಖೆ,Office of the joint director silk and Marketing department
+164,58,ಜಂಟಿ ನಿರ್ದೇಶಕರು ರವರ ಕಛೇರಿ ರೇಷ್ಮೆ ಮತ್ತು ಮಾರಾಟ ಇಲಾಖೆ,Office of the joint director silk and Marketing department
+164,59,ಜಂಟಿ ನಿರ್ದೇಶಕರು ರವರ ಕಛೇರಿ ರೇಷ್ಮೆ ಮತ್ತು ಮಾರಾಟ ಇಲಾಖೆ,Office of the joint director silk and Marketing department
+164,60,ಜಂಟಿ ನಿರ್ದೇಶಕರು ರವರ ಕಛೇರಿ ರೇಷ್ಮೆ ಮತ್ತು ಮಾರಾಟ ಇಲಾಖೆ,Office of the joint director silk and Marketing department
 164,61,"ಸಾಯಿಬಾಬ ಸಮಾಜಸೇವಾ ಸಂಘ, ಸಾಯಿಬಾಬ ನಗರ,","Saibaba Welfare Association, Saibaba Nagara"
 164,62,"ಸಾಯಿಬಾಬ ಸಮಾಜಸೇವಾ ಸಂಘ, ಸಾಯಿಬಾಬ ನಗರ,","Saibaba Welfare Association, Saibaba Nagara,"
 164,63,"ಸಾಯಿಬಾಬ ಸಮಾಜಸೇವಾ ಸಂಘ, ಸಾಯಿಬಾಬ ನಗರ,","Saibaba Welfare Association, Saibaba Nagara,"
@@ -143,91 +143,92 @@ AC NO,Part NO,Polling Station Name(Kannada),Polling Station Name(English)
 164,142,ಕಾರ್ಪೊರೇಷನ್‌ ಜೂನಿಯರ್‌  ಕಾಲೇಜು ಮತ್ತು ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Corporation Junior College And School Room No 1
 164,143,ಕಾರ್ಪೊರೇಷನ್‌ ಜೂನಿಯರ್‌  ಕಾಲೇಜು ಮತ್ತು ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Corporation Junior College And School Room No.1
 164,144,ಕಾರ್ಪೊರೇಷನ್‌ ಜೂನಿಯರ್‌ ಕಾಲೇಜು  ಮತ್ತು ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,Corporation junior College And School Room No.2
-164,145,"ಸರ್ಕಾರಿ ಮಾಧ್ಯಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Middle School, Room No.1"
-164,146,"ಸರ್ಕಾರಿ ಮಾಧ್ಯಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Middle School, Room No2"
-164,147,"ಸರ್ಕಾರಿ ಮಾಧ್ಯಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Middle School, Room No.3"
-164,148,"ಬಾಪೂಜಿ ಶಿಕ್ಷಕರ ಸಂಘ ಸಂಸ್ಥೆಗಳು, ರೂಂ ನಂ.1","Bapuji Teachers association Institutions, Room No.1"
-164,149,"ಬಾಪೂಜಿ ಶಿಕ್ಷಕರ ಸಂಘ ಸಂಸ್ಥೆಗಳು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Bapuji Teachers association Institutions, Room No.2"
-164,150,ನಿರ್ಮಲ  ಆಂಗ್ಲ ಪಾಠಶಾಲೆ,Nirmala English School
-164,151,ಶುಭ ನರ್ಸರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Shubha Nursery Primary School  Room No.1
-164,152,ನ್ಯಾಷನಲ್‌ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-1,"National Higher Primary School, Room No-1"
-164,153,"ನ್ಯಾಷನಲ್‌ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","National Higher Primary School, Room No-2"
-164,154,"ಎಸ್‌.ಎಂ. ಪ್ರೌಢಶಾಲೆ,  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","S M  High School, Room No1"
-164,155,"ಎಸ್‌.ಎಂ. ಪ್ರೌಢಶಾಲೆ,  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","S M High School , Room No 2"
-164,156,"ಎಸ್‌.ಎಂ. ಪ್ರೌಢಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","S.M.High School, Room No 3"
-164,157,"ಕಾರ್ಪೋರೇಷನ್‌ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1",Corporation Nursery & Primary School Room No 1
-164,158,"ಕಾರ್ಪೋರೇಷನ್‌ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2",Corporation Nursery & Primary School  Room No2
-164,159,ಕಾರ್ಪೋರೇಷನ್‌ ಶಿಶುವಿಹಾರ ಮತ್ತು ಪ್ರಾಥಮಿಕ  ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 3,Corporation Nursery & Primary School  Room No.3
-164,160,ಪ್ಲಾಟೋನಿಕಾ‌ ಪ್ರೌಢಶಾಲೆ,Platonica High School
-164,161,ಬಿಬಿಎಂಪಿ ಶಿಶುವಿಹಾರ,"BBMP Nursery School,"
-164,162,ಬಿ ಬಿ ಎಂ ಪಿ ಮಹಿಳಾ ಹೊಲಿಗೆ ತರಬೇತಿ ಕೇಂದ್ರ ಪಶ್ಚಿಮಭಾಗ,BBMP Woman Tailoring Center Westside
-164,163,"ಭಾರತಿ ಸೇವಾಸಂಘ ಶಾಲೆ,","Bharathi Sevasangha School,"
-164,164,ಭಾರತಿ ಸೇವಾಸಂಘ ಶಾಲೆ,Bharathi Sevasangha School
-164,165,ನ್ಯೂ ಪ್ರೆಸಿಡೆನ್ಸಿ ಪಬ್ಲಿಕ್‌ ಸ್ಕೂಲ್‌,New Presidency Public School
-164,166,ಸಹ ಕಂದಾಯ ಅಧಿಕಾರಿ ಕಛೇರಿ ಚಿಕ್ಕಪೇಟೆ ಉಪವಿಭಾಗ,"Office Of The Asst, Revenue Officer, Chickpet Sub Division"
-164,167,ಪೂರ್ಣಯ್ಯ ಕಲ್ಯಾಣ ಮಂಟಪ ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Poornaiah Choultry Govt Primary School
-164,168,"ಪೂರ್ಣಯ್ಯ ಕಲ್ಯಾಣ ಮಂಟಪ , ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Poornaiah Kalyana Mantapa, Govt Primary School, Room No 2"
-164,169,"ಶ್ರೀ  ಪಟಾಸಿ  ಬಾಯಿ ಲೂನಿಯಾ ಕಾನಿಯಾ ಹಿಂದಿ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ನಂ 1",Sri Patasibai Luniya Kaniya Hindi Patashala Room No 1
-164,170,"ಶ್ರೀ ಪಟಾಸಿ  ಬಾಯಿ ಲೂನಿಯ ಕಾನಿಯ  ಹಿಂದಿ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Sri Patasibai Luniya Kaniya Hindi Patashala, Room No 2"
-164,171,ಶ್ರೀ ಸೋಮವಂಶ ಆರ್ಯ ಕ್ಷತ್ರಿಯ ಸೇವಾಸಂಘ (ರಿ)ಲೈಬ್ರರಿ,Sri Somavamsha Arya Kshathriya Sevasangha (Reg)Library
-164,172,"ಸಿ.ಬಿ. ಭಂಡಾರಿ ಜೈನ್‌ ಪ್ರಾಥಮಿಕ  ಶಾಲೆ ಮತ್ತು ಪಿ.ಯು. ಕಾಲೇಜ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","C B Bhandari Jain Primary School & P U College, Room No-1"
-164,173,"ರಮಣಶ್ರೀ ಉದಯ  ಎಜುಕೇಶನ್ ಸೊಸೈಟಿ (ರಿ) ನಂ 14, 24ನೇ ಕ್ರಾಸ್ ಕಿಲಾರಿ ರೋಡ್ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ -1","Ramanshree Udaya Education Society No.14, 24th cross Kilari road Bangalore 560053 Room No-1"
-164,174,"ಸಿ.ಬಿ. ಭಂಡಾರಿ ಜೈನ್‌ ಹಿರಿಯ ಪ್ರೌಢಶಾಲೆ , ನಂ.150 ಕಿಲಾರಿ ರೋಡ್ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","C B Bhandari Jain High School , No.150, Kilari road, Bangalore 560053 Room No 2"
-164,175,"ರಮಣಶ್ರೀ  ಉದಯ  ಎಜುಕೇಶನ್ ಸೊಸೈಟಿ (ರಿ) ನಂ-14, 24ನೇ ಕ್ರಾಸ್ ಕಿಲಾರಿ ರಸ್ತೆ  ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","Ramanashree Udaya Education Society (Reg),No-14, 24th cross Kilari Road Bangalore 560053 Room No-2"
-164,176,"ರಮಣಶ್ರೀ ಉದಯ ಎಜುಕೇಶನ್ ಸೊಸೈಟಿ (ರಿ), ನಂ-14, 24ನೇ ಕ್ರಾಸ್ ಕಿಲಾರಿ ರಸ್ತೆ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ-3","Ramanashree Udaya Education Society (Reg),No-14, 24th cross Kilari Road Bangalore 560053 Room No-3"
-164,177,"ಸಿ.ಬಿ . ಭಂಡಾರಿ ಜೈನ್‌ ಹೈ ಸ್ಕೂಲ್ ನಂ-150, ಕಿಲಾರಿ ರಸ್ತೆ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ-3","C.B. Bhandari Jain High School , No-150, Kilari Road Bagalore-560053 Room No-3"
-164,178,"ಸಿ.ಬಿ . ಭಂಡಾರಿ ಜೈನ್‌ ಹೈ ಸ್ಕೂಲ್ ಮತ್ತು ಪಿ.ಯು. ಕಾಲೇಜ್‌, ನಂ-150, ಕಿಲಾರಿ ರಸ್ತೆ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ-4","C.B. Bhandari Jain High School and P.U. College, No-150, Kilari Road, Bangalore 560053 Room No-4"
-164,179,"ಉಪ ನಿರ್ದೇಶಕರ ಕಛೇರಿ, ಸಾರ್ವಜನಿಕರ ಶಿಕ್ಷಣ  ಇಲಾಖೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ  1","Deputy Director, Department of Public Instructions Office  Room No. 1"
-164,180,ಜಂಟಿ ನಿರ್ದೇಶಕರ ಕಚೇರಿ  ಸಾರ್ವಜನಿಕರ  ಶಿಕ್ಷಣ ಇಲಾಖೆ (ಎಮ್‌ಎಮ್‌ಎಸ್)ಕೊಠಡಿ ಸಂಖ್ಯೆ -2,"Office of the Joint Director, Department of Public Instuction  (MMS) Room No. -2"
-164,181,ಜಂಟಿ ನಿರ್ದೇಶಕರ ಕಚೇರಿ ಸಾರ್ವಜನಿಕ  ಶಿಕ್ಷಣ ಇಲಾಖೆ (ಎಮ್‌ಎಮ್‌ಎಸ್)  ಕೊಠಡಿ ಸಂಖ್ಯೆ -3,"Ofice of the Joint Director, Department of Public Instructions (MMS) Room No -3"
-164,182,ಪದ್ಮಶ್ರೀ ಕೃಷ್ನಯ್ಯ ಶೆಟ್ಟಿ ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Padmashree Krishnaiah Shetty Govt  Primary School Room No.1
-164,183,ಪದ್ಮಶ್ರೀ ಕೃಷ್ಣಯ್ಯ ಶೆಟ್ಟಿ ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,Padmashree Krishnaiah Shetty Govt Primary School Room No 2
-164,184,ಪದ್ಮಶ್ರೀ  ಕೃಷ್ಣಯ್ಯ ಶೆಟ್ಟಿ  ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 3,Padmashree  Krishnaiah Shetty Govt Primary School Room No. 3
-164,185,"ಶ್ರೀ ವಿ.ಎಸ್.  ಜೈನ್ ಆಯಮ್ಬಿಲ್ ಭವನ್ ನಂ-162, ಲಕ್ಷ್ಮಣ್ ರಾವ್ ರಸ್ತೆ ಹುರಿಯೋಪೇಟೆ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ . 1","Sri V S Jain Ayambil Bhavan No-162, Lakshman Rao Road Huriopet Bangalore 560053 Room No-1"
-164,186,"ಶ್ರೀ ವಿ ಎಸ್ ಜೈನ್  ಆಯಮ್ಬಿಲ್ ಭವನ್  ನಂ-162, ಲಕ್ಷ್ಮಣ್ ರಾವ್ ರಸ್ತೆ ಹುರಿಯೋಪೇಟೆ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Sri V S Jain Ayambil Bhavan No-162, Lakshman Rao Road Huriopet Bangalore 560053 Room No.2"
-164,187,"ಬಿ ಬಿ ಎಂ ಪಿ ಬಾಲಕಿಯರ ಹಿರಿಯ ಪಾಠಶಾಲೆ ,","BBMP Girls Highschool,"
-164,188,"ಬಿ ಬಿ ಎಂ ಪಿ ಬಾಲಕಿಯರ ಹಿರಿಯ ಪಾಠಶಾಲೆ, ಕೆ ವಿ ದೇವಸ್ಥಾನದ ಬೀದಿ,","BBMP Girls Highschool , Room No. 2,, K V Temple Street,"
+164,145,ಕಾರ್ಪೊರೇಷನ್‌ ಜೂನಿಯರ್‌ ಕಾಲೇಜು  ಮತ್ತು ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,Corporation junior College And School Room No.2
+164,146,"ಸರ್ಕಾರಿ ಮಾಧ್ಯಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Govt Middle School, Room No.1"
+164,147,"ಸರ್ಕಾರಿ ಮಾಧ್ಯಮಿಕ ಪಾಠಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Govt Middle School, Room No2"
+164,148,"ಸರ್ಕಾರಿ ಮಾಧ್ಯಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","Govt Middle School, Room No.3"
+164,149,"ಬಾಪೂಜಿ ಶಿಕ್ಷಕರ ಸಂಘ ಸಂಸ್ಥೆಗಳು, ರೂಂ ನಂ.1","Bapuji Teachers association Institutions, Room No.1"
+164,150,"ಬಾಪೂಜಿ ಶಿಕ್ಷಕರ ಸಂಘ ಸಂಸ್ಥೆಗಳು, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Bapuji Teachers association Institutions, Room No.2"
+164,151,ಸೆಂಟ್ ಮಾರ್ಟಿನ್ಸ್ ಹೈ ಸ್ಕೂಲ್ (ನಿರ್ಮಲ ಎಜುಕೇಷನ್ ಸೊಸೈಟಿ),"St. Martin's High School, (Nirmala Education Society)"
+164,152,ಶುಭ ನರ್ಸರಿ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Shubha Nursery Primary School  Room No.1
+164,153,ನ್ಯಾಷನಲ್‌ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-1,"National Higher Primary School, Room No-1"
+164,154,"ನ್ಯಾಷನಲ್‌ ಹಿರಿಯ ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","National Higher Primary School, Room No-2"
+164,155,"ಎಸ್‌.ಎಂ. ಪ್ರೌಢಶಾಲೆ,  ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","S M  High School, Room No1"
+164,156,"ಎಸ್‌.ಎಂ. ಪ್ರೌಢಶಾಲೆ,  ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","S M High School , Room No 2"
+164,157,"ಎಸ್‌.ಎಂ. ಪ್ರೌಢಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 3","S.M.High School, Room No 3"
+164,158,"ಕಾರ್ಪೋರೇಷನ್‌ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ , ಕೊಠಡಿ ಸಂಖ್ಯೆ 1",Corporation Nursery & Primary School Room No 1
+164,159,"ಕಾರ್ಪೋರೇಷನ್‌ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2",Corporation Nursery & Primary School  Room No2
+164,160,ಕಾರ್ಪೋರೇಷನ್‌ ಶಿಶುವಿಹಾರ ಮತ್ತು ಪ್ರಾಥಮಿಕ  ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 3,Corporation Nursery & Primary School  Room No.3
+164,161,ಪ್ಲಾಟೋನಿಕಾ‌ ಪ್ರೌಢಶಾಲೆ,Platonica High School
+164,162,ಬಿಬಿಎಂಪಿ ಶಿಶುವಿಹಾರ,"BBMP Nursery School,"
+164,163,ಬಿ ಬಿ ಎಂ ಪಿ ಮಹಿಳಾ ಹೊಲಿಗೆ ತರಬೇತಿ ಕೇಂದ್ರ ಪಶ್ಚಿಮಭಾಗ,BBMP Woman Tailoring Center Westside
+164,164,"ಭಾರತಿ ಸೇವಾಸಂಘ ಶಾಲೆ,","Bharathi Sevasangha School,"
+164,165,ಭಾರತಿ ಸೇವಾಸಂಘ ಶಾಲೆ,Bharathi Sevasangha School
+164,166,ನ್ಯೂ ಪ್ರೆಸಿಡೆನ್ಸಿ ಪಬ್ಲಿಕ್‌ ಸ್ಕೂಲ್‌,New Presidency Public School
+164,167,ಸಹ ಕಂದಾಯ ಅಧಿಕಾರಿ ಕಛೇರಿ ಚಿಕ್ಕಪೇಟೆ ಉಪವಿಭಾಗ,"Office Of The Asst, Revenue Officer, Chickpet Sub Division"
+164,168,ಪೂರ್ಣಯ್ಯ ಕಲ್ಯಾಣ ಮಂಟಪ ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Poornaiah Choultry Govt Primary School
+164,169,"ಪೂರ್ಣಯ್ಯ ಕಲ್ಯಾಣ ಮಂಟಪ , ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Poornaiah Kalyana Mantapa, Govt Primary School, Room No 2"
+164,170,"ಶ್ರೀ  ಪಟಾಸಿ  ಬಾಯಿ ಲೂನಿಯಾ ಕಾನಿಯಾ ಹಿಂದಿ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ನಂ 1",Sri Patasibai Luniya Kaniya Hindi Patashala Room No 1
+164,171,"ಶ್ರೀ ಪಟಾಸಿ  ಬಾಯಿ ಲೂನಿಯ ಕಾನಿಯ  ಹಿಂದಿ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Sri Patasibai Luniya Kaniya Hindi Patashala, Room No 2"
+164,172,ಶ್ರೀ ಸೋಮವಂಶ ಆರ್ಯ ಕ್ಷತ್ರಿಯ ಸೇವಾಸಂಘ (ರಿ)ಲೈಬ್ರರಿ,Sri Somavamsha Arya Kshathriya Sevasangha (Reg)Library
+164,173,"ಸಿ.ಬಿ. ಭಂಡಾರಿ ಜೈನ್‌ ಪ್ರಾಥಮಿಕ  ಶಾಲೆ ಮತ್ತು ಪಿ.ಯು. ಕಾಲೇಜ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","C B Bhandari Jain Primary School & P U College, Room No-1"
+164,174,"ರಮಣಶ್ರೀ ಉದಯ  ಎಜುಕೇಶನ್ ಸೊಸೈಟಿ (ರಿ) ನಂ 14, 24ನೇ ಕ್ರಾಸ್ ಕಿಲಾರಿ ರೋಡ್ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ -1","Ramanshree Udaya Education Society No.14, 24th cross Kilari road Bangalore 560053 Room No-1"
+164,175,"ಸಿ.ಬಿ. ಭಂಡಾರಿ ಜೈನ್‌ ಹಿರಿಯ ಪ್ರೌಢಶಾಲೆ , ನಂ.150 ಕಿಲಾರಿ ರೋಡ್ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","C B Bhandari Jain High School , No.150, Kilari road, Bangalore 560053 Room No 2"
+164,176,"ರಮಣಶ್ರೀ  ಉದಯ  ಎಜುಕೇಶನ್ ಸೊಸೈಟಿ (ರಿ) ನಂ-14, 24ನೇ ಕ್ರಾಸ್ ಕಿಲಾರಿ ರಸ್ತೆ  ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","Ramanashree Udaya Education Society (Reg),No-14, 24th cross Kilari Road Bangalore 560053 Room No-2"
+164,177,"ರಮಣಶ್ರೀ ಉದಯ ಎಜುಕೇಶನ್ ಸೊಸೈಟಿ (ರಿ), ನಂ-14, 24ನೇ ಕ್ರಾಸ್ ಕಿಲಾರಿ ರಸ್ತೆ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ-3","Ramanashree Udaya Education Society (Reg),No-14, 24th cross Kilari Road Bangalore 560053 Room No-3"
+164,178,"ಸಿ.ಬಿ . ಭಂಡಾರಿ ಜೈನ್‌ ಹೈ ಸ್ಕೂಲ್ ನಂ-150, ಕಿಲಾರಿ ರಸ್ತೆ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ-3","C.B. Bhandari Jain High School , No-150, Kilari Road Bagalore-560053 Room No-3"
+164,179,"ಸಿ.ಬಿ . ಭಂಡಾರಿ ಜೈನ್‌ ಹೈ ಸ್ಕೂಲ್ ಮತ್ತು ಪಿ.ಯು. ಕಾಲೇಜ್‌, ನಂ-150, ಕಿಲಾರಿ ರಸ್ತೆ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ-4","C.B. Bhandari Jain High School and P.U. College, No-150, Kilari Road, Bangalore 560053 Room No-4"
+164,180,"ಉಪ ನಿರ್ದೇಶಕರ ಕಛೇರಿ, ಸಾರ್ವಜನಿಕರ ಶಿಕ್ಷಣ  ಇಲಾಖೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ  1","Deputy Director, Department of Public Instructions Office  Room No. 1"
+164,181,ಜಂಟಿ ನಿರ್ದೇಶಕರ ಕಚೇರಿ  ಸಾರ್ವಜನಿಕರ  ಶಿಕ್ಷಣ ಇಲಾಖೆ (ಎಮ್‌ಎಮ್‌ಎಸ್)ಕೊಠಡಿ ಸಂಖ್ಯೆ -2,"Office of the Joint Director, Department of Public Instuction  (MMS) Room No. -2"
+164,182,ಜಂಟಿ ನಿರ್ದೇಶಕರ ಕಚೇರಿ ಸಾರ್ವಜನಿಕ  ಶಿಕ್ಷಣ ಇಲಾಖೆ (ಎಮ್‌ಎಮ್‌ಎಸ್)  ಕೊಠಡಿ ಸಂಖ್ಯೆ -3,"Ofice of the Joint Director, Department of Public Instructions (MMS) Room No -3"
+164,183,ಪದ್ಮಶ್ರೀ ಕೃಷ್ನಯ್ಯ ಶೆಟ್ಟಿ ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 1,Padmashree Krishnaiah Shetty Govt  Primary School Room No.1
+164,184,ಪದ್ಮಶ್ರೀ ಕೃಷ್ಣಯ್ಯ ಶೆಟ್ಟಿ ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ 2,Padmashree Krishnaiah Shetty Govt Primary School Room No 2
+164,185,ಪದ್ಮಶ್ರೀ  ಕೃಷ್ಣಯ್ಯ ಶೆಟ್ಟಿ  ಸರ್ಕಾರಿ ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ  ಕೊಠಡಿ ಸಂಖ್ಯೆ 3,Padmashree  Krishnaiah Shetty Govt Primary School Room No. 3
+164,186,"ಶ್ರೀ ವಿ.ಎಸ್.  ಜೈನ್ ಆಯಮ್ಬಿಲ್ ಭವನ್ ನಂ-162, ಲಕ್ಷ್ಮಣ್ ರಾವ್ ರಸ್ತೆ ಹುರಿಯೋಪೇಟೆ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ . 1","Sri V S Jain Ayambil Bhavan No-162, Lakshman Rao Road Huriopet Bangalore 560053 Room No-1"
+164,187,"ಶ್ರೀ ವಿ ಎಸ್ ಜೈನ್  ಆಯಮ್ಬಿಲ್ ಭವನ್  ನಂ-162, ಲಕ್ಷ್ಮಣ್ ರಾವ್ ರಸ್ತೆ ಹುರಿಯೋಪೇಟೆ ಬೆಂಗಳೂರು 560053 ಕೊಠಡಿ ಸಂಖ್ಯೆ.2","Sri V S Jain Ayambil Bhavan No-162, Lakshman Rao Road Huriopet Bangalore 560053 Room No.2"
+164,188,"ಬಿ ಬಿ ಎಂ ಪಿ ಬಾಲಕಿಯರ ಹಿರಿಯ ಪಾಠಶಾಲೆ ,","BBMP Girls Highschool,"
 164,189,"ಬಿ ಬಿ ಎಂ ಪಿ ಬಾಲಕಿಯರ ಹಿರಿಯ ಪಾಠಶಾಲೆ, ಕೆ ವಿ ದೇವಸ್ಥಾನದ ಬೀದಿ,","BBMP Girls Highschool , Room No. 2,, K V Temple Street,"
-164,190,ಬಿಬಿಎಂಪಿ ಬಾಲಕಿಯರ ಪಾಠಶಾಲೆ,BBMP Girls High School
-164,191,ಕಬಾಡಿ ಗಿಡೂಸಾ ಸೋನುಬಾಯಿ ಕಾರ್ಪೋರೇಷನ್ ನರ್ಸರಿ ಶಾಲೆ,"Kabadi Gidusa Sonubai Corporation  Nursery School,"
-164,192,"ಎಸ್‌. ಎಸ್‌. ಕೆ. ಸಂಘ  ಪಾಠಶಾಲೆ, ಕೆ ವಿ ಟಿ ಸ್ಟ್ರೀಟ್‌,ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","S. S. K. Sangha School, K V T Steet, Room No. 1"
-164,193,"ಬಿ ಬಿ ಎಂ ಪಿ  ನರ್ಸರಿ  ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಹೊಸ ಕಟ್ಟಡ","B B M P Nursery And  Primary School, New Building"
-164,194,"ಬಿ ಬಿ ಎಂ ಪಿ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ  ಹೊಸ ಕಟ್ಟಡ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","BBMP Nursery and Primary School, New Building, Room No.2"
-164,195,ನ್ಯೂ ಪ್ರೆಸಿಡೆನ್ಸಿ ಶಾಲೆ,New Presidency School
-164,196,"ಬಿಬಿಎಂಪಿ ಶಿಶುವಿಹಾರ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","BBMP Nursery & Primary School, Room No-1"
-164,197,"ಬಿಬಿಎಂಪಿ ಶಿಶುವಿಹಾರ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","BBMP Nursery & Primary School, Room No-2"
-164,198,"ಬಿಬಿಎಂಪಿ ಶಿಶುವಿಹಾರ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ತಾತ್ಕಾಲಿಕ ಶೆಡ್","BBMP Nursery & Primary School, Temporary shed"
-164,199,"ಬಿ.ಬಿ.ಎಂ.ಪಿ. ಶಿಶುವಿಹಾರ  ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ತಾತ್ಕಾಲಿಕ ಶೆಡ್‌,","BBMP Nursery and Primary School, Temporary Shed"
-164,200,ಕೆಂಪೇಗೌಡ ಶಿಶುವಿಹಾರ  ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Kempegowda Nursery & Primary School
-164,201,"ಬಾಲಾಜಿ ತಮಿಳು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, Room No.1","Balaji Tamil Primary School, Room No.1"
-164,202,"ಬಾಲಾಜಿ ತಮಿಳು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ರೂಂ ನಂ.2","Balaji Tamil Primary School, Room No.2"
-164,203,"ಬಿ.ಬಿ.ಎಂ.ಪಿ. ಪದವಿ ಪೂರ್ವ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","BBMP P.U. College, Room No-1"
-164,204,"ಬಿ.ಬಿ.ಎಂ.ಪಿ. ಪದವಿ ಪೂರ್ವ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","BBMP P.U. College, Room No-2"
-164,205,"ಬಿ.ಬಿ.ಎಂ.ಪಿ. ಪದವಿ ಪೂರ್ವ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ-3","BBMP P.U. College, Room No-3"
-164,206,"ಬಿ.ಬಿ.ಎಂ.ಪಿ. ಪದವಿಪೂರ್ವ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ-4","BBMP P.U. College, Room No-4"
-164,207,"ಸನ್‌ಗ್ಲೋರಿ ಶಾಲೆ ,6ನೇ ಕ್ರಾಸ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","Sunglory School, 6th Cross, Room No-1"
-164,208,"ಸನ್‌ ಗ್ಲೋರಿ ಶಾಲೆ, 6ನೇ ಅಡ್ಡರಸ್ತೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","Sun Glory School, 6th Cross,, Room No-2"
-164,209,"ಸನ್‌ ಗ್ಲೋರಿ ಶಾಲೆ ನೆಲಮಾಳಿಗೆ 6ನೇ ಅಡ್ಡರಸ್ತೆ,,","Sun Glory School Celler 6th Cross,"
-164,210,"ಸನ್‌ ಗ್ಲೋರಿ ಶಾಲೆ ಸಭಾಂಗಣ,6ನೇ ಅಡ್ಡರಸ್ತೆ,","Sunglory School Auditorium, 6th Croos"
-164,211,"1, 3rd Cross, 10th Main Road, K.P.Agrahara, Bangalore - 560053","Padmasree National School, Room No 1, # 15"
-164,212,"1, 3rd Cross, 10th Main Road, K.P.Agrahara, Bangalore - 560053","Padmasree National School, Room No 2, # 15"
-164,213,"1, 3rd Cross, 10th Main Road, K.P.Agrahara, Bangalore - 560053","Padmasree National School, Room No 3, # 15"
-164,214,"ಹೊಸ ಸರ್ಕಾರಿ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಬಾಲಕರ ಪಾಠ ಶಾಲೆ, ತಾತ್ಕಾಲಿಕ ಶೆಡ್‌,","New Govt Kannada Primary Boys School,, Temporary Shed,"
-164,215,"ಹೊಸ ಸರ್ಕಾರಿ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಬಾಲಕರ ಪಾಠ ಶಾಲೆ,, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","New Govt Kannada Primary Boys School, Room No-1"
-164,216,"ಹೊಸ ಸರ್ಕಾರಿ ಕನ್ನಡ ಪ್ರಾಥಮಿಕ ಬಾಲಕರ ಪಾಠ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","New Govt Kannada Primary Boys School, Room No-2"
-164,217,"ಆರೋಗ್ಯ ವೈದ್ಯಾಧಿಕಾರಿ ಕಛೇರಿ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Medical Officer Health Office (MOH), Room No.1"
-164,218,ಆರೋಗ್ಯ ವೈದ್ಯಾಧಿಕಾರಿ ಕಛೇರಿ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,"Medical Officer Health Office (MOH), Room No-2"
-164,219,"ಬಿನ್ನಿಪೇಟೆ  ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Binnypet School, Room No.1"
-164,220,ಬಿನ್ನಿಪೇಟೆ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,"Binnypet School, Room No-2"
-164,221,"ಬಿನ್ನಿಪೇಟೆ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-3","Binnypet School, Room No-3"
-164,222,"ಬಿನ್ನಿಪೇಟೆ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-4","Binnypet School, Room No-4"
-164,223,"ಬಿನ್ನಿಪೇಟೆ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-5","Binnypet School, Room No-5"
-164,224,"ಬೆಂಗಳೂರು ಒನ್ ಬಿಲ್ಡಿಂಗ್,ಪಿ.ಎಮ್.ರಾಮಶರ್ಮ ಪಾರ್ಕ್,ಬಿನ್ನಿ ಮಿಲ್ ರೋಡ್,ಕಾಟನ್ ಪೇಟೆ","Bangalore One Building,P.M.Ramasharma park,Binny Mill road,Cottonpet"
-164,225,"ಬೆಂಗಳೂರು ಒನ್ ಆನೆಕ್ಷುರ್ ಬಿಲ್ಡಿಂಗ್,ಪಿ.ಎಮ್.ರಾಮಶರ್ಮ ಪಾರ್ಕ್,ಬಿನ್ನಿ ಮಿಲ್ ರೋಡ್,ಕಾಟನ್ ಪೇಟೆ","Bangalore One annexure Building,P.M.Ramasharma park,Binny Mill road,Cottonpet"
-164,226,ಬಿಬಿಎಂಪಿ ವಾರ್ಡ್ ಕಛೇರಿ,BBMP Ward Office
+164,190,"ಬಿ ಬಿ ಎಂ ಪಿ ಬಾಲಕಿಯರ ಹಿರಿಯ ಪಾಠಶಾಲೆ, ಕೆ ವಿ ದೇವಸ್ಥಾನದ ಬೀದಿ,","BBMP Girls Highschool , Room No. 2,, K V Temple Street,"
+164,191,ಬಿಬಿಎಂಪಿ ಬಾಲಕಿಯರ ಪಾಠಶಾಲೆ,BBMP Girls High School
+164,192,ಕಬಾಡಿ ಗಿಡೂಸಾ ಸೋನುಬಾಯಿ ಕಾರ್ಪೋರೇಷನ್ ನರ್ಸರಿ ಶಾಲೆ,"Kabadi Gidusa Sonubai Corporation  Nursery School,"
+164,193,"ಎಸ್‌. ಎಸ್‌. ಕೆ. ಸಂಘ  ಪಾಠಶಾಲೆ, ಕೆ ವಿ ಟಿ ಸ್ಟ್ರೀಟ್‌,ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","S. S. K. Sangha School, K V T Steet, Room No. 1"
+164,194,"ಬಿ ಬಿ ಎಂ ಪಿ  ನರ್ಸರಿ  ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,ಹೊಸ ಕಟ್ಟಡ","B B M P Nursery And  Primary School, New Building"
+164,195,"ಬಿ ಬಿ ಎಂ ಪಿ ನರ್ಸರಿ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಶಾಲೆ  ಹೊಸ ಕಟ್ಟಡ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","BBMP Nursery and Primary School, New Building, Room No.2"
+164,196,ನ್ಯೂ ಪ್ರೆಸಿಡೆನ್ಸಿ ಶಾಲೆ,New Presidency School
+164,197,"ಬಿಬಿಎಂಪಿ ಶಿಶುವಿಹಾರ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","BBMP Nursery & Primary School, Room No-1"
+164,198,"ಬಿಬಿಎಂಪಿ ಶಿಶುವಿಹಾರ ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","BBMP Nursery & Primary School, Room No-2"
+164,199,"ಭಾರತೀಯ ಸೇವಾ ಸಂಘ ಶಾಲೆ, ಬಸವರಾಜ್ ಗಲ್ಲಿ","Bharathiya Sevasanga Shale, Basavaraja Galli"
+164,200,"ಬಿ.ಬಿ.ಎಂ.ಪಿ. ಶಿಶುವಿಹಾರ  ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, ತಾತ್ಕಾಲಿಕ ಶೆಡ್‌,","BBMP Nursery and Primary School, Temporary Shed"
+164,201,ಕೆಂಪೇಗೌಡ ಶಿಶುವಿಹಾರ  ಮತ್ತು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ,Kempegowda Nursery & Primary School
+164,202,"ಬಾಲಾಜಿ ತಮಿಳು ಪ್ರಾಥಮಿಕ ಪಾಠಶಾಲೆ, Room No.1","Balaji Tamil Primary School, Room No.1"
+164,203,"ಕಾಶಿ ವಿಶ್ವೇಶ್ವರ ದೇವಸ್ಥಾನ, ಸಮುದಾಯ ಭವನ","Kashivishweshwara Temple, Samudaya Bhavana"
+164,204,"ಬಿ.ಬಿ.ಎಂ.ಪಿ. ಪದವಿ ಪೂರ್ವ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","BBMP P.U. College, Room No-1"
+164,205,"ಬಿ.ಬಿ.ಎಂ.ಪಿ. ಪದವಿ ಪೂರ್ವ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","BBMP P.U. College, Room No-2"
+164,206,"ಬಿ.ಬಿ.ಎಂ.ಪಿ. ಪದವಿ ಪೂರ್ವ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ-3","BBMP P.U. College, Room No-3"
+164,207,"ಬಿ.ಬಿ.ಎಂ.ಪಿ. ಪದವಿಪೂರ್ವ ಕಾಲೇಜು, ಕೊಠಡಿ ಸಂಖ್ಯೆ-4","BBMP P.U. College, Room No-4"
+164,208,"ಸನ್‌ಗ್ಲೋರಿ ಶಾಲೆ ,6ನೇ ಕ್ರಾಸ್‌, ಕೊಠಡಿ ಸಂಖ್ಯೆ-1","Sunglory School, 6th Cross, Room No-1"
+164,209,"ಸನ್‌ ಗ್ಲೋರಿ ಶಾಲೆ, 6ನೇ ಅಡ್ಡರಸ್ತೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-2","Sun Glory School, 6th Cross,, Room No-2"
+164,210,"ಸನ್‌ ಗ್ಲೋರಿ ಶಾಲೆ ನೆಲಮಾಳಿಗೆ 6ನೇ ಅಡ್ಡರಸ್ತೆ,,","Sun Glory School Celler 6th Cross,"
+164,211,"ಸನ್‌ ಗ್ಲೋರಿ ಶಾಲೆ ಸಭಾಂಗಣ,6ನೇ ಅಡ್ಡರಸ್ತೆ,","Sunglory School Auditorium, 6th Croos"
+164,212,"1, 3rd Cross, 10th Main Road, K.P.Agrahara, Bangalore - 560053","Padmasree National School, Room No 1, # 15"
+164,213,"1, 3rd Cross, 10th Main Road, K.P.Agrahara, Bangalore - 560053","Padmasree National School, Room No 2, # 15"
+164,214,"1, 3rd Cross, 10th Main Road, K.P.Agrahara, Bangalore - 560053","Padmasree National School, Room No 3, # 15"
+164,215,"ಕಾಶಿ ವಿಶ್ವೇಶ್ವರ ದೇವಸ್ಥಾನ, ಸಮುದಾಯ ಭವನ","Kashivishweshwara Temple, Samudaya Bhavana"
+164,216,"ಕಾಶಿ ವಿಶ್ವೇಶ್ವರ ದೇವಸ್ಥಾನ, ಸಮುದಾಯ ಭವನ","Kashivishweshwara Temple, Samudaya Bhavana"
+164,217,"ಕಾಶಿ ವಿಶ್ವೇಶ್ವರ ದೇವಸ್ಥಾನ, ಸಮುದಾಯ ಭವನ","Kashivishweshwara Temple, Samudaya Bhavana"
+164,218,"ಆರೋಗ್ಯ ವೈದ್ಯಾಧಿಕಾರಿ ಕಛೇರಿ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Medical Officer Health Office (MOH), Room No.1"
+164,219,ಆರೋಗ್ಯ ವೈದ್ಯಾಧಿಕಾರಿ ಕಛೇರಿ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,"Medical Officer Health Office (MOH), Room No-2"
+164,220,"ಬಿನ್ನಿಪೇಟೆ  ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ.1","Binnypet School, Room No.1"
+164,221,ಬಿನ್ನಿಪೇಟೆ ಶಾಲೆ ಕೊಠಡಿ ಸಂಖ್ಯೆ-2,"Binnypet School, Room No-2"
+164,222,"ಬಿನ್ನಿಪೇಟೆ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-3","Binnypet School, Room No-3"
+164,223,"ಬಿನ್ನಿಪೇಟೆ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-4","Binnypet School, Room No-4"
+164,224,"ಬಿನ್ನಿಪೇಟೆ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ-5","Binnypet School, Room No-5"
+164,225,"ಬೆಂಗಳೂರು ಒನ್ ಬಿಲ್ಡಿಂಗ್,ಪಿ.ಎಮ್.ರಾಮಶರ್ಮ ಪಾರ್ಕ್,ಬಿನ್ನಿ ಮಿಲ್ ರೋಡ್,ಕಾಟನ್ ಪೇಟೆ","Bangalore One Building,P.M.Ramasharma park,Binny Mill road,Cottonpet"
+164,226,"ಬೆಂಗಳೂರು ಒನ್ ಆನೆಕ್ಷುರ್ ಬಿಲ್ಡಿಂಗ್,ಪಿ.ಎಮ್.ರಾಮಶರ್ಮ ಪಾರ್ಕ್,ಬಿನ್ನಿ ಮಿಲ್ ರೋಡ್,ಕಾಟನ್ ಪೇಟೆ","Bangalore One annexure Building,P.M.Ramasharma park,Binny Mill road,Cottonpet"
 164,227,ಬಿಬಿಎಂಪಿ ವಾರ್ಡ್ ಕಛೇರಿ,BBMP Ward Office
-164,228,"ಸಿಂಧಿ  ಪ್ರಾಥಮಿಕ ಸರ್ಕಾರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Sindhi  Primary Govt School, Room No-1"
-164,229,"ಸಿಂಧಿ  ಪ್ರಾಥಮಿಕ ಸರ್ಕಾರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Sindhi  Primary Govt School, Room No-2"
-164,230,ಸೆಂಟ್ ಕ್ಯಾಥರಿನ್ ಹೈ ಸ್ಕೂಲ್,St. Catherine High School
+164,228,ಬಿಬಿಎಂಪಿ ವಾರ್ಡ್ ಕಛೇರಿ,BBMP Ward Office
+164,229,"ಸಿಂಧಿ  ಪ್ರಾಥಮಿಕ ಸರ್ಕಾರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 1","Sindhi  Primary Govt School, Room No-1"
+164,230,"ಸಿಂಧಿ  ಪ್ರಾಥಮಿಕ ಸರ್ಕಾರಿ ಶಾಲೆ, ಕೊಠಡಿ ಸಂಖ್ಯೆ 2","Sindhi  Primary Govt School, Room No-2"
 164,231,ಸೆಂಟ್ ಕ್ಯಾಥರಿನ್ ಹೈ ಸ್ಕೂಲ್,St. Catherine High School
-164,232,ಸೆಂಟ್ ಕ್ಯಾಥರಿನ್ ಹೈ ಸ್ಕೂಲ್,St.Catherine High School
+164,232,ಸೆಂಟ್ ಕ್ಯಾಥರಿನ್ ಹೈ ಸ್ಕೂಲ್,St. Catherine High School
+164,233,ಸೆಂಟ್ ಕ್ಯಾಥರಿನ್ ಹೈ ಸ್ಕೂಲ್,St.Catherine High School
